@@ -47,7 +47,6 @@ for e_base in ['tithi', 'nakshatram', 'yogam', 'karanam']:
         }
     )
 
-
 output_collector = {}
 
 def enumerate_anga(panchangam, anga_entity, d):
@@ -100,8 +99,6 @@ for d in range(1, jyotisha.panchangam.temporal.MAX_SZ - 1):
     for e in entities:
         output_collector[d_str][e['json_name']] = enumerate_anga(panchangam, e, d)
 
-
-#print (output_collector)
 
 json_output = json.dumps(output_collector, indent=4, ensure_ascii=False)
 print (json_output)

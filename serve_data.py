@@ -3,10 +3,6 @@ import json
 from datetime import datetime
 import pytz
 
-
-json_data = json.load(open('seattle_2019.json'))
-
-
 cherrypy.config.update({'server.socket_port': 5000})
 
 class DailyPanchanga(object):
