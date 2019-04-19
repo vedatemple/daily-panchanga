@@ -9,6 +9,7 @@
         "rahu_end": "15:20",
         "yama_start": "10:08",
         "yama_end": "11:10",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ekādaśī",
@@ -48,6 +49,7 @@
         "rahu_end": "13:15",
         "yama_start": "09:06",
         "yama_end": "10:08",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvādaśī",
@@ -87,6 +89,7 @@
         "rahu_end": "14:19",
         "yama_start": "08:03",
         "yama_end": "09:06",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Trayodaśī",
@@ -126,6 +129,7 @@
         "rahu_end": "12:14",
         "yama_start": "14:19",
         "yama_end": "15:22",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturdaśī",
@@ -165,6 +169,7 @@
         "rahu_end": "11:11",
         "yama_start": "13:17",
         "yama_end": "14:20",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Amāvāsyā",
@@ -204,6 +209,7 @@
         "rahu_end": "16:27",
         "yama_start": "12:15",
         "yama_end": "13:18",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Prathamā",
@@ -239,6 +245,7 @@
         "rahu_end": "10:09",
         "yama_start": "11:12",
         "yama_end": "12:15",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvitīyā",
@@ -277,6 +284,7 @@
         "rahu_end": "15:26",
         "yama_start": "10:09",
         "yama_end": "11:12",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Tṛtīyā",
@@ -316,6 +324,7 @@
         "rahu_end": "13:20",
         "yama_start": "09:05",
         "yama_end": "10:09",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturthī",
@@ -355,6 +364,7 @@
         "rahu_end": "14:24",
         "yama_start": "08:01",
         "yama_end": "09:05",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Pañcamī",
@@ -394,6 +404,7 @@
         "rahu_end": "12:17",
         "yama_start": "14:25",
         "yama_end": "15:29",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ṣaṣṭhī"
@@ -428,6 +439,7 @@
         "rahu_end": "11:13",
         "yama_start": "13:22",
         "yama_end": "14:26",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ṣaṣṭhī",
@@ -467,6 +479,7 @@
         "rahu_end": "16:36",
         "yama_start": "12:18",
         "yama_end": "13:22",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Saptamī",
@@ -506,6 +519,7 @@
         "rahu_end": "10:08",
         "yama_start": "11:13",
         "yama_end": "12:18",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Aṣṭamī",
@@ -545,6 +559,7 @@
         "rahu_end": "15:34",
         "yama_start": "10:08",
         "yama_end": "11:13",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Navamī",
@@ -584,6 +599,7 @@
         "rahu_end": "13:24",
         "yama_start": "09:03",
         "yama_end": "10:08",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Daśamī",
@@ -623,6 +639,7 @@
         "rahu_end": "14:30",
         "yama_start": "07:57",
         "yama_end": "09:02",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ekādaśī",
@@ -670,6 +687,7 @@
         "rahu_end": "12:19",
         "yama_start": "14:31",
         "yama_end": "15:37",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Trayodaśī",
@@ -713,6 +731,7 @@
         "rahu_end": "11:14",
         "yama_start": "13:26",
         "yama_end": "14:32",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturdaśī",
@@ -752,6 +771,7 @@
         "rahu_end": "16:46",
         "yama_start": "12:20",
         "yama_end": "13:27",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Paurṇamāsī",
@@ -795,6 +815,7 @@
         "rahu_end": "10:07",
         "yama_start": "11:14",
         "yama_end": "12:20",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Prathamā",
@@ -834,6 +855,7 @@
         "rahu_end": "15:42",
         "yama_start": "10:07",
         "yama_end": "11:14",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvitīyā",
@@ -877,6 +899,7 @@
         "rahu_end": "13:28",
         "yama_start": "08:59",
         "yama_end": "10:06",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Tṛtīyā",
@@ -928,6 +951,7 @@
         "rahu_end": "14:37",
         "yama_start": "07:50",
         "yama_end": "08:58",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Pañcamī",
@@ -967,6 +991,7 @@
         "rahu_end": "12:21",
         "yama_start": "14:37",
         "yama_end": "15:45",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ṣaṣṭhī",
@@ -1006,6 +1031,7 @@
         "rahu_end": "11:13",
         "yama_start": "13:30",
         "yama_end": "14:38",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Saptamī",
@@ -1045,6 +1071,7 @@
         "rahu_end": "16:57",
         "yama_start": "12:22",
         "yama_end": "13:31",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Aṣṭamī",
@@ -1084,6 +1111,7 @@
         "rahu_end": "10:04",
         "yama_start": "11:13",
         "yama_end": "12:22",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Navamī",
@@ -1123,6 +1151,7 @@
         "rahu_end": "15:50",
         "yama_start": "10:03",
         "yama_end": "11:13",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Daśamī",
@@ -1162,6 +1191,7 @@
         "rahu_end": "13:32",
         "yama_start": "08:53",
         "yama_end": "10:03",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ekādaśī",
@@ -1201,6 +1231,7 @@
         "rahu_end": "14:43",
         "yama_start": "07:42",
         "yama_end": "08:52",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvādaśī",
@@ -1240,6 +1271,7 @@
         "rahu_end": "12:23",
         "yama_start": "14:44",
         "yama_end": "15:54",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Trayodaśī"
@@ -1273,6 +1305,7 @@
         "rahu_end": "11:12",
         "yama_start": "13:34",
         "yama_end": "14:44",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Trayodaśī",
@@ -1312,6 +1345,7 @@
         "rahu_end": "17:08",
         "yama_start": "12:23",
         "yama_end": "13:34",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturdaśī",
@@ -1351,6 +1385,7 @@
         "rahu_end": "10:00",
         "yama_start": "11:12",
         "yama_end": "12:23",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Amāvāsyā",
@@ -1390,6 +1425,7 @@
         "rahu_end": "15:59",
         "yama_start": "09:59",
         "yama_end": "11:11",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Śukla-Prathamā",
@@ -1429,6 +1465,7 @@
         "rahu_end": "13:36",
         "yama_start": "08:46",
         "yama_end": "09:59",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvitīyā",
@@ -1464,6 +1501,7 @@
         "rahu_end": "14:49",
         "yama_start": "07:33",
         "yama_end": "08:45",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Śukla-Tṛtīyā",
@@ -1503,6 +1541,7 @@
         "rahu_end": "12:23",
         "yama_start": "14:49",
         "yama_end": "16:03",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturthī",
@@ -1542,6 +1581,7 @@
         "rahu_end": "11:10",
         "yama_start": "13:37",
         "yama_end": "14:50",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Śukla-Pañcamī",
@@ -1581,6 +1621,7 @@
         "rahu_end": "17:19",
         "yama_start": "12:23",
         "yama_end": "13:37",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ṣaṣṭhī",
@@ -1619,6 +1660,7 @@
         "rahu_end": "09:55",
         "yama_start": "11:09",
         "yama_end": "12:23",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Śukla-Saptamī",
@@ -1658,6 +1700,7 @@
         "rahu_end": "16:07",
         "yama_start": "09:54",
         "yama_end": "11:09",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Śukla-Aṣṭamī",
@@ -1697,6 +1740,7 @@
         "rahu_end": "13:38",
         "yama_start": "08:38",
         "yama_end": "09:53",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Śukla-Navamī",
@@ -1736,6 +1780,7 @@
         "rahu_end": "14:54",
         "yama_start": "07:21",
         "yama_end": "08:37",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Śukla-Daśamī",
@@ -1775,6 +1820,7 @@
         "rahu_end": "12:23",
         "yama_start": "14:55",
         "yama_end": "16:11",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ekādaśī",
@@ -1818,6 +1864,7 @@
         "rahu_end": "11:07",
         "yama_start": "13:40",
         "yama_end": "14:56",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvādaśī",
@@ -1865,6 +1912,7 @@
         "rahu_end": "17:30",
         "yama_start": "12:23",
         "yama_end": "13:40",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Śukla-Trayodaśī",
@@ -1904,6 +1952,7 @@
         "rahu_end": "09:49",
         "yama_start": "11:06",
         "yama_end": "12:23",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturdaśī",
@@ -1943,6 +1992,7 @@
         "rahu_end": "16:16",
         "yama_start": "09:48",
         "yama_end": "11:05",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Paurṇamāsī",
@@ -1990,6 +2040,7 @@
         "rahu_end": "13:41",
         "yama_start": "08:29",
         "yama_end": "09:47",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvitīyā",
@@ -2029,6 +2080,7 @@
         "rahu_end": "14:59",
         "yama_start": "07:09",
         "yama_end": "08:28",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Tṛtīyā",
@@ -2072,6 +2124,7 @@
         "rahu_end": "12:23",
         "yama_start": "15:00",
         "yama_end": "16:19",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturthī",
@@ -2115,6 +2168,7 @@
         "rahu_end": "11:03",
         "yama_start": "13:42",
         "yama_end": "15:01",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Pañcamī",
@@ -2154,6 +2208,7 @@
         "rahu_end": "17:41",
         "yama_start": "12:22",
         "yama_end": "13:42",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ṣaṣṭhī",
@@ -2193,6 +2248,7 @@
         "rahu_end": "09:42",
         "yama_start": "11:02",
         "yama_end": "12:22",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Saptamī",
@@ -2232,6 +2288,7 @@
         "rahu_end": "16:23",
         "yama_start": "09:41",
         "yama_end": "11:02",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Aṣṭamī",
@@ -2271,6 +2328,7 @@
         "rahu_end": "13:43",
         "yama_start": "08:19",
         "yama_end": "09:40",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Navamī",
@@ -2310,6 +2368,7 @@
         "rahu_end": "15:04",
         "yama_start": "06:56",
         "yama_end": "08:18",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Daśamī",
@@ -2345,6 +2404,7 @@
         "rahu_end": "12:22",
         "yama_start": "15:05",
         "yama_end": "16:27",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ekādaśī",
@@ -2384,6 +2444,7 @@
         "rahu_end": "10:59",
         "yama_start": "13:44",
         "yama_end": "15:06",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvādaśī",
@@ -2423,6 +2484,7 @@
         "rahu_end": "17:52",
         "yama_start": "12:21",
         "yama_end": "13:44",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Trayodaśī",
@@ -2462,6 +2524,7 @@
         "rahu_end": "09:35",
         "yama_start": "10:58",
         "yama_end": "12:21",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturdaśī",
@@ -2501,6 +2564,7 @@
         "rahu_end": "16:31",
         "yama_start": "09:34",
         "yama_end": "10:57",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Amāvāsyā"
@@ -2535,6 +2599,7 @@
         "rahu_end": "13:44",
         "yama_start": "08:09",
         "yama_end": "09:33",
+        "lunar_month": "Māghaḥ",
         "tithi": [
             {
                 "name": "Amāvāsyā",
@@ -2573,6 +2638,7 @@
         "rahu_end": "15:09",
         "yama_start": "06:43",
         "yama_end": "08:07",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Śukla-Prathamā",
@@ -2612,6 +2678,7 @@
         "rahu_end": "12:20",
         "yama_start": "15:10",
         "yama_end": "16:34",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvitīyā",
@@ -2651,6 +2718,7 @@
         "rahu_end": "10:55",
         "yama_start": "13:45",
         "yama_end": "15:10",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Śukla-Tṛtīyā",
@@ -2690,6 +2758,7 @@
         "rahu_end": "19:02",
         "yama_start": "13:20",
         "yama_end": "14:45",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturthī",
@@ -2729,6 +2798,7 @@
         "rahu_end": "10:27",
         "yama_start": "11:53",
         "yama_end": "13:19",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Śukla-Pañcamī",
@@ -2768,6 +2838,7 @@
         "rahu_end": "17:38",
         "yama_start": "10:26",
         "yama_end": "11:53",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ṣaṣṭhī",
@@ -2807,6 +2878,7 @@
         "rahu_end": "14:46",
         "yama_start": "08:58",
         "yama_end": "10:25",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Śukla-Saptamī",
@@ -2846,6 +2918,7 @@
         "rahu_end": "16:13",
         "yama_start": "07:29",
         "yama_end": "08:56",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Śukla-Aṣṭamī",
@@ -2885,6 +2958,7 @@
         "rahu_end": "13:18",
         "yama_start": "16:14",
         "yama_end": "17:42",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Śukla-Navamī",
@@ -2924,6 +2998,7 @@
         "rahu_end": "11:50",
         "yama_start": "14:46",
         "yama_end": "16:14",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Śukla-Daśamī",
@@ -2963,6 +3038,7 @@
         "rahu_end": "19:12",
         "yama_start": "13:18",
         "yama_end": "14:46",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ekādaśī",
@@ -3010,6 +3086,7 @@
         "rahu_end": "10:19",
         "yama_start": "11:48",
         "yama_end": "13:17",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Śukla-Trayodaśī",
@@ -3057,6 +3134,7 @@
         "rahu_end": "17:46",
         "yama_start": "10:18",
         "yama_end": "11:48",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturdaśī",
@@ -3096,6 +3174,7 @@
         "rahu_end": "14:47",
         "yama_start": "08:47",
         "yama_end": "10:17",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Paurṇamāsī",
@@ -3139,6 +3218,7 @@
         "rahu_end": "16:17",
         "yama_start": "07:15",
         "yama_end": "08:45",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Prathamā",
@@ -3178,6 +3258,7 @@
         "rahu_end": "13:16",
         "yama_start": "16:18",
         "yama_end": "17:49",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvitīyā",
@@ -3217,6 +3298,7 @@
         "rahu_end": "11:45",
         "yama_start": "14:47",
         "yama_end": "16:18",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Tṛtīyā",
@@ -3256,6 +3338,7 @@
         "rahu_end": "19:22",
         "yama_start": "13:16",
         "yama_end": "14:47",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturthī",
@@ -3299,6 +3382,7 @@
         "rahu_end": "10:11",
         "yama_start": "11:43",
         "yama_end": "13:15",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Pañcamī",
@@ -3338,6 +3422,7 @@
         "rahu_end": "17:53",
         "yama_start": "10:10",
         "yama_end": "11:42",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ṣaṣṭhī",
@@ -3377,6 +3462,7 @@
         "rahu_end": "14:48",
         "yama_start": "08:36",
         "yama_end": "10:09",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Saptamī",
@@ -3416,6 +3502,7 @@
         "rahu_end": "16:21",
         "yama_start": "07:01",
         "yama_end": "08:34",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Aṣṭamī",
@@ -3455,6 +3542,7 @@
         "rahu_end": "13:14",
         "yama_start": "16:22",
         "yama_end": "17:56",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Navamī",
@@ -3494,6 +3582,7 @@
         "rahu_end": "11:39",
         "yama_start": "14:48",
         "yama_end": "16:22",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Daśamī",
@@ -3533,6 +3622,7 @@
         "rahu_end": "19:32",
         "yama_start": "13:13",
         "yama_end": "14:48",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ekādaśī",
@@ -3570,6 +3660,7 @@
         "rahu_end": "10:03",
         "yama_start": "11:38",
         "yama_end": "13:13",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvādaśī",
@@ -3605,6 +3696,7 @@
         "rahu_end": "17:59",
         "yama_start": "10:02",
         "yama_end": "11:37",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Trayodaśī",
@@ -3644,6 +3736,7 @@
         "rahu_end": "14:49",
         "yama_start": "08:25",
         "yama_end": "10:01",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturdaśī",
@@ -3683,6 +3776,7 @@
         "rahu_end": "16:25",
         "yama_start": "06:47",
         "yama_end": "08:23",
+        "lunar_month": "Phālgunaḥ",
         "tithi": [
             {
                 "name": "Amāvāsyā",
@@ -3722,6 +3816,7 @@
         "rahu_end": "13:12",
         "yama_start": "16:26",
         "yama_end": "18:02",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Śukla-Prathamā",
@@ -3761,6 +3856,7 @@
         "rahu_end": "11:34",
         "yama_start": "14:49",
         "yama_end": "16:26",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvitīyā",
@@ -3800,6 +3896,7 @@
         "rahu_end": "19:42",
         "yama_start": "13:11",
         "yama_end": "14:49",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Śukla-Tṛtīyā",
@@ -3839,6 +3936,7 @@
         "rahu_end": "09:55",
         "yama_start": "11:33",
         "yama_end": "13:11",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturthī",
@@ -3882,6 +3980,7 @@
         "rahu_end": "18:06",
         "yama_start": "09:54",
         "yama_end": "11:32",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Śukla-Pañcamī",
@@ -3921,6 +4020,7 @@
         "rahu_end": "14:50",
         "yama_start": "08:14",
         "yama_end": "09:53",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Śukla-Ṣaṣṭhī",
@@ -3960,6 +4060,7 @@
         "rahu_end": "16:29",
         "yama_start": "06:33",
         "yama_end": "08:12",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Śukla-Saptamī",
@@ -3999,6 +4100,7 @@
         "rahu_end": "13:10",
         "yama_start": "16:30",
         "yama_end": "18:09",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Śukla-Aṣṭamī",
@@ -4038,6 +4140,7 @@
         "rahu_end": "11:30",
         "yama_start": "14:50",
         "yama_end": "16:30",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Śukla-Navamī",
@@ -4077,6 +4180,7 @@
         "rahu_end": "19:52",
         "yama_start": "13:10",
         "yama_end": "14:50",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Śukla-Daśamī",
@@ -4120,6 +4224,7 @@
         "rahu_end": "09:47",
         "yama_start": "11:28",
         "yama_end": "13:09",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Śukla-Ekādaśī",
@@ -4159,6 +4264,7 @@
         "rahu_end": "18:13",
         "yama_start": "09:46",
         "yama_end": "11:28",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvādaśī",
@@ -4202,6 +4308,7 @@
         "rahu_end": "14:51",
         "yama_start": "08:03",
         "yama_end": "09:45",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Śukla-Trayodaśī",
@@ -4241,6 +4348,7 @@
         "rahu_end": "16:33",
         "yama_start": "06:20",
         "yama_end": "08:02",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturdaśī",
@@ -4288,6 +4396,7 @@
         "rahu_end": "13:08",
         "yama_start": "16:34",
         "yama_end": "18:16",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Prathamā",
@@ -4331,6 +4440,7 @@
         "rahu_end": "11:25",
         "yama_start": "14:51",
         "yama_end": "16:34",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvitīyā",
@@ -4370,6 +4480,7 @@
         "rahu_end": "20:02",
         "yama_start": "13:08",
         "yama_end": "14:51",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Tṛtīyā",
@@ -4409,6 +4520,7 @@
         "rahu_end": "09:40",
         "yama_start": "11:24",
         "yama_end": "13:08",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturthī",
@@ -4448,6 +4560,7 @@
         "rahu_end": "18:20",
         "yama_start": "09:39",
         "yama_end": "11:23",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Pañcamī",
@@ -4487,6 +4600,7 @@
         "rahu_end": "14:52",
         "yama_start": "07:54",
         "yama_end": "09:38",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ṣaṣṭhī",
@@ -4525,6 +4639,7 @@
         "rahu_end": "16:37",
         "yama_start": "06:07",
         "yama_end": "07:52",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Saptamī",
@@ -4564,6 +4679,7 @@
         "rahu_end": "13:07",
         "yama_start": "16:38",
         "yama_end": "18:23",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Aṣṭamī",
@@ -4603,6 +4719,7 @@
         "rahu_end": "11:21",
         "yama_start": "14:53",
         "yama_end": "16:38",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Navamī"
@@ -4637,6 +4754,7 @@
         "rahu_end": "20:11",
         "yama_start": "13:07",
         "yama_end": "14:53",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Navamī",
@@ -4676,6 +4794,7 @@
         "rahu_end": "09:34",
         "yama_start": "11:20",
         "yama_end": "13:07",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Daśamī",
@@ -4715,6 +4834,7 @@
         "rahu_end": "18:27",
         "yama_start": "09:33",
         "yama_end": "11:20",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ekādaśī",
@@ -4754,6 +4874,7 @@
         "rahu_end": "14:54",
         "yama_start": "07:45",
         "yama_end": "09:32",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvādaśī",
@@ -4793,6 +4914,7 @@
         "rahu_end": "16:42",
         "yama_start": "05:56",
         "yama_end": "07:43",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Trayodaśī",
@@ -4832,6 +4954,7 @@
         "rahu_end": "13:06",
         "yama_start": "16:42",
         "yama_end": "18:30",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturdaśī",
@@ -4871,6 +4994,7 @@
         "rahu_end": "11:18",
         "yama_start": "14:54",
         "yama_end": "16:43",
+        "lunar_month": "Caitraḥ",
         "tithi": [
             {
                 "name": "Amāvāsyā",
@@ -4910,6 +5034,7 @@
         "rahu_end": "20:21",
         "yama_start": "13:06",
         "yama_end": "14:55",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Prathamā",
@@ -4949,6 +5074,7 @@
         "rahu_end": "09:28",
         "yama_start": "11:17",
         "yama_end": "13:06",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvitīyā",
@@ -4988,6 +5114,7 @@
         "rahu_end": "18:34",
         "yama_start": "09:27",
         "yama_end": "11:16",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Tṛtīyā",
@@ -5027,6 +5154,7 @@
         "rahu_end": "14:56",
         "yama_start": "07:36",
         "yama_end": "09:26",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturthī",
@@ -5066,6 +5194,7 @@
         "rahu_end": "16:46",
         "yama_start": "05:45",
         "yama_end": "07:35",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Pañcamī",
@@ -5109,6 +5238,7 @@
         "rahu_end": "13:06",
         "yama_start": "16:47",
         "yama_end": "18:37",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ṣaṣṭhī",
@@ -5148,6 +5278,7 @@
         "rahu_end": "11:15",
         "yama_start": "14:56",
         "yama_end": "16:47",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Saptamī",
@@ -5195,6 +5326,7 @@
         "rahu_end": "20:30",
         "yama_start": "13:06",
         "yama_end": "14:57",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Navamī",
@@ -5234,6 +5366,7 @@
         "rahu_end": "09:23",
         "yama_start": "11:14",
         "yama_end": "13:06",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Daśamī",
@@ -5273,6 +5406,7 @@
         "rahu_end": "18:41",
         "yama_start": "09:22",
         "yama_end": "11:14",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ekādaśī",
@@ -5312,6 +5446,7 @@
         "rahu_end": "14:58",
         "yama_start": "07:29",
         "yama_end": "09:21",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvādaśī",
@@ -5351,6 +5486,7 @@
         "rahu_end": "16:50",
         "yama_start": "05:36",
         "yama_end": "07:28",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Trayodaśī",
@@ -5398,6 +5534,7 @@
         "rahu_end": "13:06",
         "yama_start": "16:51",
         "yama_end": "18:44",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturdaśī",
@@ -5437,6 +5574,7 @@
         "rahu_end": "11:13",
         "yama_start": "14:59",
         "yama_end": "16:52",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Paurṇamāsī",
@@ -5476,6 +5614,7 @@
         "rahu_end": "20:39",
         "yama_start": "13:06",
         "yama_end": "14:59",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Prathamā",
@@ -5515,6 +5654,7 @@
         "rahu_end": "09:19",
         "yama_start": "11:12",
         "yama_end": "13:06",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvitīyā",
@@ -5554,6 +5694,7 @@
         "rahu_end": "18:47",
         "yama_start": "09:18",
         "yama_end": "11:12",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Tṛtīyā",
@@ -5593,6 +5734,7 @@
         "rahu_end": "15:00",
         "yama_start": "07:24",
         "yama_end": "09:18",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturthī",
@@ -5632,6 +5774,7 @@
         "rahu_end": "16:55",
         "yama_start": "05:28",
         "yama_end": "07:23",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Pañcamī",
@@ -5671,6 +5814,7 @@
         "rahu_end": "13:06",
         "yama_start": "16:55",
         "yama_end": "18:50",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ṣaṣṭhī",
@@ -5706,6 +5850,7 @@
         "rahu_end": "11:11",
         "yama_start": "15:01",
         "yama_end": "16:56",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Saptamī",
@@ -5745,6 +5890,7 @@
         "rahu_end": "20:47",
         "yama_start": "13:06",
         "yama_end": "15:01",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Aṣṭamī",
@@ -5784,6 +5930,7 @@
         "rahu_end": "09:16",
         "yama_start": "11:11",
         "yama_end": "13:06",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Navamī",
@@ -5822,6 +5969,7 @@
         "rahu_end": "18:53",
         "yama_start": "09:15",
         "yama_end": "11:11",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Daśamī",
@@ -5861,6 +6009,7 @@
         "rahu_end": "15:02",
         "yama_start": "07:19",
         "yama_end": "09:15",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ekādaśī",
@@ -5900,6 +6049,7 @@
         "rahu_end": "16:59",
         "yama_start": "05:23",
         "yama_end": "07:19",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvādaśī",
@@ -5939,6 +6089,7 @@
         "rahu_end": "13:07",
         "yama_start": "16:59",
         "yama_end": "18:55",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Trayodaśī",
@@ -5978,6 +6129,7 @@
         "rahu_end": "11:11",
         "yama_start": "15:03",
         "yama_end": "17:00",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturdaśī",
@@ -6017,6 +6169,7 @@
         "rahu_end": "20:53",
         "yama_start": "13:07",
         "yama_end": "15:04",
+        "lunar_month": "Vaiśākhaḥ",
         "tithi": [
             {
                 "name": "Amāvāsyā",
@@ -6056,6 +6209,7 @@
         "rahu_end": "09:14",
         "yama_start": "11:10",
         "yama_end": "13:07",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Prathamā",
@@ -6095,6 +6249,7 @@
         "rahu_end": "18:58",
         "yama_start": "09:14",
         "yama_end": "11:10",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvitīyā",
@@ -6134,6 +6289,7 @@
         "rahu_end": "15:05",
         "yama_start": "07:16",
         "yama_end": "09:13",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Tṛtīyā",
@@ -6173,6 +6329,7 @@
         "rahu_end": "17:02",
         "yama_start": "05:19",
         "yama_end": "07:16",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturthī",
@@ -6212,6 +6369,7 @@
         "rahu_end": "13:08",
         "yama_start": "17:03",
         "yama_end": "19:00",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Pañcamī",
@@ -6263,6 +6421,7 @@
         "rahu_end": "11:11",
         "yama_start": "15:06",
         "yama_end": "17:03",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ṣaṣṭhī",
@@ -6302,6 +6461,7 @@
         "rahu_end": "20:59",
         "yama_start": "13:08",
         "yama_end": "15:06",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Saptamī",
@@ -6341,6 +6501,7 @@
         "rahu_end": "09:13",
         "yama_start": "11:11",
         "yama_end": "13:08",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Aṣṭamī",
@@ -6380,6 +6541,7 @@
         "rahu_end": "19:02",
         "yama_start": "09:13",
         "yama_end": "11:11",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Navamī",
@@ -6419,6 +6581,7 @@
         "rahu_end": "15:07",
         "yama_start": "07:15",
         "yama_end": "09:13",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Daśamī",
@@ -6466,6 +6629,7 @@
         "rahu_end": "17:05",
         "yama_start": "05:17",
         "yama_end": "07:15",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvādaśī",
@@ -6505,6 +6669,7 @@
         "rahu_end": "13:09",
         "yama_start": "17:05",
         "yama_end": "19:04",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Trayodaśī",
@@ -6544,6 +6709,7 @@
         "rahu_end": "11:11",
         "yama_start": "15:08",
         "yama_end": "17:06",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturdaśī",
@@ -6583,6 +6749,7 @@
         "rahu_end": "21:03",
         "yama_start": "13:10",
         "yama_end": "15:08",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Paurṇamāsī",
@@ -6622,6 +6789,7 @@
         "rahu_end": "09:13",
         "yama_start": "11:12",
         "yama_end": "13:10",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Prathamā",
@@ -6661,6 +6829,7 @@
         "rahu_end": "19:05",
         "yama_start": "09:13",
         "yama_end": "11:12",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvitīyā",
@@ -6700,6 +6869,7 @@
         "rahu_end": "15:09",
         "yama_start": "07:15",
         "yama_end": "09:14",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Tṛtīyā",
@@ -6739,6 +6909,7 @@
         "rahu_end": "17:07",
         "yama_start": "05:17",
         "yama_end": "07:15",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturthī"
@@ -6772,6 +6943,7 @@
         "rahu_end": "13:11",
         "yama_start": "17:07",
         "yama_end": "19:06",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturthī",
@@ -6811,6 +6983,7 @@
         "rahu_end": "11:13",
         "yama_start": "15:09",
         "yama_end": "17:08",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Pañcamī",
@@ -6850,6 +7023,7 @@
         "rahu_end": "21:04",
         "yama_start": "13:11",
         "yama_end": "15:09",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ṣaṣṭhī",
@@ -6889,6 +7063,7 @@
         "rahu_end": "09:15",
         "yama_start": "11:13",
         "yama_end": "13:11",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Saptamī",
@@ -6928,6 +7103,7 @@
         "rahu_end": "19:06",
         "yama_start": "09:15",
         "yama_end": "11:13",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Aṣṭamī",
@@ -6967,6 +7143,7 @@
         "rahu_end": "15:10",
         "yama_start": "07:17",
         "yama_end": "09:15",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Navamī",
@@ -7002,6 +7179,7 @@
         "rahu_end": "17:08",
         "yama_start": "05:19",
         "yama_end": "07:17",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Daśamī",
@@ -7041,6 +7219,7 @@
         "rahu_end": "13:12",
         "yama_start": "17:08",
         "yama_end": "19:06",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ekādaśī",
@@ -7080,6 +7259,7 @@
         "rahu_end": "11:14",
         "yama_start": "15:10",
         "yama_end": "17:08",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvādaśī",
@@ -7123,6 +7303,7 @@
         "rahu_end": "21:04",
         "yama_start": "13:12",
         "yama_end": "15:10",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Trayodaśī",
@@ -7166,6 +7347,7 @@
         "rahu_end": "09:17",
         "yama_start": "11:15",
         "yama_end": "13:13",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturdaśī",
@@ -7205,6 +7387,7 @@
         "rahu_end": "19:06",
         "yama_start": "09:17",
         "yama_end": "11:15",
+        "lunar_month": "Jyaiṣṭhaḥ",
         "tithi": [
             {
                 "name": "Amāvāsyā",
@@ -7244,6 +7427,7 @@
         "rahu_end": "15:11",
         "yama_start": "07:20",
         "yama_end": "09:18",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Prathamā",
@@ -7283,6 +7467,7 @@
         "rahu_end": "17:08",
         "yama_start": "05:23",
         "yama_end": "07:21",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvitīyā",
@@ -7330,6 +7515,7 @@
         "rahu_end": "13:13",
         "yama_start": "17:08",
         "yama_end": "19:05",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturthī",
@@ -7369,6 +7555,7 @@
         "rahu_end": "11:16",
         "yama_start": "15:11",
         "yama_end": "17:08",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Pañcamī",
@@ -7408,6 +7595,7 @@
         "rahu_end": "21:02",
         "yama_start": "13:14",
         "yama_end": "15:11",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ṣaṣṭhī",
@@ -7451,6 +7639,7 @@
         "rahu_end": "09:20",
         "yama_start": "11:17",
         "yama_end": "13:14",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Saptamī",
@@ -7498,6 +7687,7 @@
         "rahu_end": "19:04",
         "yama_start": "09:20",
         "yama_end": "11:17",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Aṣṭamī",
@@ -7537,6 +7727,7 @@
         "rahu_end": "15:11",
         "yama_start": "07:24",
         "yama_end": "09:21",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Navamī",
@@ -7576,6 +7767,7 @@
         "rahu_end": "17:07",
         "yama_start": "05:29",
         "yama_end": "07:25",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Daśamī",
@@ -7615,6 +7807,7 @@
         "rahu_end": "13:14",
         "yama_start": "17:07",
         "yama_end": "19:03",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ekādaśī",
@@ -7654,6 +7847,7 @@
         "rahu_end": "11:18",
         "yama_start": "15:10",
         "yama_end": "17:06",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvādaśī",
@@ -7693,6 +7887,7 @@
         "rahu_end": "20:57",
         "yama_start": "13:14",
         "yama_end": "15:10",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Trayodaśī",
@@ -7731,6 +7926,7 @@
         "rahu_end": "09:24",
         "yama_start": "11:19",
         "yama_end": "13:15",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturdaśī",
@@ -7770,6 +7966,7 @@
         "rahu_end": "19:01",
         "yama_start": "09:24",
         "yama_end": "11:19",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Paurṇamāsī",
@@ -7809,6 +8006,7 @@
         "rahu_end": "15:10",
         "yama_start": "07:30",
         "yama_end": "09:25",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Prathamā",
@@ -7848,6 +8046,7 @@
         "rahu_end": "17:04",
         "yama_start": "05:36",
         "yama_end": "07:30",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvitīyā",
@@ -7883,6 +8082,7 @@
         "rahu_end": "13:15",
         "yama_start": "17:04",
         "yama_end": "18:59",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Tṛtīyā",
@@ -7922,6 +8122,7 @@
         "rahu_end": "11:21",
         "yama_start": "15:09",
         "yama_end": "17:03",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturthī",
@@ -7961,6 +8162,7 @@
         "rahu_end": "20:51",
         "yama_start": "13:15",
         "yama_end": "15:09",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Pañcamī",
@@ -8000,6 +8202,7 @@
         "rahu_end": "09:27",
         "yama_start": "11:21",
         "yama_end": "13:15",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ṣaṣṭhī",
@@ -8039,6 +8242,7 @@
         "rahu_end": "18:55",
         "yama_start": "09:28",
         "yama_end": "11:21",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Saptamī",
@@ -8078,6 +8282,7 @@
         "rahu_end": "15:08",
         "yama_start": "07:35",
         "yama_end": "09:29",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Aṣṭamī"
@@ -8112,6 +8317,7 @@
         "rahu_end": "17:01",
         "yama_start": "05:43",
         "yama_end": "07:36",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Aṣṭamī",
@@ -8150,6 +8356,7 @@
         "rahu_end": "13:15",
         "yama_start": "17:00",
         "yama_end": "18:53",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Navamī",
@@ -8189,6 +8396,7 @@
         "rahu_end": "11:23",
         "yama_start": "15:07",
         "yama_end": "17:00",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Daśamī",
@@ -8228,6 +8436,7 @@
         "rahu_end": "20:43",
         "yama_start": "13:15",
         "yama_end": "15:07",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ekādaśī",
@@ -8275,6 +8484,7 @@
         "rahu_end": "09:32",
         "yama_start": "11:23",
         "yama_end": "13:15",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Trayodaśī",
@@ -8318,6 +8528,7 @@
         "rahu_end": "18:49",
         "yama_start": "09:32",
         "yama_end": "11:23",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturdaśī",
@@ -8357,6 +8568,7 @@
         "rahu_end": "15:06",
         "yama_start": "07:42",
         "yama_end": "09:33",
+        "lunar_month": "Āṣāḍhaḥ",
         "tithi": [
             {
                 "name": "Amāvāsyā",
@@ -8400,6 +8612,7 @@
         "rahu_end": "16:56",
         "yama_start": "05:52",
         "yama_end": "07:43",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Śukla-Prathamā",
@@ -8443,6 +8656,7 @@
         "rahu_end": "13:15",
         "yama_start": "16:56",
         "yama_end": "18:46",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvitīyā",
@@ -8482,6 +8696,7 @@
         "rahu_end": "11:25",
         "yama_start": "15:05",
         "yama_end": "16:55",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Śukla-Tṛtīyā",
@@ -8521,6 +8736,7 @@
         "rahu_end": "20:33",
         "yama_start": "13:15",
         "yama_end": "15:04",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturthī",
@@ -8568,6 +8784,7 @@
         "rahu_end": "09:36",
         "yama_start": "11:25",
         "yama_end": "13:14",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ṣaṣṭhī",
@@ -8611,6 +8828,7 @@
         "rahu_end": "18:41",
         "yama_start": "09:36",
         "yama_end": "11:25",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Śukla-Saptamī",
@@ -8650,6 +8868,7 @@
         "rahu_end": "15:03",
         "yama_start": "07:48",
         "yama_end": "09:37",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Śukla-Aṣṭamī",
@@ -8689,6 +8908,7 @@
         "rahu_end": "16:51",
         "yama_start": "06:01",
         "yama_end": "07:49",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Śukla-Navamī",
@@ -8728,6 +8948,7 @@
         "rahu_end": "13:14",
         "yama_start": "16:50",
         "yama_end": "18:38",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Śukla-Daśamī",
@@ -8767,6 +8988,7 @@
         "rahu_end": "11:26",
         "yama_start": "15:01",
         "yama_end": "16:49",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ekādaśī",
@@ -8806,6 +9028,7 @@
         "rahu_end": "20:23",
         "yama_start": "13:14",
         "yama_end": "15:01",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvādaśī",
@@ -8845,6 +9068,7 @@
         "rahu_end": "09:40",
         "yama_start": "11:27",
         "yama_end": "13:13",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Śukla-Trayodaśī",
@@ -8884,6 +9108,7 @@
         "rahu_end": "18:33",
         "yama_start": "09:40",
         "yama_end": "11:27",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturdaśī",
@@ -8923,6 +9148,7 @@
         "rahu_end": "14:59",
         "yama_start": "07:55",
         "yama_end": "09:41",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Paurṇamāsī",
@@ -8962,6 +9188,7 @@
         "rahu_end": "16:44",
         "yama_start": "06:10",
         "yama_end": "07:56",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Prathamā"
@@ -8996,6 +9223,7 @@
         "rahu_end": "13:13",
         "yama_start": "16:43",
         "yama_end": "18:29",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Prathamā",
@@ -9035,6 +9263,7 @@
         "rahu_end": "11:27",
         "yama_start": "14:57",
         "yama_end": "16:42",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvitīyā",
@@ -9074,6 +9303,7 @@
         "rahu_end": "20:11",
         "yama_start": "13:12",
         "yama_end": "14:57",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Tṛtīyā",
@@ -9112,6 +9342,7 @@
         "rahu_end": "09:44",
         "yama_start": "11:28",
         "yama_end": "13:12",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturthī",
@@ -9151,6 +9382,7 @@
         "rahu_end": "18:23",
         "yama_start": "09:44",
         "yama_end": "11:28",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Pañcamī",
@@ -9190,6 +9422,7 @@
         "rahu_end": "14:55",
         "yama_start": "08:01",
         "yama_end": "09:45",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ṣaṣṭhī",
@@ -9225,6 +9458,7 @@
         "rahu_end": "16:37",
         "yama_start": "06:19",
         "yama_end": "08:02",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Saptamī",
@@ -9264,6 +9498,7 @@
         "rahu_end": "13:11",
         "yama_start": "16:36",
         "yama_end": "18:19",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Aṣṭamī",
@@ -9303,6 +9538,7 @@
         "rahu_end": "11:28",
         "yama_start": "14:53",
         "yama_end": "16:35",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Navamī",
@@ -9342,6 +9578,7 @@
         "rahu_end": "19:58",
         "yama_start": "13:10",
         "yama_end": "14:52",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Daśamī",
@@ -9385,6 +9622,7 @@
         "rahu_end": "09:47",
         "yama_start": "11:29",
         "yama_end": "13:10",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ekādaśī",
@@ -9424,6 +9662,7 @@
         "rahu_end": "18:13",
         "yama_start": "09:48",
         "yama_end": "11:29",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvādaśī",
@@ -9463,6 +9702,7 @@
         "rahu_end": "14:50",
         "yama_start": "08:08",
         "yama_end": "09:48",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Trayodaśī",
@@ -9502,6 +9742,7 @@
         "rahu_end": "16:30",
         "yama_start": "06:28",
         "yama_end": "08:09",
+        "lunar_month": "Śrāvaṇaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturdaśī",
@@ -9557,6 +9798,7 @@
         "rahu_end": "13:09",
         "yama_start": "16:29",
         "yama_end": "18:08",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Śukla-Prathamā",
@@ -9596,6 +9838,7 @@
         "rahu_end": "11:29",
         "yama_start": "14:48",
         "yama_end": "16:28",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvitīyā",
@@ -9639,6 +9882,7 @@
         "rahu_end": "19:44",
         "yama_start": "13:08",
         "yama_end": "14:47",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Śukla-Tṛtīyā",
@@ -9678,6 +9922,7 @@
         "rahu_end": "09:51",
         "yama_start": "11:29",
         "yama_end": "13:08",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturthī",
@@ -9717,6 +9962,7 @@
         "rahu_end": "18:02",
         "yama_start": "09:51",
         "yama_end": "11:30",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Śukla-Pañcamī",
@@ -9756,6 +10002,7 @@
         "rahu_end": "14:45",
         "yama_start": "08:14",
         "yama_end": "09:52",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ṣaṣṭhī",
@@ -9799,6 +10046,7 @@
         "rahu_end": "16:22",
         "yama_start": "06:38",
         "yama_end": "08:15",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Śukla-Saptamī",
@@ -9838,6 +10086,7 @@
         "rahu_end": "13:07",
         "yama_start": "16:21",
         "yama_end": "17:58",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Śukla-Aṣṭamī",
@@ -9877,6 +10126,7 @@
         "rahu_end": "11:30",
         "yama_start": "14:43",
         "yama_end": "16:19",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Śukla-Navamī",
@@ -9916,6 +10166,7 @@
         "rahu_end": "19:30",
         "yama_start": "13:06",
         "yama_end": "14:42",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Śukla-Daśamī",
@@ -9955,6 +10206,7 @@
         "rahu_end": "09:54",
         "yama_start": "11:30",
         "yama_end": "13:06",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ekādaśī",
@@ -9994,6 +10246,7 @@
         "rahu_end": "17:51",
         "yama_start": "09:55",
         "yama_end": "11:30",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvādaśī",
@@ -10033,6 +10286,7 @@
         "rahu_end": "14:40",
         "yama_start": "08:20",
         "yama_end": "09:55",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Śukla-Trayodaśī",
@@ -10071,6 +10325,7 @@
         "rahu_end": "16:13",
         "yama_start": "06:47",
         "yama_end": "08:21",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturdaśī",
@@ -10105,6 +10360,7 @@
         "rahu_end": "13:04",
         "yama_start": "16:12",
         "yama_end": "17:46",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Paurṇamāsī",
@@ -10144,6 +10400,7 @@
         "rahu_end": "11:30",
         "yama_start": "14:38",
         "yama_end": "16:11",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Prathamā",
@@ -10183,6 +10440,7 @@
         "rahu_end": "19:16",
         "yama_start": "13:04",
         "yama_end": "14:37",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvitīyā",
@@ -10222,6 +10480,7 @@
         "rahu_end": "09:58",
         "yama_start": "11:30",
         "yama_end": "13:03",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Tṛtīyā",
@@ -10261,6 +10520,7 @@
         "rahu_end": "17:40",
         "yama_start": "09:58",
         "yama_end": "11:31",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturthī",
@@ -10300,6 +10560,7 @@
         "rahu_end": "14:34",
         "yama_start": "08:27",
         "yama_end": "09:59",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Pañcamī",
@@ -10339,6 +10600,7 @@
         "rahu_end": "16:05",
         "yama_start": "06:56",
         "yama_end": "08:28",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ṣaṣṭhī"
@@ -10373,6 +10635,7 @@
         "rahu_end": "13:02",
         "yama_start": "16:04",
         "yama_end": "17:35",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ṣaṣṭhī",
@@ -10412,6 +10675,7 @@
         "rahu_end": "11:31",
         "yama_start": "14:32",
         "yama_end": "16:03",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Saptamī",
@@ -10451,6 +10715,7 @@
         "rahu_end": "19:02",
         "yama_start": "13:01",
         "yama_end": "14:31",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Aṣṭamī",
@@ -10502,6 +10767,7 @@
         "rahu_end": "10:01",
         "yama_start": "11:31",
         "yama_end": "13:01",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Daśamī",
@@ -10541,6 +10807,7 @@
         "rahu_end": "17:28",
         "yama_start": "10:02",
         "yama_end": "11:31",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ekādaśī",
@@ -10580,6 +10847,7 @@
         "rahu_end": "14:29",
         "yama_start": "08:33",
         "yama_end": "10:02",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvādaśī",
@@ -10619,6 +10887,7 @@
         "rahu_end": "15:57",
         "yama_start": "07:06",
         "yama_end": "08:34",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Trayodaśī",
@@ -10662,6 +10931,7 @@
         "rahu_end": "12:59",
         "yama_start": "15:55",
         "yama_end": "17:24",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturdaśī",
@@ -10701,6 +10971,7 @@
         "rahu_end": "11:31",
         "yama_start": "14:27",
         "yama_end": "15:54",
+        "lunar_month": "Bhādrapadaḥ",
         "tithi": [
             {
                 "name": "Amāvāsyā",
@@ -10748,6 +11019,7 @@
         "rahu_end": "18:47",
         "yama_start": "12:59",
         "yama_end": "14:26",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Śukla-Prathamā",
@@ -10795,6 +11067,7 @@
         "rahu_end": "10:05",
         "yama_start": "11:32",
         "yama_end": "12:58",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Śukla-Tṛtīyā",
@@ -10834,6 +11107,7 @@
         "rahu_end": "17:17",
         "yama_start": "10:05",
         "yama_end": "11:32",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturthī",
@@ -10873,6 +11147,7 @@
         "rahu_end": "14:24",
         "yama_start": "08:40",
         "yama_end": "10:06",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Śukla-Pañcamī",
@@ -10912,6 +11187,7 @@
         "rahu_end": "15:48",
         "yama_start": "07:15",
         "yama_end": "08:41",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ṣaṣṭhī",
@@ -10951,6 +11227,7 @@
         "rahu_end": "12:57",
         "yama_start": "15:47",
         "yama_end": "17:12",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Śukla-Saptamī",
@@ -10990,6 +11267,7 @@
         "rahu_end": "11:32",
         "yama_start": "14:21",
         "yama_end": "15:46",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Śukla-Aṣṭamī",
@@ -11029,6 +11307,7 @@
         "rahu_end": "18:33",
         "yama_start": "12:57",
         "yama_end": "14:21",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Śukla-Navamī",
@@ -11068,6 +11347,7 @@
         "rahu_end": "10:09",
         "yama_start": "11:32",
         "yama_end": "12:56",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Śukla-Daśamī",
@@ -11106,6 +11386,7 @@
         "rahu_end": "17:06",
         "yama_start": "10:09",
         "yama_end": "11:33",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ekādaśī",
@@ -11145,6 +11426,7 @@
         "rahu_end": "14:19",
         "yama_start": "08:47",
         "yama_end": "10:10",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvādaśī",
@@ -11184,6 +11466,7 @@
         "rahu_end": "15:40",
         "yama_start": "07:25",
         "yama_end": "08:48",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Śukla-Trayodaśī"
@@ -11218,6 +11501,7 @@
         "rahu_end": "12:55",
         "yama_start": "15:39",
         "yama_end": "17:01",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Śukla-Trayodaśī",
@@ -11257,6 +11541,7 @@
         "rahu_end": "11:33",
         "yama_start": "14:17",
         "yama_end": "15:38",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturdaśī",
@@ -11296,6 +11581,7 @@
         "rahu_end": "18:20",
         "yama_start": "12:55",
         "yama_end": "14:16",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Paurṇamāsī",
@@ -11335,6 +11621,7 @@
         "rahu_end": "10:13",
         "yama_start": "11:34",
         "yama_end": "12:54",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Prathamā",
@@ -11374,6 +11661,7 @@
         "rahu_end": "16:55",
         "yama_start": "10:13",
         "yama_end": "11:34",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvitīyā",
@@ -11413,6 +11701,7 @@
         "rahu_end": "14:14",
         "yama_start": "08:54",
         "yama_end": "10:14",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Tṛtīyā",
@@ -11452,6 +11741,7 @@
         "rahu_end": "15:33",
         "yama_start": "07:35",
         "yama_end": "08:55",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturthī",
@@ -11491,6 +11781,7 @@
         "rahu_end": "12:54",
         "yama_start": "15:32",
         "yama_end": "16:51",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Pañcamī",
@@ -11530,6 +11821,7 @@
         "rahu_end": "11:35",
         "yama_start": "14:12",
         "yama_end": "15:31",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ṣaṣṭhī",
@@ -11569,6 +11861,7 @@
         "rahu_end": "18:07",
         "yama_start": "12:53",
         "yama_end": "14:12",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Saptamī",
@@ -11608,6 +11901,7 @@
         "rahu_end": "10:17",
         "yama_start": "11:35",
         "yama_end": "12:53",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Aṣṭamī",
@@ -11651,6 +11945,7 @@
         "rahu_end": "16:45",
         "yama_start": "10:18",
         "yama_end": "11:35",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Navamī",
@@ -11690,6 +11985,7 @@
         "rahu_end": "14:10",
         "yama_start": "09:01",
         "yama_end": "10:19",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Daśamī",
@@ -11729,6 +12025,7 @@
         "rahu_end": "15:26",
         "yama_start": "07:46",
         "yama_end": "09:03",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ekādaśī",
@@ -11776,6 +12073,7 @@
         "rahu_end": "12:53",
         "yama_start": "15:25",
         "yama_end": "16:41",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Trayodaśī",
@@ -11815,6 +12113,7 @@
         "rahu_end": "11:37",
         "yama_start": "14:08",
         "yama_end": "15:24",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturdaśī",
@@ -11854,6 +12153,7 @@
         "rahu_end": "17:54",
         "yama_start": "12:52",
         "yama_end": "14:08",
+        "lunar_month": "Āśvayujaḥ",
         "tithi": [
             {
                 "name": "Amāvāsyā",
@@ -11901,6 +12201,7 @@
         "rahu_end": "10:22",
         "yama_start": "11:37",
         "yama_end": "12:52",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Śukla-Prathamā",
@@ -11940,6 +12241,7 @@
         "rahu_end": "16:36",
         "yama_start": "10:23",
         "yama_end": "11:38",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvitīyā",
@@ -11979,6 +12281,7 @@
         "rahu_end": "14:06",
         "yama_start": "09:09",
         "yama_end": "10:24",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Śukla-Tṛtīyā",
@@ -12018,6 +12321,7 @@
         "rahu_end": "15:20",
         "yama_start": "07:57",
         "yama_end": "09:10",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturthī",
@@ -12057,6 +12361,7 @@
         "rahu_end": "12:52",
         "yama_start": "15:19",
         "yama_end": "16:33",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Śukla-Pañcamī",
@@ -12096,6 +12401,7 @@
         "rahu_end": "11:39",
         "yama_start": "14:05",
         "yama_end": "15:18",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ṣaṣṭhī",
@@ -12135,6 +12441,7 @@
         "rahu_end": "16:43",
         "yama_start": "11:52",
         "yama_end": "13:05",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Śukla-Saptamī",
@@ -12174,6 +12481,7 @@
         "rahu_end": "09:27",
         "yama_start": "10:40",
         "yama_end": "11:52",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Śukla-Aṣṭamī",
@@ -12213,6 +12521,7 @@
         "rahu_end": "15:28",
         "yama_start": "09:28",
         "yama_end": "10:40",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Śukla-Navamī",
@@ -12248,6 +12557,7 @@
         "rahu_end": "13:04",
         "yama_start": "08:17",
         "yama_end": "09:29",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Śukla-Daśamī",
@@ -12287,6 +12597,7 @@
         "rahu_end": "14:15",
         "yama_start": "07:07",
         "yama_end": "08:19",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ekādaśī",
@@ -12326,6 +12637,7 @@
         "rahu_end": "11:52",
         "yama_start": "14:14",
         "yama_end": "15:25",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvādaśī",
@@ -12365,6 +12677,7 @@
         "rahu_end": "10:42",
         "yama_start": "13:03",
         "yama_end": "14:13",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Śukla-Trayodaśī",
@@ -12404,6 +12717,7 @@
         "rahu_end": "16:33",
         "yama_start": "11:52",
         "yama_end": "13:03",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturdaśī",
@@ -12443,6 +12757,7 @@
         "rahu_end": "09:33",
         "yama_start": "10:43",
         "yama_end": "11:53",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Paurṇamāsī",
@@ -12481,6 +12796,7 @@
         "rahu_end": "15:21",
         "yama_start": "09:34",
         "yama_end": "10:43",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Prathamā",
@@ -12520,6 +12836,7 @@
         "rahu_end": "13:02",
         "yama_start": "08:26",
         "yama_end": "09:35",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvitīyā",
@@ -12559,6 +12876,7 @@
         "rahu_end": "14:11",
         "yama_start": "07:18",
         "yama_end": "08:27",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Tṛtīyā",
@@ -12598,6 +12916,7 @@
         "rahu_end": "11:53",
         "yama_start": "14:10",
         "yama_end": "15:18",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturthī",
@@ -12637,6 +12956,7 @@
         "rahu_end": "10:45",
         "yama_start": "13:01",
         "yama_end": "14:10",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Pañcamī",
@@ -12676,6 +12996,7 @@
         "rahu_end": "16:25",
         "yama_start": "11:54",
         "yama_end": "13:01",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ṣaṣṭhī",
@@ -12715,6 +13036,7 @@
         "rahu_end": "09:39",
         "yama_start": "10:46",
         "yama_end": "11:54",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Saptamī",
@@ -12754,6 +13076,7 @@
         "rahu_end": "15:15",
         "yama_start": "09:40",
         "yama_end": "10:47",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Aṣṭamī",
@@ -12801,6 +13124,7 @@
         "rahu_end": "13:01",
         "yama_start": "08:34",
         "yama_end": "09:41",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Navamī",
@@ -12840,6 +13164,7 @@
         "rahu_end": "14:08",
         "yama_start": "07:28",
         "yama_end": "08:35",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Daśamī",
@@ -12883,6 +13208,7 @@
         "rahu_end": "11:55",
         "yama_start": "14:07",
         "yama_end": "15:13",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ekādaśī",
@@ -12922,6 +13248,7 @@
         "rahu_end": "10:49",
         "yama_start": "13:01",
         "yama_end": "14:07",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvādaśī",
@@ -12961,6 +13288,7 @@
         "rahu_end": "16:18",
         "yama_start": "11:55",
         "yama_end": "13:01",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Trayodaśī",
@@ -13000,6 +13328,7 @@
         "rahu_end": "09:45",
         "yama_start": "10:50",
         "yama_end": "11:56",
+        "lunar_month": "Kārtikaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturdaśī",
@@ -13051,6 +13380,7 @@
         "rahu_end": "15:11",
         "yama_start": "09:46",
         "yama_end": "10:51",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Prathamā",
@@ -13090,6 +13420,7 @@
         "rahu_end": "13:01",
         "yama_start": "08:42",
         "yama_end": "09:46",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvitīyā",
@@ -13129,6 +13460,7 @@
         "rahu_end": "14:06",
         "yama_start": "07:38",
         "yama_end": "08:43",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Tṛtīyā",
@@ -13168,6 +13500,7 @@
         "rahu_end": "11:57",
         "yama_start": "14:06",
         "yama_end": "15:10",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturthī",
@@ -13207,6 +13540,7 @@
         "rahu_end": "10:53",
         "yama_start": "13:02",
         "yama_end": "14:06",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Pañcamī",
@@ -13246,6 +13580,7 @@
         "rahu_end": "16:14",
         "yama_start": "11:58",
         "yama_end": "13:02",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ṣaṣṭhī",
@@ -13285,6 +13620,7 @@
         "rahu_end": "09:51",
         "yama_start": "10:54",
         "yama_end": "11:58",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Saptamī"
@@ -13319,6 +13655,7 @@
         "rahu_end": "15:09",
         "yama_start": "09:51",
         "yama_end": "10:55",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Saptamī",
@@ -13358,6 +13695,7 @@
         "rahu_end": "13:02",
         "yama_start": "08:49",
         "yama_end": "09:52",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Aṣṭamī",
@@ -13397,6 +13735,7 @@
         "rahu_end": "14:06",
         "yama_start": "07:47",
         "yama_end": "08:50",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Navamī",
@@ -13435,6 +13774,7 @@
         "rahu_end": "12:00",
         "yama_start": "14:06",
         "yama_end": "15:09",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Daśamī",
@@ -13474,6 +13814,7 @@
         "rahu_end": "10:57",
         "yama_start": "13:03",
         "yama_end": "14:06",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Ekādaśī",
@@ -13513,6 +13854,7 @@
         "rahu_end": "16:11",
         "yama_start": "12:01",
         "yama_end": "13:03",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvādaśī",
@@ -13548,6 +13890,7 @@
         "rahu_end": "09:56",
         "yama_start": "10:59",
         "yama_end": "12:01",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Trayodaśī",
@@ -13587,6 +13930,7 @@
         "rahu_end": "15:09",
         "yama_start": "09:57",
         "yama_end": "10:59",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturdaśī",
@@ -13626,6 +13970,7 @@
         "rahu_end": "13:04",
         "yama_start": "08:55",
         "yama_end": "09:57",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Paurṇamāsī",
@@ -13665,6 +14010,7 @@
         "rahu_end": "14:07",
         "yama_start": "07:54",
         "yama_end": "08:56",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Prathamā",
@@ -13708,6 +14054,7 @@
         "rahu_end": "12:03",
         "yama_start": "14:07",
         "yama_end": "15:09",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvitīyā",
@@ -13747,6 +14094,7 @@
         "rahu_end": "11:01",
         "yama_start": "13:05",
         "yama_end": "14:07",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Tṛtīyā",
@@ -13786,6 +14134,7 @@
         "rahu_end": "16:12",
         "yama_start": "12:04",
         "yama_end": "13:06",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturthī",
@@ -13825,6 +14174,7 @@
         "rahu_end": "10:01",
         "yama_start": "11:03",
         "yama_end": "12:04",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Pañcamī",
@@ -13864,6 +14214,7 @@
         "rahu_end": "15:10",
         "yama_start": "10:01",
         "yama_end": "11:03",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ṣaṣṭhī",
@@ -13907,6 +14258,7 @@
         "rahu_end": "13:07",
         "yama_start": "09:00",
         "yama_end": "10:02",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Saptamī",
@@ -13954,6 +14306,7 @@
         "rahu_end": "14:09",
         "yama_start": "07:59",
         "yama_end": "09:01",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Navamī",
@@ -13997,6 +14350,7 @@
         "rahu_end": "12:06",
         "yama_start": "14:10",
         "yama_end": "15:11",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Daśamī",
@@ -14036,6 +14390,7 @@
         "rahu_end": "11:05",
         "yama_start": "13:09",
         "yama_end": "14:10",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Ekādaśī",
@@ -14075,6 +14430,7 @@
         "rahu_end": "16:14",
         "yama_start": "12:07",
         "yama_end": "13:09",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Dvādaśī",
@@ -14114,6 +14470,7 @@
         "rahu_end": "10:05",
         "yama_start": "11:06",
         "yama_end": "12:08",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Trayodaśī",
@@ -14153,6 +14510,7 @@
         "rahu_end": "15:14",
         "yama_start": "10:05",
         "yama_end": "11:07",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Kṛṣṇa-Caturdaśī",
@@ -14192,6 +14550,7 @@
         "rahu_end": "13:11",
         "yama_start": "09:04",
         "yama_end": "10:05",
+        "lunar_month": "Mārgaśīrṣaḥ",
         "tithi": [
             {
                 "name": "Amāvāsyā",
@@ -14231,6 +14590,7 @@
         "rahu_end": "14:13",
         "yama_start": "08:02",
         "yama_end": "09:04",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Prathamā",
@@ -14274,6 +14634,7 @@
         "rahu_end": "12:10",
         "yama_start": "14:14",
         "yama_end": "15:16",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Dvitīyā",
@@ -14313,6 +14674,7 @@
         "rahu_end": "11:09",
         "yama_start": "13:12",
         "yama_end": "14:14",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Tṛtīyā",
@@ -14352,6 +14714,7 @@
         "rahu_end": "16:19",
         "yama_start": "12:11",
         "yama_end": "13:13",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Caturthī",
@@ -14390,6 +14753,7 @@
         "rahu_end": "10:07",
         "yama_start": "11:09",
         "yama_end": "12:11",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [
             {
                 "name": "Śukla-Pañcamī",
@@ -14429,6 +14793,7 @@
         "rahu_end": "15:19",
         "yama_start": "10:08",
         "yama_end": "11:10",
+        "lunar_month": "Pauṣaḥ",
         "tithi": [],
         "nakshatram": [],
         "yogam": [],
