@@ -1,0 +1,3288 @@
+BEGIN:VCALENDAR
+PRODID:ics.py - http://git.io/lLljaA
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190110T000000Z
+DTEND:20190110T000000Z
+SUMMARY:Śukla-Pañcamī / Śatabhiṣak
+DESCRIPTION:Thu 2019-1-10 \nDaytime: 08:01 to 16:32\n\nMonth: Pauṣaḥ\ntithi: Śukla-Pañcamī until 06:24(+1)\nnakshatram: Śatabhiṣak until 16:24\nyogam: Vyatīpātaḥ until 17:00\nkaranam: Bavam until 17:10\nkaranam: Bālavam until 06:24(+1)\n\nRahu kala: 13:20 to 14:24\nYama kala: 08:01 to 09:05
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190111T000000Z
+DTEND:20190111T000000Z
+SUMMARY:Śukla-Ṣaṣṭhī / Pūrvaproṣṭhapadā
+DESCRIPTION:Fri 2019-1-11 \nDaytime: 08:01 to 16:33\n\nMonth: Pauṣaḥ\ntithi: Śukla-Ṣaṣṭhī\nnakshatram: Pūrvaproṣṭhapadā until 19:13\nyogam: Varīyān until 17:43\nkaranam: Kaulavam until 19:33\n\nRahu kala: 11:13 to 12:17\nYama kala: 14:25 to 15:29
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190512T000000Z
+DTEND:20190512T000000Z
+SUMMARY:Śukla-Navamī / Maghā
+DESCRIPTION:Sun 2019-5-12 \nDaytime: 05:41 to 20:30\n\nMonth: Vaiśākhaḥ\ntithi: Śukla-Navamī until 02:51(+1)\nnakshatram: Maghā until 21:57\nyogam: Dhruvaḥ until 19:47\nkaranam: Bālavam until 16:00\nkaranam: Kaulavam until 02:51(+1)\n\nRahu kala: 18:39 to 20:30\nYama kala: 13:06 to 14:57
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190513T000000Z
+DTEND:20190513T000000Z
+SUMMARY:Śukla-Daśamī / Pūrvaphalgunī
+DESCRIPTION:Mon 2019-5-13 \nDaytime: 05:40 to 20:31\n\nMonth: Vaiśākhaḥ\ntithi: Śukla-Daśamī until 00:29(+1)\nnakshatram: Pūrvaphalgunī until 20:23\nyogam: Vyāghātaḥ until 16:48\nkaranam: Taitilam until 13:40\nkaranam: Garajā until 00:29(+1)\n\nRahu kala: 07:31 to 09:23\nYama kala: 11:14 to 13:06
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190112T000000Z
+DTEND:20190112T000000Z
+SUMMARY:Śukla-Ṣaṣṭhī / Uttaraproṣṭhapadā
+DESCRIPTION:Sat 2019-1-12 \nDaytime: 08:00 to 16:35\n\nMonth: Pauṣaḥ\ntithi: Śukla-Ṣaṣṭhī until 08:35\nnakshatram: Uttaraproṣṭhapadā until 21:36\nyogam: Parighaḥ until 18:05\nkaranam: Taitilam until 08:35\nkaranam: Garajā until 21:28\n\nRahu kala: 10:09 to 11:13\nYama kala: 13:22 to 14:26
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190113T000000Z
+DTEND:20190113T000000Z
+SUMMARY:Śukla-Saptamī / Revatī
+DESCRIPTION:Sun 2019-1-13 \nDaytime: 07:59 to 16:36\n\nMonth: Pauṣaḥ\ntithi: Śukla-Saptamī until 10:12\nnakshatram: Revatī until 23:22\nyogam: Śivaḥ until 18:00\nkaranam: Vaṇijā until 10:12\nkaranam: Bhadrā until 22:45\n\nRahu kala: 15:31 to 16:36\nYama kala: 12:18 to 13:22
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190114T000000Z
+DTEND:20190114T000000Z
+SUMMARY:Śukla-Aṣṭamī / Aśvinī
+DESCRIPTION:Mon 2019-1-14 \nDaytime: 07:59 to 16:37\n\nMonth: Pauṣaḥ\ntithi: Śukla-Aṣṭamī until 11:07\nnakshatram: Aśvinī until 00:26(+1)\nyogam: Siddhaḥ until 17:22\nkaranam: Bavam until 11:07\nkaranam: Bālavam until 23:17\n\nRahu kala: 09:04 to 10:08\nYama kala: 11:13 to 12:18
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190115T000000Z
+DTEND:20190115T000000Z
+SUMMARY:Śukla-Navamī / Apabharaṇī
+DESCRIPTION:Tue 2019-1-15 \nDaytime: 07:58 to 16:39\n\nMonth: Pauṣaḥ\ntithi: Śukla-Navamī until 11:15\nnakshatram: Apabharaṇī until 00:42(+1)\nyogam: Sādhyaḥ until 16:07\nkaranam: Kaulavam until 11:15\nkaranam: Taitilam until 23:00\n\nRahu kala: 14:29 to 15:34\nYama kala: 10:08 to 11:13
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190116T000000Z
+DTEND:20190116T000000Z
+SUMMARY:Śukla-Daśamī / Kṛttikā
+DESCRIPTION:Wed 2019-1-16 \nDaytime: 07:58 to 16:40\n\nMonth: Pauṣaḥ\ntithi: Śukla-Daśamī until 10:33\nnakshatram: Kṛttikā until 00:10(+1)\nyogam: Śubhaḥ until 14:14\nkaranam: Garajā until 10:33\nkaranam: Vaṇijā until 21:54\n\nRahu kala: 12:19 to 13:24\nYama kala: 09:03 to 10:08
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190117T000000Z
+DTEND:20190117T000000Z
+SUMMARY:Śukla-Ekādaśī / Rohiṇī
+DESCRIPTION:Thu 2019-1-17 \nDaytime: 07:57 to 16:42\n\nMonth: Pauṣaḥ\ntithi: Śukla-Ekādaśī until 09:04\ntithi: Śukla-Dvādaśī until 06:52(+1)\nnakshatram: Rohiṇī until 22:55\nyogam: Śubhraḥ until 11:43\nkaranam: Bhadrā until 09:04\nkaranam: Bavam until 20:03\nkaranam: Bālavam until 06:52(+1)\n\nRahu kala: 13:25 to 14:30\nYama kala: 07:57 to 09:02
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190118T000000Z
+DTEND:20190118T000000Z
+SUMMARY:Śukla-Trayodaśī / Mṛgaśīrṣam
+DESCRIPTION:Fri 2019-1-18 \nDaytime: 07:56 to 16:43\n\nMonth: Pauṣaḥ\ntithi: Śukla-Trayodaśī until 04:04(+1)\nnakshatram: Mṛgaśīrṣam until 21:01\nyogam: Brāhmaḥ until 08:39\nyogam: Māhendraḥ until 05:07(+1)\nkaranam: Kaulavam until 17:32\nkaranam: Taitilam until 04:04(+1)\n\nRahu kala: 11:14 to 12:19\nYama kala: 14:31 to 15:37
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190119T000000Z
+DTEND:20190119T000000Z
+SUMMARY:Śukla-Caturdaśī / Ārdrā
+DESCRIPTION:Sat 2019-1-19 \nDaytime: 07:55 to 16:44\n\nMonth: Pauṣaḥ\ntithi: Śukla-Caturdaśī until 00:49(+1)\nnakshatram: Ārdrā until 18:37\nyogam: Vaidhṛtiḥ until 01:12(+1)\nkaranam: Garajā until 14:29\nkaranam: Vaṇijā until 00:49(+1)\n\nRahu kala: 10:07 to 11:14\nYama kala: 13:26 to 14:32
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190516T000000Z
+DTEND:20190516T000000Z
+SUMMARY:Śukla-Trayodaśī / Citrā
+DESCRIPTION:Thu 2019-5-16 \nDaytime: 05:36 to 20:35\n\nMonth: Vaiśākhaḥ\ntithi: Śukla-Trayodaśī until 17:34\nnakshatram: Citrā until 15:46\nyogam: Siddhiḥ until 07:51\nyogam: Vyatīpātaḥ until 05:07(+1)\nkaranam: Kaulavam until 06:38\nkaranam: Taitilam until 17:34\nkaranam: Garajā until 04:35(+1)\n\nRahu kala: 14:58 to 16:50\nYama kala: 05:36 to 07:28
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190517T000000Z
+DTEND:20190517T000000Z
+SUMMARY:Śukla-Caturdaśī / Svātī
+DESCRIPTION:Fri 2019-5-17 \nDaytime: 05:35 to 20:36\n\nMonth: Vaiśākhaḥ\ntithi: Śukla-Caturdaśī until 15:40\nnakshatram: Svātī until 14:37\nyogam: Varīyān until 02:40(+1)\nkaranam: Vaṇijā until 15:40\nkaranam: Bhadrā until 02:52(+1)\n\nRahu kala: 11:13 to 13:06\nYama kala: 16:51 to 18:44
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190518T000000Z
+DTEND:20190518T000000Z
+SUMMARY:Paurṇamāsī / Viśākhā
+DESCRIPTION:Sat 2019-5-18 \nDaytime: 05:34 to 20:38\n\nMonth: Vaiśākhaḥ\ntithi: Paurṇamāsī until 14:11\nnakshatram: Viśākhā until 13:52\nyogam: Parighaḥ until 00:36(+1)\nkaranam: Bavam until 14:11\nkaranam: Bālavam until 01:37(+1)\n\nRahu kala: 09:20 to 11:13\nYama kala: 14:59 to 16:52
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190519T000000Z
+DTEND:20190519T000000Z
+SUMMARY:Kṛṣṇa-Prathamā / Anūrādhā
+DESCRIPTION:Sun 2019-5-19 \nDaytime: 05:33 to 20:39\n\nMonth: Vaiśākhaḥ\ntithi: Kṛṣṇa-Prathamā until 13:12\nnakshatram: Anūrādhā until 13:37\nyogam: Śivaḥ until 22:59\nkaranam: Kaulavam until 13:12\nkaranam: Taitilam until 00:57(+1)\n\nRahu kala: 18:46 to 20:39\nYama kala: 13:06 to 14:59
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190917T000000Z
+DTEND:20190917T000000Z
+SUMMARY:Kṛṣṇa-Caturthī / Aśvinī
+DESCRIPTION:Tue 2019-9-17 \nDaytime: 06:54 to 19:12\n\nMonth: Bhādrapadaḥ\ntithi: Kṛṣṇa-Caturthī until 05:41(+1)\nnakshatram: Aśvinī until 18:14\nyogam: Dhruvaḥ until 10:51\nkaranam: Bavam until 16:55\nkaranam: Bālavam until 05:41(+1)\n\nRahu kala: 16:07 to 17:40\nYama kala: 09:58 to 11:31
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190918T000000Z
+DTEND:20190918T000000Z
+SUMMARY:Kṛṣṇa-Pañcamī / Apabharaṇī
+DESCRIPTION:Wed 2019-9-18 \nDaytime: 06:55 to 19:10\n\nMonth: Bhādrapadaḥ\ntithi: Kṛṣṇa-Pañcamī until 06:56(+1)\nnakshatram: Apabharaṇī until 20:15\nyogam: Vyāghātaḥ until 11:04\nkaranam: Kaulavam until 18:22\nkaranam: Taitilam until 06:56(+1)\n\nRahu kala: 13:02 to 14:34\nYama kala: 08:27 to 09:59
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190919T000000Z
+DTEND:20190919T000000Z
+SUMMARY:Kṛṣṇa-Ṣaṣṭhī / Kṛttikā
+DESCRIPTION:Thu 2019-9-19 \nDaytime: 06:56 to 19:08\n\nMonth: Bhādrapadaḥ\ntithi: Kṛṣṇa-Ṣaṣṭhī\nnakshatram: Kṛttikā until 21:50\nyogam: Harṣaṇaḥ until 10:57\nkaranam: Garajā until 19:23\n\nRahu kala: 14:34 to 16:05\nYama kala: 06:56 to 08:28
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191130T000000Z
+DTEND:20191130T000000Z
+SUMMARY:Śukla-Pañcamī / Uttarāṣāḍhā
+DESCRIPTION:Sat 2019-11-30 \nDaytime: 07:41 to 16:14\n\nMonth: Mārgaśīrṣaḥ\ntithi: Śukla-Pañcamī until 05:43(+1)\nnakshatram: Uttarāṣāḍhā until 20:10\nyogam: Vṛddhiḥ until 00:00(+1)\nkaranam: Bavam until 17:03\nkaranam: Bālavam until 05:43(+1)\n\nRahu kala: 09:49 to 10:53\nYama kala: 13:02 to 14:06
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190701T000000Z
+DTEND:20190701T000000Z
+SUMMARY:Kṛṣṇa-Caturdaśī / Mṛgaśīrṣam
+DESCRIPTION:Mon 2019-7-1 \nDaytime: 05:21 to 21:04\n\nMonth: Jyaiṣṭhaḥ\ntithi: Kṛṣṇa-Caturdaśī until 14:35\nnakshatram: Mṛgaśīrṣam until 19:44\nyogam: Vṛddhiḥ until 02:19(+1)\nkaranam: Śakuniḥ until 14:35\nkaranam: Catuṣpāt until 01:29(+1)\n\nRahu kala: 07:19 to 09:17\nYama kala: 11:15 to 13:13
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190702T000000Z
+DTEND:20190702T000000Z
+SUMMARY:Amāvāsyā / Ārdrā
+DESCRIPTION:Tue 2019-7-2 \nDaytime: 05:22 to 21:04\n\nMonth: Jyaiṣṭhaḥ\ntithi: Amāvāsyā until 12:16\nnakshatram: Ārdrā until 18:06\nyogam: Dhruvaḥ until 23:12\nkaranam: Nāgavān until 12:16\nkaranam: Kiṃstughnam until 22:57\n\nRahu kala: 17:08 to 19:06\nYama kala: 09:17 to 11:15
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190703T000000Z
+DTEND:20190703T000000Z
+SUMMARY:Śukla-Prathamā / Punarvasuḥ
+DESCRIPTION:Wed 2019-7-3 \nDaytime: 05:23 to 21:03\n\nMonth: Āṣāḍhaḥ\ntithi: Śukla-Prathamā until 09:34\nnakshatram: Punarvasuḥ until 16:09\nyogam: Vyāghātaḥ until 19:50\nkaranam: Bavam until 09:34\nkaranam: Bālavam until 20:08\n\nRahu kala: 13:13 to 15:11\nYama kala: 07:20 to 09:18
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190704T000000Z
+DTEND:20190704T000000Z
+SUMMARY:Śukla-Dvitīyā / Puṣyaḥ
+DESCRIPTION:Thu 2019-7-4 \nDaytime: 05:23 to 21:03\n\nMonth: Āṣāḍhaḥ\ntithi: Śukla-Dvitīyā until 06:40\ntithi: Śukla-Tṛtīyā until 03:39(+1)\nnakshatram: Puṣyaḥ until 14:00\nyogam: Harṣaṇaḥ until 16:21\nkaranam: Kaulavam until 06:40\nkaranam: Taitilam until 17:09\nkaranam: Garajā until 03:39(+1)\n\nRahu kala: 15:11 to 17:08\nYama kala: 05:23 to 07:21
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190705T000000Z
+DTEND:20190705T000000Z
+SUMMARY:Śukla-Caturthī / Āśreṣā
+DESCRIPTION:Fri 2019-7-5 \nDaytime: 05:24 to 21:03\n\nMonth: Āṣāḍhaḥ\ntithi: Śukla-Caturthī until 00:39(+1)\nnakshatram: Āśreṣā until 11:48\nyogam: Vajraḥ until 12:49\nkaranam: Vaṇijā until 14:08\nkaranam: Bhadrā until 00:39(+1)\n\nRahu kala: 11:16 to 13:13\nYama kala: 17:08 to 19:05
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190706T000000Z
+DTEND:20190706T000000Z
+SUMMARY:Śukla-Pañcamī / Maghā
+DESCRIPTION:Sat 2019-7-6 \nDaytime: 05:25 to 21:02\n\nMonth: Āṣāḍhaḥ\ntithi: Śukla-Pañcamī until 21:49\nnakshatram: Maghā until 09:40\nyogam: Siddhiḥ until 09:21\nkaranam: Bavam until 11:13\nkaranam: Bālavam until 21:49\n\nRahu kala: 09:19 to 11:16\nYama kala: 15:11 to 17:08
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190707T000000Z
+DTEND:20190707T000000Z
+SUMMARY:Śukla-Ṣaṣṭhī / Pūrvaphalgunī
+DESCRIPTION:Sun 2019-7-7 \nDaytime: 05:25 to 21:02\n\nMonth: Āṣāḍhaḥ\ntithi: Śukla-Ṣaṣṭhī until 19:12\nnakshatram: Pūrvaphalgunī until 07:43\nyogam: Vyatīpātaḥ until 06:02\nyogam: Varīyān until 02:57(+1)\nkaranam: Kaulavam until 08:28\nkaranam: Taitilam until 19:12\n\nRahu kala: 19:05 to 21:02\nYama kala: 13:14 to 15:11
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190708T000000Z
+DTEND:20190708T000000Z
+SUMMARY:Śukla-Saptamī / Uttaraphalgunī
+DESCRIPTION:Mon 2019-7-8 \nDaytime: 05:26 to 21:01\n\nMonth: Āṣāḍhaḥ\ntithi: Śukla-Saptamī until 16:54\nnakshatram: Uttaraphalgunī until 06:04\nnakshatram: Hastaḥ until 04:45(+1)\nyogam: Parighaḥ until 00:09(+1)\nkaranam: Garajā until 06:00\nkaranam: Vaṇijā until 16:54\nkaranam: Bhadrā until 03:54(+1)\n\nRahu kala: 07:23 to 09:20\nYama kala: 11:17 to 13:14
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190709T000000Z
+DTEND:20190709T000000Z
+SUMMARY:Śukla-Aṣṭamī / Citrā
+DESCRIPTION:Tue 2019-7-9 \nDaytime: 05:27 to 21:01\n\nMonth: Āṣāḍhaḥ\ntithi: Śukla-Aṣṭamī until 15:00\nnakshatram: Citrā until 03:52(+1)\nyogam: Śivaḥ until 21:40\nkaranam: Bavam until 15:00\nkaranam: Bālavam until 02:13(+1)\n\nRahu kala: 17:07 to 19:04\nYama kala: 09:20 to 11:17
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191110T000000Z
+DTEND:20191110T000000Z
+SUMMARY:Śukla-Caturdaśī / Aśvinī
+DESCRIPTION:Sun 2019-11-10 \nDaytime: 07:12 to 16:33\n\nMonth: Kārtikaḥ\ntithi: Śukla-Caturdaśī until 04:31(+1)\nnakshatram: Aśvinī until 05:47(+1)\nyogam: Siddhiḥ until 21:19\nkaranam: Garajā until 15:50\nkaranam: Vaṇijā until 04:31(+1)\n\nRahu kala: 15:23 to 16:33\nYama kala: 11:52 to 13:03
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191111T000000Z
+DTEND:20191111T000000Z
+SUMMARY:Paurṇamāsī / Apabharaṇī
+DESCRIPTION:Mon 2019-11-11 \nDaytime: 07:13 to 16:32\n\nMonth: Kārtikaḥ\ntithi: Paurṇamāsī until 05:34(+1)\nnakshatram: Apabharaṇī\nyogam: Vyatīpātaḥ until 21:06\nkaranam: Bhadrā until 17:06\nkaranam: Bavam until 05:34(+1)\n\nRahu kala: 08:23 to 09:33\nYama kala: 10:43 to 11:53
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191112T000000Z
+DTEND:20191112T000000Z
+SUMMARY:Kṛṣṇa-Prathamā / Apabharaṇī
+DESCRIPTION:Tue 2019-11-12 \nDaytime: 07:15 to 16:30\n\nMonth: Kārtikaḥ\ntithi: Kṛṣṇa-Prathamā until 06:11(+1)\nnakshatram: Apabharaṇī until 07:21\nyogam: Varīyān until 20:34\nkaranam: Bālavam until 17:56\nkaranam: Kaulavam until 06:11(+1)\n\nRahu kala: 14:12 to 15:21\nYama kala: 09:34 to 10:43
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190120T000000Z
+DTEND:20190120T000000Z
+SUMMARY:Paurṇamāsī / Punarvasuḥ
+DESCRIPTION:Sun 2019-1-20 \nDaytime: 07:54 to 16:46\n\nMonth: Pauṣaḥ\ntithi: Paurṇamāsī until 21:16\nnakshatram: Punarvasuḥ until 15:52\nyogam: Viṣkambhaḥ until 21:03\nkaranam: Bhadrā until 11:04\nkaranam: Bavam until 21:16\nkaranam: Bālavam until 07:25(+1)\n\nRahu kala: 15:39 to 16:46\nYama kala: 12:20 to 13:27
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191113T000000Z
+DTEND:20191113T000000Z
+SUMMARY:Kṛṣṇa-Dvitīyā / Kṛttikā
+DESCRIPTION:Wed 2019-11-13 \nDaytime: 07:16 to 16:29\n\nMonth: Kārtikaḥ\ntithi: Kṛṣṇa-Dvitīyā until 06:24(+1)\nnakshatram: Kṛttikā until 08:31\nyogam: Parighaḥ until 19:43\nkaranam: Taitilam until 18:21\nkaranam: Garajā until 06:24(+1)\n\nRahu kala: 11:53 to 13:02\nYama kala: 08:26 to 09:35
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191114T000000Z
+DTEND:20191114T000000Z
+SUMMARY:Kṛṣṇa-Tṛtīyā / Rohiṇī
+DESCRIPTION:Thu 2019-11-14 \nDaytime: 07:18 to 16:28\n\nMonth: Kārtikaḥ\ntithi: Kṛṣṇa-Tṛtīyā until 06:15(+1)\nnakshatram: Rohiṇī until 09:17\nyogam: Śivaḥ until 18:34\nkaranam: Vaṇijā until 18:23\nkaranam: Bhadrā until 06:15(+1)\n\nRahu kala: 13:02 to 14:11\nYama kala: 07:18 to 08:27
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191115T000000Z
+DTEND:20191115T000000Z
+SUMMARY:Kṛṣṇa-Caturthī / Mṛgaśīrṣam
+DESCRIPTION:Fri 2019-11-15 \nDaytime: 07:19 to 16:27\n\nMonth: Kārtikaḥ\ntithi: Kṛṣṇa-Caturthī until 05:45(+1)\nnakshatram: Mṛgaśīrṣam until 09:42\nyogam: Siddhaḥ until 17:08\nkaranam: Bavam until 18:03\nkaranam: Bālavam until 05:45(+1)\n\nRahu kala: 10:45 to 11:53\nYama kala: 14:10 to 15:18
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191116T000000Z
+DTEND:20191116T000000Z
+SUMMARY:Kṛṣṇa-Pañcamī / Ārdrā
+DESCRIPTION:Sat 2019-11-16 \nDaytime: 07:21 to 16:26\n\nMonth: Kārtikaḥ\ntithi: Kṛṣṇa-Pañcamī until 04:53(+1)\nnakshatram: Ārdrā until 09:46\nyogam: Sādhyaḥ until 15:26\nkaranam: Kaulavam until 17:21\nkaranam: Taitilam until 04:53(+1)\n\nRahu kala: 09:37 to 10:45\nYama kala: 13:01 to 14:10
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190121T000000Z
+DTEND:20190121T000000Z
+SUMMARY:Kṛṣṇa-Prathamā / Puṣyaḥ
+DESCRIPTION:Mon 2019-1-21 \nDaytime: 07:53 to 16:47\n\nMonth: Pauṣaḥ\ntithi: Kṛṣṇa-Prathamā until 17:35\nnakshatram: Puṣyaḥ until 12:57\nyogam: Prītiḥ until 16:48\nkaranam: Kaulavam until 17:35\nkaranam: Taitilam until 03:44(+1)\n\nRahu kala: 09:00 to 10:07\nYama kala: 11:14 to 12:20
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191117T000000Z
+DTEND:20191117T000000Z
+SUMMARY:Kṛṣṇa-Ṣaṣṭhī / Punarvasuḥ
+DESCRIPTION:Sun 2019-11-17 \nDaytime: 07:22 to 16:25\n\nMonth: Kārtikaḥ\ntithi: Kṛṣṇa-Ṣaṣṭhī until 03:39(+1)\nnakshatram: Punarvasuḥ until 09:29\nyogam: Śubhaḥ until 13:26\nkaranam: Garajā until 16:19\nkaranam: Vaṇijā until 03:39(+1)\n\nRahu kala: 15:17 to 16:25\nYama kala: 11:54 to 13:01
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191118T000000Z
+DTEND:20191118T000000Z
+SUMMARY:Kṛṣṇa-Saptamī / Puṣyaḥ
+DESCRIPTION:Mon 2019-11-18 \nDaytime: 07:24 to 16:24\n\nMonth: Kārtikaḥ\ntithi: Kṛṣṇa-Saptamī until 02:05(+1)\nnakshatram: Puṣyaḥ until 08:51\nyogam: Śubhraḥ until 11:10\nkaranam: Bhadrā until 14:55\nkaranam: Bavam until 02:05(+1)\n\nRahu kala: 08:31 to 09:39\nYama kala: 10:46 to 11:54
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191119T000000Z
+DTEND:20191119T000000Z
+SUMMARY:Kṛṣṇa-Aṣṭamī / Āśreṣā
+DESCRIPTION:Tue 2019-11-19 \nDaytime: 07:25 to 16:23\n\nMonth: Kārtikaḥ\ntithi: Kṛṣṇa-Aṣṭamī until 00:11(+1)\nnakshatram: Āśreṣā until 07:52\nnakshatram: Maghā until 06:34(+1)\nyogam: Brāhmaḥ until 08:36\nyogam: Māhendraḥ until 05:48(+1)\nkaranam: Bālavam until 13:10\nkaranam: Kaulavam until 00:11(+1)\n\nRahu kala: 14:08 to 15:15\nYama kala: 09:40 to 10:47
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190122T000000Z
+DTEND:20190122T000000Z
+SUMMARY:Kṛṣṇa-Dvitīyā / Āśreṣā
+DESCRIPTION:Tue 2019-1-22 \nDaytime: 07:52 to 16:49\n\nMonth: Pauṣaḥ\ntithi: Kṛṣṇa-Dvitīyā until 13:56\nnakshatram: Āśreṣā until 10:02\nnakshatram: Maghā until 07:16(+1)\nyogam: Āyuṣmān until 12:34\nkaranam: Garajā until 13:56\nkaranam: Vaṇijā until 00:10(+1)\n\nRahu kala: 14:35 to 15:42\nYama kala: 10:07 to 11:14
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190123T000000Z
+DTEND:20190123T000000Z
+SUMMARY:Kṛṣṇa-Tṛtīyā / Pūrvaphalgunī
+DESCRIPTION:Wed 2019-1-23 \nDaytime: 07:51 to 16:50\n\nMonth: Pauṣaḥ\ntithi: Kṛṣṇa-Tṛtīyā until 10:29\ntithi: Kṛṣṇa-Caturthī until 07:23(+1)\nnakshatram: Pūrvaphalgunī until 04:51(+1)\nyogam: Saubhāgyam until 08:29\nyogam: Śobhanaḥ until 04:41(+1)\nkaranam: Bhadrā until 10:29\nkaranam: Bavam until 20:53\nkaranam: Bālavam until 07:23(+1)\n\nRahu kala: 12:21 to 13:28\nYama kala: 08:59 to 10:06
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190220T000000Z
+DTEND:20190220T000000Z
+SUMMARY:Kṛṣṇa-Dvitīyā / Pūrvaphalgunī
+DESCRIPTION:Wed 2019-2-20 \nDaytime: 07:11 to 17:35\n\nMonth: Māghaḥ\ntithi: Kṛṣṇa-Dvitīyā until 00:31(+1)\nnakshatram: Pūrvaphalgunī until 15:34\nyogam: Sukarma until 13:42\nkaranam: Taitilam until 14:17\nkaranam: Garajā until 00:31(+1)\n\nRahu kala: 12:23 to 13:41\nYama kala: 08:29 to 09:47
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190222T000000Z
+DTEND:20190222T000000Z
+SUMMARY:Kṛṣṇa-Caturthī / Hastaḥ
+DESCRIPTION:Fri 2019-2-22 \nDaytime: 07:08 to 17:38\n\nMonth: Māghaḥ\ntithi: Kṛṣṇa-Caturthī until 18:41\nnakshatram: Hastaḥ until 10:47\nyogam: Gaṇḍaḥ until 02:54(+1)\nkaranam: Bavam until 07:55\nkaranam: Bālavam until 18:41\nkaranam: Kaulavam until 05:36(+1)\n\nRahu kala: 11:04 to 12:23\nYama kala: 15:00 to 16:19
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190228T000000Z
+DTEND:20190228T000000Z
+SUMMARY:Kṛṣṇa-Daśamī / Mūlā
+DESCRIPTION:Thu 2019-2-28 \nDaytime: 06:56 to 17:47\n\nMonth: Māghaḥ\ntithi: Kṛṣṇa-Daśamī until 19:09\nnakshatram: Mūlā until 13:36\nyogam: Siddhiḥ until 21:12\nkaranam: Bhadrā until 19:09\n\nRahu kala: 13:43 to 15:04\nYama kala: 06:56 to 08:18
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190320T000000Z
+DTEND:20190320T000000Z
+SUMMARY:Paurṇamāsī / Uttaraphalgunī
+DESCRIPTION:Wed 2019-3-20 \nDaytime: 07:17 to 19:17\n\nMonth: Phālgunaḥ\ntithi: Paurṇamāsī until 18:42\nnakshatram: Uttaraphalgunī until 01:04(+1)\nyogam: Gaṇḍaḥ until 20:37\nkaranam: Bhadrā until 08:28\nkaranam: Bavam until 18:42\nkaranam: Bālavam until 05:00(+1)\n\nRahu kala: 13:17 to 14:47\nYama kala: 08:47 to 10:17
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190321T000000Z
+DTEND:20190321T000000Z
+SUMMARY:Kṛṣṇa-Prathamā / Hastaḥ
+DESCRIPTION:Thu 2019-3-21 \nDaytime: 07:15 to 19:18\n\nMonth: Phālgunaḥ\ntithi: Kṛṣṇa-Prathamā until 15:22\nnakshatram: Hastaḥ until 22:36\nyogam: Vṛddhiḥ until 16:44\nkaranam: Kaulavam until 15:22\nkaranam: Taitilam until 01:50(+1)\n\nRahu kala: 14:47 to 16:17\nYama kala: 07:15 to 08:45
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190324T000000Z
+DTEND:20190324T000000Z
+SUMMARY:Kṛṣṇa-Caturthī / Viśākhā
+DESCRIPTION:Sun 2019-3-24 \nDaytime: 07:09 to 19:22\n\nMonth: Phālgunaḥ\ntithi: Kṛṣṇa-Caturthī until 08:21\nnakshatram: Viśākhā until 18:33\nyogam: Harṣaṇaḥ until 07:35\nyogam: Vajraḥ until 05:43(+1)\nkaranam: Bālavam until 08:21\nkaranam: Kaulavam until 19:49\n\nRahu kala: 17:51 to 19:22\nYama kala: 13:16 to 14:47
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190325T000000Z
+DTEND:20190325T000000Z
+SUMMARY:Kṛṣṇa-Pañcamī / Anūrādhā
+DESCRIPTION:Mon 2019-3-25 \nDaytime: 07:07 to 19:24\n\nMonth: Phālgunaḥ\ntithi: Kṛṣṇa-Pañcamī until 07:30\nnakshatram: Anūrādhā until 18:45\nyogam: Siddhiḥ until 04:34(+1)\nkaranam: Taitilam until 07:30\nkaranam: Garajā until 19:24\n\nRahu kala: 08:39 to 10:11\nYama kala: 11:43 to 13:15
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190326T000000Z
+DTEND:20190326T000000Z
+SUMMARY:Kṛṣṇa-Ṣaṣṭhī / Jyeṣṭhā
+DESCRIPTION:Tue 2019-3-26 \nDaytime: 07:05 to 19:25\n\nMonth: Phālgunaḥ\ntithi: Kṛṣṇa-Ṣaṣṭhī until 07:31\nnakshatram: Jyeṣṭhā until 19:49\nyogam: Vyatīpātaḥ until 04:05(+1)\nkaranam: Vaṇijā until 07:31\nkaranam: Bhadrā until 19:52\n\nRahu kala: 16:20 to 17:53\nYama kala: 10:10 to 11:42
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190327T000000Z
+DTEND:20190327T000000Z
+SUMMARY:Kṛṣṇa-Saptamī / Mūlā
+DESCRIPTION:Wed 2019-3-27 \nDaytime: 07:03 to 19:27\n\nMonth: Phālgunaḥ\ntithi: Kṛṣṇa-Saptamī until 08:25\nnakshatram: Mūlā until 21:40\nyogam: Varīyān until 04:12(+1)\nkaranam: Bavam until 08:25\nkaranam: Bālavam until 21:09\n\nRahu kala: 13:15 to 14:48\nYama kala: 08:36 to 10:09
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190328T000000Z
+DTEND:20190328T000000Z
+SUMMARY:Kṛṣṇa-Aṣṭamī / Pūrvāṣāḍhā
+DESCRIPTION:Thu 2019-3-28 \nDaytime: 07:01 to 19:28\n\nMonth: Phālgunaḥ\ntithi: Kṛṣṇa-Aṣṭamī until 10:04\nnakshatram: Pūrvāṣāḍhā until 00:11(+1)\nyogam: Parighaḥ until 04:47(+1)\nkaranam: Kaulavam until 10:04\nkaranam: Taitilam until 23:07\n\nRahu kala: 14:48 to 16:21\nYama kala: 07:01 to 08:34
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190329T000000Z
+DTEND:20190329T000000Z
+SUMMARY:Kṛṣṇa-Navamī / Uttarāṣāḍhā
+DESCRIPTION:Fri 2019-3-29 \nDaytime: 06:59 to 19:29\n\nMonth: Phālgunaḥ\ntithi: Kṛṣṇa-Navamī until 12:18\nnakshatram: Uttarāṣāḍhā until 03:08(+1)\nyogam: Śivaḥ until 05:42(+1)\nkaranam: Garajā until 12:18\nkaranam: Vaṇijā until 01:34(+1)\n\nRahu kala: 11:40 to 13:14\nYama kala: 16:22 to 17:56
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190420T000000Z
+DTEND:20190420T000000Z
+SUMMARY:Kṛṣṇa-Dvitīyā / Viśākhā
+DESCRIPTION:Sat 2019-4-20 \nDaytime: 06:16 to 20:00\n\nMonth: Caitraḥ\ntithi: Kṛṣṇa-Dvitīyā until 00:02(+1)\nnakshatram: Viśākhā until 04:31(+1)\nyogam: Siddhiḥ until 17:12\nkaranam: Taitilam until 12:52\nkaranam: Garajā until 00:02(+1)\n\nRahu kala: 09:42 to 11:25\nYama kala: 14:51 to 16:34
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191101T000000Z
+DTEND:20191101T000000Z
+SUMMARY:Śukla-Pañcamī / Mūlā
+DESCRIPTION:Fri 2019-11-1 \nDaytime: 07:58 to 17:46\n\nMonth: Kārtikaḥ\ntithi: Śukla-Pañcamī until 12:21\nnakshatram: Mūlā until 09:22\nyogam: Sukarma until 18:21\nkaranam: Bālavam until 12:21\nkaranam: Kaulavam until 00:35(+1)\n\nRahu kala: 11:39 to 12:52\nYama kala: 15:19 to 16:33
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191102T000000Z
+DTEND:20191102T000000Z
+SUMMARY:Śukla-Ṣaṣṭhī / Pūrvāṣāḍhā
+DESCRIPTION:Sat 2019-11-2 \nDaytime: 08:00 to 17:45\n\nMonth: Kārtikaḥ\ntithi: Śukla-Ṣaṣṭhī until 13:01\nnakshatram: Pūrvāṣāḍhā until 10:31\nyogam: Dhṛtiḥ until 17:54\nkaranam: Taitilam until 13:01\nkaranam: Garajā until 01:38(+1)\n\nRahu kala: 10:26 to 11:39\nYama kala: 14:05 to 15:18
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191103T000000Z
+DTEND:20191103T000000Z
+SUMMARY:Śukla-Saptamī / Uttarāṣāḍhā
+DESCRIPTION:Sun 2019-11-3 \nDaytime: 07:01 to 16:43\n\nMonth: Kārtikaḥ\ntithi: Śukla-Saptamī until 13:26\nnakshatram: Uttarāṣāḍhā until 11:25\nyogam: Śūlaḥ until 16:59\nkaranam: Vaṇijā until 13:26\nkaranam: Bhadrā until 02:22(+1)\n\nRahu kala: 15:30 to 16:43\nYama kala: 11:52 to 13:05
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191104T000000Z
+DTEND:20191104T000000Z
+SUMMARY:Śukla-Aṣṭamī / Śravaṇam
+DESCRIPTION:Mon 2019-11-4 \nDaytime: 07:03 to 16:42\n\nMonth: Kārtikaḥ\ntithi: Śukla-Aṣṭamī until 15:27\nnakshatram: Śravaṇam until 13:53\nyogam: Gaṇḍaḥ until 17:30\nkaranam: Bavam until 15:27\nkaranam: Bālavam until 04:37(+1)\n\nRahu kala: 08:15 to 09:27\nYama kala: 10:40 to 11:52
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191105T000000Z
+DTEND:20191105T000000Z
+SUMMARY:Śukla-Navamī / Śraviṣṭhā
+DESCRIPTION:Tue 2019-11-5 \nDaytime: 07:04 to 16:40\n\nMonth: Kārtikaḥ\ntithi: Śukla-Navamī until 17:51\nnakshatram: Śraviṣṭhā until 16:45\nyogam: Vṛddhiḥ until 18:18\nkaranam: Kaulavam until 17:51\n\nRahu kala: 14:16 to 15:28\nYama kala: 09:28 to 10:40
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191106T000000Z
+DTEND:20191106T000000Z
+SUMMARY:Śukla-Daśamī / Śatabhiṣak
+DESCRIPTION:Wed 2019-11-6 \nDaytime: 07:06 to 16:39\n\nMonth: Kārtikaḥ\ntithi: Śukla-Daśamī until 20:25\nnakshatram: Śatabhiṣak until 19:45\nyogam: Dhruvaḥ until 19:12\nkaranam: Taitilam until 07:08\nkaranam: Garajā until 20:25\n\nRahu kala: 11:52 to 13:04\nYama kala: 08:17 to 09:29
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191107T000000Z
+DTEND:20191107T000000Z
+SUMMARY:Śukla-Ekādaśī / Pūrvaproṣṭhapadā
+DESCRIPTION:Thu 2019-11-7 \nDaytime: 07:07 to 16:37\n\nMonth: Kārtikaḥ\ntithi: Śukla-Ekādaśī until 22:54\nnakshatram: Pūrvaproṣṭhapadā until 22:42\nyogam: Vyāghātaḥ until 20:04\nkaranam: Vaṇijā until 09:41\nkaranam: Bhadrā until 22:54\n\nRahu kala: 13:03 to 14:15\nYama kala: 07:07 to 08:19
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191108T000000Z
+DTEND:20191108T000000Z
+SUMMARY:Śukla-Dvādaśī / Uttaraproṣṭhapadā
+DESCRIPTION:Fri 2019-11-8 \nDaytime: 07:09 to 16:36\n\nMonth: Kārtikaḥ\ntithi: Śukla-Dvādaśī until 01:09(+1)\nnakshatram: Uttaraproṣṭhapadā until 01:26(+1)\nyogam: Harṣaṇaḥ until 20:45\nkaranam: Bavam until 12:04\nkaranam: Bālavam until 01:09(+1)\n\nRahu kala: 10:41 to 11:52\nYama kala: 14:14 to 15:25
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191109T000000Z
+DTEND:20191109T000000Z
+SUMMARY:Śukla-Trayodaśī / Revatī
+DESCRIPTION:Sat 2019-11-9 \nDaytime: 07:10 to 16:34\n\nMonth: Kārtikaḥ\ntithi: Śukla-Trayodaśī until 03:03(+1)\nnakshatram: Revatī until 03:49(+1)\nyogam: Vajraḥ until 21:11\nkaranam: Kaulavam until 14:09\nkaranam: Taitilam until 03:03(+1)\n\nRahu kala: 09:31 to 10:42\nYama kala: 13:03 to 14:13
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190401T000000Z
+DTEND:20190401T000000Z
+SUMMARY:Kṛṣṇa-Dvādaśī / Śraviṣṭhā
+DESCRIPTION:Mon 2019-4-1 \nDaytime: 06:53 to 19:34\n\nMonth: Phālgunaḥ\ntithi: Kṛṣṇa-Dvādaśī until 20:08\nnakshatram: Śraviṣṭhā until 09:24\nyogam: Sādhyaḥ until 07:47\nkaranam: Taitilam until 20:08\n\nRahu kala: 08:28 to 10:03\nYama kala: 11:38 to 13:13
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190402T000000Z
+DTEND:20190402T000000Z
+SUMMARY:Kṛṣṇa-Trayodaśī / Śatabhiṣak
+DESCRIPTION:Tue 2019-4-2 \nDaytime: 06:51 to 19:35\n\nMonth: Phālgunaḥ\ntithi: Kṛṣṇa-Trayodaśī until 22:26\nnakshatram: Śatabhiṣak until 12:19\nyogam: Śubhaḥ until 08:40\nkaranam: Garajā until 09:20\nkaranam: Vaṇijā until 22:26\n\nRahu kala: 16:24 to 17:59\nYama kala: 10:02 to 11:37
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190403T000000Z
+DTEND:20190403T000000Z
+SUMMARY:Kṛṣṇa-Caturdaśī / Pūrvaproṣṭhapadā
+DESCRIPTION:Wed 2019-4-3 \nDaytime: 06:49 to 19:36\n\nMonth: Phālgunaḥ\ntithi: Kṛṣṇa-Caturdaśī until 00:21(+1)\nnakshatram: Pūrvaproṣṭhapadā until 14:55\nyogam: Śubhraḥ until 09:18\nkaranam: Bhadrā until 11:27\nkaranam: Śakuniḥ until 00:21(+1)\n\nRahu kala: 13:13 to 14:49\nYama kala: 08:25 to 10:01
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190404T000000Z
+DTEND:20190404T000000Z
+SUMMARY:Amāvāsyā / Uttaraproṣṭhapadā
+DESCRIPTION:Thu 2019-4-4 \nDaytime: 06:47 to 19:38\n\nMonth: Phālgunaḥ\ntithi: Amāvāsyā until 01:50(+1)\nnakshatram: Uttaraproṣṭhapadā until 17:06\nyogam: Brāhmaḥ until 09:37\nkaranam: Catuṣpāt until 13:09\nkaranam: Nāgavān until 01:50(+1)\n\nRahu kala: 14:49 to 16:25\nYama kala: 06:47 to 08:23
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190405T000000Z
+DTEND:20190405T000000Z
+SUMMARY:Śukla-Prathamā / Revatī
+DESCRIPTION:Fri 2019-4-5 \nDaytime: 06:45 to 19:39\n\nMonth: Caitraḥ\ntithi: Śukla-Prathamā until 02:53(+1)\nnakshatram: Revatī until 18:52\nyogam: Māhendraḥ until 09:37\nkaranam: Kiṃstughnam until 14:25\nkaranam: Bavam until 02:53(+1)\n\nRahu kala: 11:35 to 13:12\nYama kala: 16:26 to 18:02
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190406T000000Z
+DTEND:20190406T000000Z
+SUMMARY:Śukla-Dvitīyā / Aśvinī
+DESCRIPTION:Sat 2019-4-6 \nDaytime: 06:43 to 19:41\n\nMonth: Caitraḥ\ntithi: Śukla-Dvitīyā until 03:31(+1)\nnakshatram: Aśvinī until 20:14\nyogam: Vaidhṛtiḥ until 09:17\nkaranam: Bālavam until 15:15\nkaranam: Kaulavam until 03:31(+1)\n\nRahu kala: 09:57 to 11:34\nYama kala: 14:49 to 16:26
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190407T000000Z
+DTEND:20190407T000000Z
+SUMMARY:Śukla-Tṛtīyā / Apabharaṇī
+DESCRIPTION:Sun 2019-4-7 \nDaytime: 06:41 to 19:42\n\nMonth: Caitraḥ\ntithi: Śukla-Tṛtīyā until 03:45(+1)\nnakshatram: Apabharaṇī until 21:13\nyogam: Viṣkambhaḥ until 08:38\nkaranam: Taitilam until 15:41\nkaranam: Garajā until 03:45(+1)\n\nRahu kala: 18:04 to 19:42\nYama kala: 13:11 to 14:49
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190408T000000Z
+DTEND:20190408T000000Z
+SUMMARY:Śukla-Caturthī / Kṛttikā
+DESCRIPTION:Mon 2019-4-8 \nDaytime: 06:39 to 19:43\n\nMonth: Caitraḥ\ntithi: Śukla-Caturthī until 03:37(+1)\nnakshatram: Kṛttikā until 21:49\nyogam: Prītiḥ until 07:41\nyogam: Āyuṣmān until 06:26(+1)\nkaranam: Vaṇijā until 15:44\nkaranam: Bhadrā until 03:37(+1)\n\nRahu kala: 08:17 to 09:55\nYama kala: 11:33 to 13:11
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190409T000000Z
+DTEND:20190409T000000Z
+SUMMARY:Śukla-Pañcamī / Rohiṇī
+DESCRIPTION:Tue 2019-4-9 \nDaytime: 06:37 to 19:45\n\nMonth: Caitraḥ\ntithi: Śukla-Pañcamī until 03:06(+1)\nnakshatram: Rohiṇī until 22:03\nyogam: Saubhāgyam until 04:53(+1)\nkaranam: Bavam until 15:24\nkaranam: Bālavam until 03:06(+1)\n\nRahu kala: 16:28 to 18:06\nYama kala: 09:54 to 11:32
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190520T000000Z
+DTEND:20190520T000000Z
+SUMMARY:Kṛṣṇa-Dvitīyā / Jyeṣṭhā
+DESCRIPTION:Mon 2019-5-20 \nDaytime: 05:32 to 20:40\n\nMonth: Vaiśākhaḥ\ntithi: Kṛṣṇa-Dvitīyā until 12:51\nnakshatram: Jyeṣṭhā until 13:59\nyogam: Siddhaḥ until 21:54\nkaranam: Garajā until 12:51\nkaranam: Vaṇijā until 00:55(+1)\n\nRahu kala: 07:25 to 09:19\nYama kala: 11:12 to 13:06
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190521T000000Z
+DTEND:20190521T000000Z
+SUMMARY:Kṛṣṇa-Tṛtīyā / Mūlā
+DESCRIPTION:Tue 2019-5-21 \nDaytime: 05:30 to 20:41\n\nMonth: Vaiśākhaḥ\ntithi: Kṛṣṇa-Tṛtīyā until 13:10\nnakshatram: Mūlā until 15:01\nyogam: Sādhyaḥ until 21:20\nkaranam: Bhadrā until 13:10\nkaranam: Bavam until 01:35(+1)\n\nRahu kala: 16:53 to 18:47\nYama kala: 09:18 to 11:12
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190522T000000Z
+DTEND:20190522T000000Z
+SUMMARY:Kṛṣṇa-Caturthī / Pūrvāṣāḍhā
+DESCRIPTION:Wed 2019-5-22 \nDaytime: 05:29 to 20:42\n\nMonth: Vaiśākhaḥ\ntithi: Kṛṣṇa-Caturthī until 14:11\nnakshatram: Pūrvāṣāḍhā until 16:43\nyogam: Śubhaḥ until 21:19\nkaranam: Bālavam until 14:11\nkaranam: Kaulavam until 02:55(+1)\n\nRahu kala: 13:06 to 15:00\nYama kala: 07:24 to 09:18
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190514T000000Z
+DTEND:20190514T000000Z
+SUMMARY:Śukla-Ekādaśī / Uttaraphalgunī
+DESCRIPTION:Tue 2019-5-14 \nDaytime: 05:39 to 20:33\n\nMonth: Vaiśākhaḥ\ntithi: Śukla-Ekādaśī until 22:05\nnakshatram: Uttaraphalgunī until 18:46\nyogam: Harṣaṇaḥ until 13:46\nkaranam: Vaṇijā until 11:17\nkaranam: Bhadrā until 22:05\n\nRahu kala: 16:49 to 18:41\nYama kala: 09:22 to 11:14
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190523T000000Z
+DTEND:20190523T000000Z
+SUMMARY:Kṛṣṇa-Pañcamī / Uttarāṣāḍhā
+DESCRIPTION:Thu 2019-5-23 \nDaytime: 05:28 to 20:43\n\nMonth: Vaiśākhaḥ\ntithi: Kṛṣṇa-Pañcamī until 15:48\nnakshatram: Uttarāṣāḍhā until 19:00\nyogam: Śubhraḥ until 21:45\nkaranam: Taitilam until 15:48\nkaranam: Garajā until 04:49(+1)\n\nRahu kala: 15:00 to 16:55\nYama kala: 05:28 to 07:23
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190524T000000Z
+DTEND:20190524T000000Z
+SUMMARY:Kṛṣṇa-Ṣaṣṭhī / Śravaṇam
+DESCRIPTION:Fri 2019-5-24 \nDaytime: 05:28 to 20:45\n\nMonth: Vaiśākhaḥ\ntithi: Kṛṣṇa-Ṣaṣṭhī until 17:55\nnakshatram: Śravaṇam until 21:45\nyogam: Brāhmaḥ until 22:31\nkaranam: Vaṇijā until 17:55\n\nRahu kala: 11:11 to 13:06\nYama kala: 16:55 to 18:50
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190525T000000Z
+DTEND:20190525T000000Z
+SUMMARY:Kṛṣṇa-Saptamī / Śraviṣṭhā
+DESCRIPTION:Sat 2019-5-25 \nDaytime: 05:27 to 20:46\n\nMonth: Vaiśākhaḥ\ntithi: Kṛṣṇa-Saptamī until 20:19\nnakshatram: Śraviṣṭhā until 00:44(+1)\nyogam: Māhendraḥ until 23:29\nkaranam: Bhadrā until 07:06\nkaranam: Bavam until 20:19\n\nRahu kala: 09:16 to 11:11\nYama kala: 15:01 to 16:56
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190526T000000Z
+DTEND:20190526T000000Z
+SUMMARY:Kṛṣṇa-Aṣṭamī / Śatabhiṣak
+DESCRIPTION:Sun 2019-5-26 \nDaytime: 05:26 to 20:47\n\nMonth: Vaiśākhaḥ\ntithi: Kṛṣṇa-Aṣṭamī until 22:46\nnakshatram: Śatabhiṣak until 03:43(+1)\nyogam: Vaidhṛtiḥ until 00:27(+1)\nkaranam: Bālavam until 09:33\nkaranam: Kaulavam until 22:46\n\nRahu kala: 18:52 to 20:47\nYama kala: 13:06 to 15:01
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190630T000000Z
+DTEND:20190630T000000Z
+SUMMARY:Kṛṣṇa-Trayodaśī / Rohiṇī
+DESCRIPTION:Sun 2019-6-30 \nDaytime: 05:21 to 21:04\n\nMonth: Jyaiṣṭhaḥ\ntithi: Kṛṣṇa-Trayodaśī until 16:26\nnakshatram: Rohiṇī until 20:55\nyogam: Śūlaḥ until 07:25\nyogam: Gaṇḍaḥ until 05:05(+1)\nkaranam: Vaṇijā until 16:26\nkaranam: Bhadrā until 03:35(+1)\n\nRahu kala: 19:06 to 21:04\nYama kala: 13:12 to 15:10
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190820T000000Z
+DTEND:20190820T000000Z
+SUMMARY:Kṛṣṇa-Pañcamī / Revatī
+DESCRIPTION:Tue 2019-8-20 \nDaytime: 06:16 to 20:07\n\nMonth: Śrāvaṇaḥ\ntithi: Kṛṣṇa-Pañcamī until 17:00\nnakshatram: Revatī until 09:58\nyogam: Gaṇḍaḥ until 04:26(+1)\nkaranam: Taitilam until 17:00\nkaranam: Garajā until 05:52(+1)\n\nRahu kala: 16:39 to 18:23\nYama kala: 09:44 to 11:28
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190821T000000Z
+DTEND:20190821T000000Z
+SUMMARY:Kṛṣṇa-Ṣaṣṭhī / Aśvinī
+DESCRIPTION:Wed 2019-8-21 \nDaytime: 06:18 to 20:05\n\nMonth: Śrāvaṇaḥ\ntithi: Kṛṣṇa-Ṣaṣṭhī until 18:36\nnakshatram: Aśvinī until 12:17\nyogam: Vṛddhiḥ until 04:33(+1)\nkaranam: Vaṇijā until 18:36\n\nRahu kala: 13:12 to 14:55\nYama kala: 08:01 to 09:45
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190822T000000Z
+DTEND:20190822T000000Z
+SUMMARY:Kṛṣṇa-Saptamī / Apabharaṇī
+DESCRIPTION:Thu 2019-8-22 \nDaytime: 06:19 to 20:03\n\nMonth: Śrāvaṇaḥ\ntithi: Kṛṣṇa-Saptamī until 19:39\nnakshatram: Apabharaṇī until 14:06\nyogam: Dhruvaḥ until 04:12(+1)\nkaranam: Bhadrā until 07:12\nkaranam: Bavam until 19:39\n\nRahu kala: 14:54 to 16:37\nYama kala: 06:19 to 08:02
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190823T000000Z
+DTEND:20190823T000000Z
+SUMMARY:Kṛṣṇa-Aṣṭamī / Kṛttikā
+DESCRIPTION:Fri 2019-8-23 \nDaytime: 06:20 to 20:02\n\nMonth: Śrāvaṇaḥ\ntithi: Kṛṣṇa-Aṣṭamī until 20:02\nnakshatram: Kṛttikā until 15:17\nyogam: Vyāghātaḥ until 03:18(+1)\nkaranam: Bālavam until 07:56\nkaranam: Kaulavam until 20:02\n\nRahu kala: 11:28 to 13:11\nYama kala: 16:36 to 18:19
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190824T000000Z
+DTEND:20190824T000000Z
+SUMMARY:Kṛṣṇa-Navamī / Rohiṇī
+DESCRIPTION:Sat 2019-8-24 \nDaytime: 06:22 to 20:00\n\nMonth: Śrāvaṇaḥ\ntithi: Kṛṣṇa-Navamī until 19:40\nnakshatram: Rohiṇī until 15:46\nyogam: Harṣaṇaḥ until 01:48(+1)\nkaranam: Taitilam until 07:57\nkaranam: Garajā until 19:40\n\nRahu kala: 09:46 to 11:28\nYama kala: 14:53 to 16:35
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190825T000000Z
+DTEND:20190825T000000Z
+SUMMARY:Kṛṣṇa-Daśamī / Mṛgaśīrṣam
+DESCRIPTION:Sun 2019-8-25 \nDaytime: 06:23 to 19:58\n\nMonth: Śrāvaṇaḥ\ntithi: Kṛṣṇa-Daśamī until 18:32\nnakshatram: Mṛgaśīrṣam until 15:29\nyogam: Vajraḥ until 23:40\nkaranam: Vaṇijā until 07:12\nkaranam: Bhadrā until 18:32\nkaranam: Bavam until 05:41(+1)\n\nRahu kala: 18:16 to 19:58\nYama kala: 13:10 to 14:52
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190826T000000Z
+DTEND:20190826T000000Z
+SUMMARY:Kṛṣṇa-Ekādaśī / Ārdrā
+DESCRIPTION:Mon 2019-8-26 \nDaytime: 06:24 to 19:56\n\nMonth: Śrāvaṇaḥ\ntithi: Kṛṣṇa-Ekādaśī until 16:39\nnakshatram: Ārdrā until 14:26\nyogam: Siddhiḥ until 20:56\nkaranam: Bālavam until 16:39\nkaranam: Kaulavam until 03:27(+1)\n\nRahu kala: 08:06 to 09:47\nYama kala: 11:29 to 13:10
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190827T000000Z
+DTEND:20190827T000000Z
+SUMMARY:Kṛṣṇa-Dvādaśī / Punarvasuḥ
+DESCRIPTION:Tue 2019-8-27 \nDaytime: 06:26 to 19:54\n\nMonth: Śrāvaṇaḥ\ntithi: Kṛṣṇa-Dvādaśī until 14:06\nnakshatram: Punarvasuḥ until 12:43\nyogam: Vyatīpātaḥ until 17:40\nkaranam: Taitilam until 14:06\nkaranam: Garajā until 00:36(+1)\n\nRahu kala: 16:32 to 18:13\nYama kala: 09:48 to 11:29
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190828T000000Z
+DTEND:20190828T000000Z
+SUMMARY:Kṛṣṇa-Trayodaśī / Puṣyaḥ
+DESCRIPTION:Wed 2019-8-28 \nDaytime: 06:27 to 19:52\n\nMonth: Śrāvaṇaḥ\ntithi: Kṛṣṇa-Trayodaśī until 10:58\nnakshatram: Puṣyaḥ until 10:25\nyogam: Varīyān until 13:57\nkaranam: Vaṇijā until 10:58\nkaranam: Bhadrā until 21:14\n\nRahu kala: 13:10 to 14:50\nYama kala: 08:08 to 09:48
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190829T000000Z
+DTEND:20190829T000000Z
+SUMMARY:Kṛṣṇa-Caturdaśī / Āśreṣā
+DESCRIPTION:Thu 2019-8-29 \nDaytime: 06:28 to 19:50\n\nMonth: Śrāvaṇaḥ\ntithi: Kṛṣṇa-Caturdaśī until 07:25\ntithi: Amāvāsyā until 03:37(+1)\nnakshatram: Āśreṣā until 07:41\nnakshatram: Maghā until 04:41(+1)\nyogam: Parighaḥ until 09:53\nyogam: Śivaḥ until 05:38(+1)\nkaranam: Śakuniḥ until 07:25\nkaranam: Catuṣpāt until 17:32\nkaranam: Nāgavān until 03:37(+1)\n\nRahu kala: 14:50 to 16:30\nYama kala: 06:28 to 08:09
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190421T000000Z
+DTEND:20190421T000000Z
+SUMMARY:Kṛṣṇa-Tṛtīyā / Anūrādhā
+DESCRIPTION:Sun 2019-4-21 \nDaytime: 06:14 to 20:02\n\nMonth: Caitraḥ\ntithi: Kṛṣṇa-Tṛtīyā until 22:55\nnakshatram: Anūrādhā until 04:15(+1)\nyogam: Vyatīpātaḥ until 15:01\nkaranam: Vaṇijā until 11:23\nkaranam: Bhadrā until 22:55\n\nRahu kala: 18:18 to 20:02\nYama kala: 13:08 to 14:51
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190422T000000Z
+DTEND:20190422T000000Z
+SUMMARY:Kṛṣṇa-Caturthī / Jyeṣṭhā
+DESCRIPTION:Mon 2019-4-22 \nDaytime: 06:13 to 20:03\n\nMonth: Caitraḥ\ntithi: Kṛṣṇa-Caturthī until 22:34\nnakshatram: Jyeṣṭhā until 04:46(+1)\nyogam: Varīyān until 13:26\nkaranam: Bavam until 10:38\nkaranam: Bālavam until 22:34\n\nRahu kala: 07:56 to 09:40\nYama kala: 11:24 to 13:08
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190423T000000Z
+DTEND:20190423T000000Z
+SUMMARY:Kṛṣṇa-Pañcamī / Mūlā
+DESCRIPTION:Tue 2019-4-23 \nDaytime: 06:11 to 20:04\n\nMonth: Caitraḥ\ntithi: Kṛṣṇa-Pañcamī until 23:02\nnakshatram: Mūlā until 06:05(+1)\nyogam: Parighaḥ until 12:29\nkaranam: Kaulavam until 10:42\nkaranam: Taitilam until 23:02\n\nRahu kala: 16:36 to 18:20\nYama kala: 09:39 to 11:23
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190424T000000Z
+DTEND:20190424T000000Z
+SUMMARY:Kṛṣṇa-Ṣaṣṭhī / Pūrvāṣāḍhā
+DESCRIPTION:Wed 2019-4-24 \nDaytime: 06:09 to 20:06\n\nMonth: Caitraḥ\ntithi: Kṛṣṇa-Ṣaṣṭhī until 00:16(+1)\nnakshatram: Pūrvāṣāḍhā\nyogam: Śivaḥ until 12:10\nkaranam: Garajā until 11:33\nkaranam: Vaṇijā until 00:16(+1)\n\nRahu kala: 13:07 to 14:52\nYama kala: 07:54 to 09:38
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190425T000000Z
+DTEND:20190425T000000Z
+SUMMARY:Kṛṣṇa-Saptamī / Pūrvāṣāḍhā
+DESCRIPTION:Thu 2019-4-25 \nDaytime: 06:07 to 20:07\n\nMonth: Caitraḥ\ntithi: Kṛṣṇa-Saptamī until 02:10(+1)\nnakshatram: Pūrvāṣāḍhā until 08:07\nyogam: Siddhaḥ until 12:24\nkaranam: Bhadrā until 13:09\nkaranam: Bavam until 02:10(+1)\n\nRahu kala: 14:52 to 16:37\nYama kala: 06:07 to 07:52
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190426T000000Z
+DTEND:20190426T000000Z
+SUMMARY:Kṛṣṇa-Aṣṭamī / Uttarāṣāḍhā
+DESCRIPTION:Fri 2019-4-26 \nDaytime: 06:06 to 20:09\n\nMonth: Caitraḥ\ntithi: Kṛṣṇa-Aṣṭamī until 04:31(+1)\nnakshatram: Uttarāṣāḍhā until 10:44\nyogam: Sādhyaḥ until 13:04\nkaranam: Bālavam until 15:18\nkaranam: Kaulavam until 04:31(+1)\n\nRahu kala: 11:22 to 13:07\nYama kala: 16:38 to 18:23
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190427T000000Z
+DTEND:20190427T000000Z
+SUMMARY:Kṛṣṇa-Navamī / Śravaṇam
+DESCRIPTION:Sat 2019-4-27 \nDaytime: 06:04 to 20:10\n\nMonth: Caitraḥ\ntithi: Kṛṣṇa-Navamī\nnakshatram: Śravaṇam until 13:42\nyogam: Śubhaḥ until 14:01\nkaranam: Taitilam until 17:47\n\nRahu kala: 09:35 to 11:21\nYama kala: 14:53 to 16:38
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190428T000000Z
+DTEND:20190428T000000Z
+SUMMARY:Kṛṣṇa-Navamī / Śraviṣṭhā
+DESCRIPTION:Sun 2019-4-28 \nDaytime: 06:02 to 20:11\n\nMonth: Caitraḥ\ntithi: Kṛṣṇa-Navamī until 07:04\nnakshatram: Śraviṣṭhā until 16:48\nyogam: Śubhraḥ until 15:02\nkaranam: Garajā until 07:04\nkaranam: Vaṇijā until 20:20\n\nRahu kala: 18:25 to 20:11\nYama kala: 13:07 to 14:53
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190429T000000Z
+DTEND:20190429T000000Z
+SUMMARY:Kṛṣṇa-Daśamī / Śatabhiṣak
+DESCRIPTION:Mon 2019-4-29 \nDaytime: 06:01 to 20:13\n\nMonth: Caitraḥ\ntithi: Kṛṣṇa-Daśamī until 09:34\nnakshatram: Śatabhiṣak until 19:45\nyogam: Brāhmaḥ until 15:58\nkaranam: Bhadrā until 09:34\nkaranam: Bavam until 22:43\n\nRahu kala: 07:47 to 09:34\nYama kala: 11:20 to 13:07
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190610T000000Z
+DTEND:20190610T000000Z
+SUMMARY:Śukla-Aṣṭamī / Uttaraphalgunī
+DESCRIPTION:Mon 2019-6-10 \nDaytime: 05:17 to 21:00\n\nMonth: Jyaiṣṭhaḥ\ntithi: Śukla-Aṣṭamī until 09:53\nnakshatram: Uttaraphalgunī until 00:31(+1)\nyogam: Siddhiḥ until 20:16\nkaranam: Bavam until 09:53\nkaranam: Bālavam until 20:50\n\nRahu kala: 07:15 to 09:13\nYama kala: 11:11 to 13:08
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190611T000000Z
+DTEND:20190611T000000Z
+SUMMARY:Śukla-Navamī / Hastaḥ
+DESCRIPTION:Tue 2019-6-11 \nDaytime: 05:17 to 21:00\n\nMonth: Jyaiṣṭhaḥ\ntithi: Śukla-Navamī until 07:49\nnakshatram: Hastaḥ until 23:21\nyogam: Vyatīpātaḥ until 17:37\nkaranam: Kaulavam until 07:49\nkaranam: Taitilam until 18:51\n\nRahu kala: 17:04 to 19:02\nYama kala: 09:13 to 11:11
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190212T000000Z
+DTEND:20190212T000000Z
+SUMMARY:Śukla-Aṣṭamī / Apabharaṇī
+DESCRIPTION:Tue 2019-2-12 \nDaytime: 07:25 to 17:22\n\nMonth: Māghaḥ\ntithi: Śukla-Aṣṭamī until 02:16(+1)\nnakshatram: Apabharaṇī until 08:41\nyogam: Brāhmaḥ until 20:48\nkaranam: Bhadrā until 14:26\nkaranam: Bavam until 02:16(+1)\n\nRahu kala: 14:53 to 16:07\nYama kala: 09:54 to 11:09
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190213T000000Z
+DTEND:20190213T000000Z
+SUMMARY:Śukla-Navamī / Kṛttikā
+DESCRIPTION:Wed 2019-2-13 \nDaytime: 07:23 to 17:24\n\nMonth: Māghaḥ\ntithi: Śukla-Navamī until 01:24(+1)\nnakshatram: Kṛttikā until 08:57\nyogam: Māhendraḥ until 19:04\nkaranam: Bālavam until 13:56\nkaranam: Kaulavam until 01:24(+1)\n\nRahu kala: 12:23 to 13:38\nYama kala: 08:38 to 09:53
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190612T000000Z
+DTEND:20190612T000000Z
+SUMMARY:Śukla-Daśamī / Citrā
+DESCRIPTION:Wed 2019-6-12 \nDaytime: 05:17 to 21:01\n\nMonth: Jyaiṣṭhaḥ\ntithi: Śukla-Daśamī until 05:57\ntithi: Śukla-Ekādaśī until 04:19(+1)\nnakshatram: Citrā until 22:25\nyogam: Varīyān until 15:08\nkaranam: Garajā until 05:57\nkaranam: Vaṇijā until 17:06\nkaranam: Bhadrā until 04:19(+1)\n\nRahu kala: 13:09 to 15:07\nYama kala: 07:15 to 09:13
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190215T000000Z
+DTEND:20190215T000000Z
+SUMMARY:Śukla-Ekādaśī / Mṛgaśīrṣam
+DESCRIPTION:Fri 2019-2-15 \nDaytime: 07:20 to 17:27\n\nMonth: Māghaḥ\ntithi: Śukla-Ekādaśī until 21:32\nnakshatram: Mṛgaśīrṣam until 07:22\nnakshatram: Ārdrā until 05:35(+1)\nyogam: Viṣkambhaḥ until 13:53\nkaranam: Vaṇijā until 10:45\nkaranam: Bhadrā until 21:32\n\nRahu kala: 11:07 to 12:23\nYama kala: 14:55 to 16:11
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190216T000000Z
+DTEND:20190216T000000Z
+SUMMARY:Śukla-Dvādaśī / Punarvasuḥ
+DESCRIPTION:Sat 2019-2-16 \nDaytime: 07:18 to 17:28\n\nMonth: Māghaḥ\ntithi: Śukla-Dvādaśī until 18:40\nnakshatram: Punarvasuḥ until 03:16(+1)\nyogam: Prītiḥ until 10:30\nyogam: Āyuṣmān until 06:43(+1)\nkaranam: Bavam until 08:10\nkaranam: Bālavam until 18:40\nkaranam: Kaulavam until 05:03(+1)\n\nRahu kala: 09:51 to 11:07\nYama kala: 13:40 to 14:56
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190217T000000Z
+DTEND:20190217T000000Z
+SUMMARY:Śukla-Trayodaśī / Puṣyaḥ
+DESCRIPTION:Sun 2019-2-17 \nDaytime: 07:16 to 17:30\n\nMonth: Māghaḥ\ntithi: Śukla-Trayodaśī until 15:20\nnakshatram: Puṣyaḥ until 00:31(+1)\nyogam: Saubhāgyam until 02:36(+1)\nkaranam: Taitilam until 15:20\nkaranam: Garajā until 01:32(+1)\n\nRahu kala: 16:13 to 17:30\nYama kala: 12:23 to 13:40
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190218T000000Z
+DTEND:20190218T000000Z
+SUMMARY:Śukla-Caturdaśī / Āśreṣā
+DESCRIPTION:Mon 2019-2-18 \nDaytime: 07:15 to 17:32\n\nMonth: Māghaḥ\ntithi: Śukla-Caturdaśī until 11:41\nnakshatram: Āśreṣā until 21:33\nyogam: Śobhanaḥ until 22:19\nkaranam: Vaṇijā until 11:41\nkaranam: Bhadrā until 21:48\n\nRahu kala: 08:32 to 09:49\nYama kala: 11:06 to 12:23
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190219T000000Z
+DTEND:20190219T000000Z
+SUMMARY:Paurṇamāsī / Maghā
+DESCRIPTION:Tue 2019-2-19 \nDaytime: 07:13 to 17:33\n\nMonth: Māghaḥ\ntithi: Paurṇamāsī until 07:53\ntithi: Kṛṣṇa-Prathamā until 04:06(+1)\nnakshatram: Maghā until 18:30\nyogam: Atigaṇḍaḥ until 17:58\nkaranam: Bavam until 07:53\nkaranam: Bālavam until 17:59\nkaranam: Kaulavam until 04:06(+1)\n\nRahu kala: 14:58 to 16:16\nYama kala: 09:48 to 11:05
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190613T000000Z
+DTEND:20190613T000000Z
+SUMMARY:Śukla-Dvādaśī / Svātī
+DESCRIPTION:Thu 2019-6-13 \nDaytime: 05:17 to 21:01\n\nMonth: Jyaiṣṭhaḥ\ntithi: Śukla-Dvādaśī until 03:00(+1)\nnakshatram: Svātī until 21:46\nyogam: Parighaḥ until 12:52\nkaranam: Bavam until 15:37\nkaranam: Bālavam until 03:00(+1)\n\nRahu kala: 15:07 to 17:05\nYama kala: 05:17 to 07:15
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190614T000000Z
+DTEND:20190614T000000Z
+SUMMARY:Śukla-Trayodaśī / Viśākhā
+DESCRIPTION:Fri 2019-6-14 \nDaytime: 05:17 to 21:02\n\nMonth: Jyaiṣṭhaḥ\ntithi: Śukla-Trayodaśī until 02:03(+1)\nnakshatram: Viśākhā until 21:29\nyogam: Śivaḥ until 10:53\nkaranam: Kaulavam until 14:28\nkaranam: Taitilam until 02:03(+1)\n\nRahu kala: 11:11 to 13:09\nYama kala: 17:05 to 19:04
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190615T000000Z
+DTEND:20190615T000000Z
+SUMMARY:Śukla-Caturdaśī / Anūrādhā
+DESCRIPTION:Sat 2019-6-15 \nDaytime: 05:17 to 21:02\n\nMonth: Jyaiṣṭhaḥ\ntithi: Śukla-Caturdaśī until 01:32(+1)\nnakshatram: Anūrādhā until 21:37\nyogam: Siddhaḥ until 09:12\nkaranam: Garajā until 13:44\nkaranam: Vaṇijā until 01:32(+1)\n\nRahu kala: 09:13 to 11:11\nYama kala: 15:08 to 17:06
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190616T000000Z
+DTEND:20190616T000000Z
+SUMMARY:Paurṇamāsī / Jyeṣṭhā
+DESCRIPTION:Sun 2019-6-16 \nDaytime: 05:17 to 21:03\n\nMonth: Jyaiṣṭhaḥ\ntithi: Paurṇamāsī until 01:30(+1)\nnakshatram: Jyeṣṭhā until 22:13\nyogam: Sādhyaḥ until 07:54\nkaranam: Bhadrā until 13:27\nkaranam: Bavam until 01:30(+1)\n\nRahu kala: 19:04 to 21:03\nYama kala: 13:10 to 15:08
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190617T000000Z
+DTEND:20190617T000000Z
+SUMMARY:Kṛṣṇa-Prathamā / Mūlā
+DESCRIPTION:Mon 2019-6-17 \nDaytime: 05:17 to 21:03\n\nMonth: Jyaiṣṭhaḥ\ntithi: Kṛṣṇa-Prathamā until 02:01(+1)\nnakshatram: Mūlā until 23:20\nyogam: Śubhaḥ until 06:59\nkaranam: Bālavam until 13:41\nkaranam: Kaulavam until 02:01(+1)\n\nRahu kala: 07:15 to 09:13\nYama kala: 11:12 to 13:10
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190618T000000Z
+DTEND:20190618T000000Z
+SUMMARY:Kṛṣṇa-Dvitīyā / Pūrvāṣāḍhā
+DESCRIPTION:Tue 2019-6-18 \nDaytime: 05:17 to 21:03\n\nMonth: Jyaiṣṭhaḥ\ntithi: Kṛṣṇa-Dvitīyā until 03:04(+1)\nnakshatram: Pūrvāṣāḍhā until 01:00(+1)\nyogam: Śubhraḥ until 06:30\nkaranam: Taitilam until 14:28\nkaranam: Garajā until 03:04(+1)\n\nRahu kala: 17:07 to 19:05\nYama kala: 09:13 to 11:12
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190619T000000Z
+DTEND:20190619T000000Z
+SUMMARY:Kṛṣṇa-Tṛtīyā / Uttarāṣāḍhā
+DESCRIPTION:Wed 2019-6-19 \nDaytime: 05:17 to 21:04\n\nMonth: Jyaiṣṭhaḥ\ntithi: Kṛṣṇa-Tṛtīyā until 04:38(+1)\nnakshatram: Uttarāṣāḍhā until 03:09(+1)\nyogam: Brāhmaḥ until 06:27\nkaranam: Vaṇijā until 15:47\nkaranam: Bhadrā until 04:38(+1)\n\nRahu kala: 13:10 to 15:09\nYama kala: 07:15 to 09:14
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191230T000000Z
+DTEND:20191230T000000Z
+SUMMARY:Śukla-Pañcamī / Śraviṣṭhā
+DESCRIPTION:Mon 2019-12-30 \nDaytime: 08:03 to 16:20\n\nMonth: Pauṣaḥ\ntithi: Śukla-Pañcamī until 02:31(+1)\nnakshatram: Śraviṣṭhā until 09:17\nyogam: Siddhiḥ until 07:34(+1)\nkaranam: Bavam until 13:25\nkaranam: Bālavam until 02:31(+1)\n\nRahu kala: 09:05 to 10:07\nYama kala: 11:09 to 12:11
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191231T000000Z
+DTEND:20191231T000000Z
+DESCRIPTION:Tue 2019-12-31 \nDaytime: 08:03 to 16:21\n\nMonth: Pauṣaḥ\n\n\n\n\n\nRahu kala: 14:16 to 15:19\nYama kala: 10:08 to 11:10
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-31
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191020T000000Z
+DTEND:20191020T000000Z
+SUMMARY:Kṛṣṇa-Saptamī / Punarvasuḥ
+DESCRIPTION:Sun 2019-10-20 \nDaytime: 07:40 to 18:07\n\nMonth: Āśvayujaḥ\ntithi: Kṛṣṇa-Saptamī until 18:14\nnakshatram: Punarvasuḥ until 05:02(+1)\nyogam: Śivaḥ until 12:01\nkaranam: Bavam until 18:14\nkaranam: Bālavam until 05:39(+1)\n\nRahu kala: 16:48 to 18:07\nYama kala: 12:53 to 14:12
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191021T000000Z
+DTEND:20191021T000000Z
+SUMMARY:Kṛṣṇa-Aṣṭamī / Puṣyaḥ
+DESCRIPTION:Mon 2019-10-21 \nDaytime: 07:41 to 18:05\n\nMonth: Āśvayujaḥ\ntithi: Kṛṣṇa-Aṣṭamī until 16:55\nnakshatram: Puṣyaḥ until 04:09(+1)\nyogam: Siddhaḥ until 09:57\nyogam: Sādhyaḥ until 07:25(+1)\nkaranam: Kaulavam until 16:55\nkaranam: Taitilam until 04:03(+1)\n\nRahu kala: 08:59 to 10:17\nYama kala: 11:35 to 12:53
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191022T000000Z
+DTEND:20191022T000000Z
+SUMMARY:Kṛṣṇa-Navamī / Āśreṣā
+DESCRIPTION:Tue 2019-10-22 \nDaytime: 07:43 to 18:03\n\nMonth: Āśvayujaḥ\ntithi: Kṛṣṇa-Navamī until 15:02\nnakshatram: Āśreṣā until 02:43(+1)\nyogam: Śubhaḥ until 04:27(+1)\nkaranam: Garajā until 15:02\nkaranam: Vaṇijā until 01:54(+1)\n\nRahu kala: 15:28 to 16:45\nYama kala: 10:18 to 11:35
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191023T000000Z
+DTEND:20191023T000000Z
+SUMMARY:Kṛṣṇa-Daśamī / Maghā
+DESCRIPTION:Wed 2019-10-23 \nDaytime: 07:44 to 18:01\n\nMonth: Āśvayujaḥ\ntithi: Kṛṣṇa-Daśamī until 12:39\nnakshatram: Maghā until 00:48(+1)\nyogam: Śubhraḥ until 01:06(+1)\nkaranam: Bhadrā until 12:39\nkaranam: Bavam until 23:16\n\nRahu kala: 12:53 to 14:10\nYama kala: 09:01 to 10:19
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191024T000000Z
+DTEND:20191024T000000Z
+SUMMARY:Kṛṣṇa-Ekādaśī / Pūrvaphalgunī
+DESCRIPTION:Thu 2019-10-24 \nDaytime: 07:46 to 17:59\n\nMonth: Āśvayujaḥ\ntithi: Kṛṣṇa-Ekādaśī until 09:48\ntithi: Kṛṣṇa-Dvādaśī until 06:38(+1)\nnakshatram: Pūrvaphalgunī until 22:30\nyogam: Brāhmaḥ until 21:26\nkaranam: Bālavam until 09:48\nkaranam: Kaulavam until 20:15\nkaranam: Taitilam until 06:38(+1)\n\nRahu kala: 14:09 to 15:26\nYama kala: 07:46 to 09:03
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191025T000000Z
+DTEND:20191025T000000Z
+SUMMARY:Kṛṣṇa-Trayodaśī / Uttaraphalgunī
+DESCRIPTION:Fri 2019-10-25 \nDaytime: 07:47 to 17:58\n\nMonth: Āśvayujaḥ\ntithi: Kṛṣṇa-Trayodaśī until 03:16(+1)\nnakshatram: Uttaraphalgunī until 19:57\nyogam: Māhendraḥ until 17:34\nkaranam: Garajā until 16:58\nkaranam: Vaṇijā until 03:16(+1)\n\nRahu kala: 11:36 to 12:53\nYama kala: 15:25 to 16:41
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191026T000000Z
+DTEND:20191026T000000Z
+SUMMARY:Kṛṣṇa-Caturdaśī / Hastaḥ
+DESCRIPTION:Sat 2019-10-26 \nDaytime: 07:49 to 17:56\n\nMonth: Āśvayujaḥ\ntithi: Kṛṣṇa-Caturdaśī until 23:53\nnakshatram: Hastaḥ until 17:19\nyogam: Vaidhṛtiḥ until 13:36\nkaranam: Bhadrā until 13:34\nkaranam: Śakuniḥ until 23:53\n\nRahu kala: 10:21 to 11:37\nYama kala: 14:08 to 15:24
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191027T000000Z
+DTEND:20191027T000000Z
+SUMMARY:Amāvāsyā / Citrā
+DESCRIPTION:Sun 2019-10-27 \nDaytime: 07:50 to 17:54\n\nMonth: Āśvayujaḥ\ntithi: Amāvāsyā until 20:38\nnakshatram: Citrā until 14:46\nyogam: Viṣkambhaḥ until 09:40\nyogam: Prītiḥ until 05:56(+1)\nkaranam: Catuṣpāt until 10:14\nkaranam: Nāgavān until 20:38\nkaranam: Kiṃstughnam until 07:07(+1)\n\nRahu kala: 16:39 to 17:54\nYama kala: 12:52 to 14:08
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191028T000000Z
+DTEND:20191028T000000Z
+SUMMARY:Śukla-Prathamā / Svātī
+DESCRIPTION:Mon 2019-10-28 \nDaytime: 07:52 to 17:53\n\nMonth: Kārtikaḥ\ntithi: Śukla-Prathamā until 17:43\nnakshatram: Svātī until 12:30\nyogam: Āyuṣmān until 02:32(+1)\nkaranam: Bavam until 17:43\nkaranam: Bālavam until 04:26(+1)\n\nRahu kala: 09:07 to 10:22\nYama kala: 11:37 to 12:52
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191029T000000Z
+DTEND:20191029T000000Z
+SUMMARY:Śukla-Dvitīyā / Viśākhā
+DESCRIPTION:Tue 2019-10-29 \nDaytime: 07:53 to 17:51\n\nMonth: Kārtikaḥ\ntithi: Śukla-Dvitīyā until 15:17\nnakshatram: Viśākhā until 10:41\nyogam: Saubhāgyam until 23:35\nkaranam: Kaulavam until 15:17\nkaranam: Taitilam until 02:19(+1)\n\nRahu kala: 15:22 to 16:36\nYama kala: 10:23 to 11:38
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191210T000000Z
+DTEND:20191210T000000Z
+SUMMARY:Śukla-Caturdaśī / Kṛttikā
+DESCRIPTION:Tue 2019-12-10 \nDaytime: 07:52 to 16:11\n\nMonth: Mārgaśīrṣaḥ\ntithi: Śukla-Caturdaśī until 21:29\nnakshatram: Kṛttikā until 16:27\nyogam: Siddhaḥ until 01:50(+1)\nkaranam: Garajā until 09:25\nkaranam: Vaṇijā until 21:29\n\nRahu kala: 14:06 to 15:09\nYama kala: 09:57 to 10:59
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191211T000000Z
+DTEND:20191211T000000Z
+SUMMARY:Paurṇamāsī / Rohiṇī
+DESCRIPTION:Wed 2019-12-11 \nDaytime: 07:53 to 16:11\n\nMonth: Mārgaśīrṣaḥ\ntithi: Paurṇamāsī until 21:12\nnakshatram: Rohiṇī until 16:52\nyogam: Sādhyaḥ until 00:21(+1)\nkaranam: Bhadrā until 09:24\nkaranam: Bavam until 21:12\n\nRahu kala: 12:02 to 13:04\nYama kala: 08:55 to 09:57
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191212T000000Z
+DTEND:20191212T000000Z
+SUMMARY:Kṛṣṇa-Prathamā / Mṛgaśīrṣam
+DESCRIPTION:Thu 2019-12-12 \nDaytime: 07:54 to 16:11\n\nMonth: Mārgaśīrṣaḥ\ntithi: Kṛṣṇa-Prathamā until 20:26\nnakshatram: Mṛgaśīrṣam until 16:48\nyogam: Śubhaḥ until 22:29\nkaranam: Bālavam until 08:52\nkaranam: Kaulavam until 20:26\nkaranam: Taitilam until 07:54(+1)\n\nRahu kala: 13:05 to 14:07\nYama kala: 07:54 to 08:56
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191213T000000Z
+DTEND:20191213T000000Z
+SUMMARY:Kṛṣṇa-Dvitīyā / Ārdrā
+DESCRIPTION:Fri 2019-12-13 \nDaytime: 07:55 to 16:11\n\nMonth: Mārgaśīrṣaḥ\ntithi: Kṛṣṇa-Dvitīyā until 19:17\nnakshatram: Ārdrā until 16:20\nyogam: Śubhraḥ until 20:20\nkaranam: Garajā until 19:17\nkaranam: Vaṇijā until 06:34(+1)\n\nRahu kala: 11:01 to 12:03\nYama kala: 14:07 to 15:09
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191214T000000Z
+DTEND:20191214T000000Z
+SUMMARY:Kṛṣṇa-Tṛtīyā / Punarvasuḥ
+DESCRIPTION:Sat 2019-12-14 \nDaytime: 07:56 to 16:11\n\nMonth: Mārgaśīrṣaḥ\ntithi: Kṛṣṇa-Tṛtīyā until 17:48\nnakshatram: Punarvasuḥ until 15:33\nyogam: Brāhmaḥ until 17:54\nkaranam: Bhadrā until 17:48\nkaranam: Bavam until 04:58(+1)\n\nRahu kala: 09:59 to 11:01\nYama kala: 13:05 to 14:07
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191215T000000Z
+DTEND:20191215T000000Z
+SUMMARY:Kṛṣṇa-Caturthī / Puṣyaḥ
+DESCRIPTION:Sun 2019-12-15 \nDaytime: 07:56 to 16:12\n\nMonth: Mārgaśīrṣaḥ\ntithi: Kṛṣṇa-Caturthī until 16:04\nnakshatram: Puṣyaḥ until 14:31\nyogam: Māhendraḥ until 15:17\nkaranam: Bālavam until 16:04\nkaranam: Kaulavam until 03:08(+1)\n\nRahu kala: 15:10 to 16:12\nYama kala: 12:04 to 13:06
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191216T000000Z
+DTEND:20191216T000000Z
+SUMMARY:Kṛṣṇa-Pañcamī / Āśreṣā
+DESCRIPTION:Mon 2019-12-16 \nDaytime: 07:57 to 16:12\n\nMonth: Mārgaśīrṣaḥ\ntithi: Kṛṣṇa-Pañcamī until 14:09\nnakshatram: Āśreṣā until 13:17\nyogam: Vaidhṛtiḥ until 12:32\nkaranam: Taitilam until 14:09\nkaranam: Garajā until 01:09(+1)\n\nRahu kala: 08:59 to 10:01\nYama kala: 11:03 to 12:04
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191217T000000Z
+DTEND:20191217T000000Z
+SUMMARY:Kṛṣṇa-Ṣaṣṭhī / Maghā
+DESCRIPTION:Tue 2019-12-17 \nDaytime: 07:58 to 16:12\n\nMonth: Mārgaśīrṣaḥ\ntithi: Kṛṣṇa-Ṣaṣṭhī until 12:07\nnakshatram: Maghā until 11:56\nyogam: Viṣkambhaḥ until 09:40\nyogam: Prītiḥ until 06:44(+1)\nkaranam: Vaṇijā until 12:07\nkaranam: Bhadrā until 23:04\n\nRahu kala: 14:08 to 15:10\nYama kala: 10:01 to 11:03
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191218T000000Z
+DTEND:20191218T000000Z
+SUMMARY:Kṛṣṇa-Saptamī / Pūrvaphalgunī
+DESCRIPTION:Wed 2019-12-18 \nDaytime: 07:58 to 16:12\n\nMonth: Mārgaśīrṣaḥ\ntithi: Kṛṣṇa-Saptamī until 10:00\ntithi: Kṛṣṇa-Aṣṭamī until 07:53(+1)\nnakshatram: Pūrvaphalgunī until 10:30\nyogam: Āyuṣmān until 03:46(+1)\nkaranam: Bavam until 10:00\nkaranam: Bālavam until 20:57\nkaranam: Kaulavam until 07:53(+1)\n\nRahu kala: 12:05 to 13:07\nYama kala: 09:00 to 10:02
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191219T000000Z
+DTEND:20191219T000000Z
+SUMMARY:Kṛṣṇa-Navamī / Uttaraphalgunī
+DESCRIPTION:Thu 2019-12-19 \nDaytime: 07:59 to 16:13\n\nMonth: Mārgaśīrṣaḥ\ntithi: Kṛṣṇa-Navamī until 05:46(+1)\nnakshatram: Uttaraphalgunī until 09:04\nnakshatram: Hastaḥ until 07:39(+1)\nyogam: Saubhāgyam until 00:50(+1)\nkaranam: Taitilam until 18:49\nkaranam: Garajā until 05:46(+1)\n\nRahu kala: 13:08 to 14:09\nYama kala: 07:59 to 09:01
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190801T000000Z
+DTEND:20190801T000000Z
+SUMMARY:Śukla-Prathamā / Āśreṣā
+DESCRIPTION:Thu 2019-8-1 \nDaytime: 05:52 to 20:38\n\nMonth: Śrāvaṇaḥ\ntithi: Śukla-Prathamā until 16:41\nnakshatram: Āśreṣā until 20:59\nyogam: Vyatīpātaḥ until 22:46\nkaranam: Kiṃstughnam until 06:27\nkaranam: Bavam until 16:41\nkaranam: Bālavam until 02:53(+1)\n\nRahu kala: 15:06 to 16:56\nYama kala: 05:52 to 07:43
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190802T000000Z
+DTEND:20190802T000000Z
+SUMMARY:Śukla-Dvitīyā / Maghā
+DESCRIPTION:Fri 2019-8-2 \nDaytime: 05:53 to 20:36\n\nMonth: Śrāvaṇaḥ\ntithi: Śukla-Dvitīyā until 13:06\nnakshatram: Maghā until 18:14\nyogam: Varīyān until 18:45\nkaranam: Kaulavam until 13:06\nkaranam: Taitilam until 23:19\n\nRahu kala: 11:24 to 13:15\nYama kala: 16:56 to 18:46
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190803T000000Z
+DTEND:20190803T000000Z
+SUMMARY:Śukla-Tṛtīyā / Pūrvaphalgunī
+DESCRIPTION:Sat 2019-8-3 \nDaytime: 05:54 to 20:35\n\nMonth: Śrāvaṇaḥ\ntithi: Śukla-Tṛtīyā until 09:35\nnakshatram: Pūrvaphalgunī until 15:35\nyogam: Parighaḥ until 14:49\nkaranam: Garajā until 09:35\nkaranam: Vaṇijā until 19:55\n\nRahu kala: 09:34 to 11:25\nYama kala: 15:05 to 16:55
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190804T000000Z
+DTEND:20190804T000000Z
+SUMMARY:Śukla-Caturthī / Uttaraphalgunī
+DESCRIPTION:Sun 2019-8-4 \nDaytime: 05:56 to 20:33\n\nMonth: Śrāvaṇaḥ\ntithi: Śukla-Caturthī until 06:19\ntithi: Śukla-Pañcamī until 03:24(+1)\nnakshatram: Uttaraphalgunī until 13:14\nyogam: Śivaḥ until 11:08\nkaranam: Bhadrā until 06:19\nkaranam: Bavam until 16:48\nkaranam: Bālavam until 03:24(+1)\n\nRahu kala: 18:44 to 20:33\nYama kala: 13:15 to 15:04
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190805T000000Z
+DTEND:20190805T000000Z
+SUMMARY:Śukla-Ṣaṣṭhī / Hastaḥ
+DESCRIPTION:Mon 2019-8-5 \nDaytime: 05:57 to 20:32\n\nMonth: Śrāvaṇaḥ\ntithi: Śukla-Ṣaṣṭhī until 01:00(+1)\nnakshatram: Hastaḥ until 11:17\nyogam: Siddhaḥ until 07:46\nyogam: Sādhyaḥ until 04:50(+1)\nkaranam: Kaulavam until 14:08\nkaranam: Taitilam until 01:00(+1)\n\nRahu kala: 07:46 to 09:36\nYama kala: 11:25 to 13:14
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190806T000000Z
+DTEND:20190806T000000Z
+SUMMARY:Śukla-Saptamī / Citrā
+DESCRIPTION:Tue 2019-8-6 \nDaytime: 05:58 to 20:31\n\nMonth: Śrāvaṇaḥ\ntithi: Śukla-Saptamī until 23:11\nnakshatram: Citrā until 09:53\nyogam: Śubhaḥ until 02:24(+1)\nkaranam: Garajā until 12:00\nkaranam: Vaṇijā until 23:11\n\nRahu kala: 16:52 to 18:41\nYama kala: 09:36 to 11:25
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190807T000000Z
+DTEND:20190807T000000Z
+SUMMARY:Śukla-Aṣṭamī / Svātī
+DESCRIPTION:Wed 2019-8-7 \nDaytime: 05:59 to 20:29\n\nMonth: Śrāvaṇaḥ\ntithi: Śukla-Aṣṭamī until 22:00\nnakshatram: Svātī until 09:05\nyogam: Śubhraḥ until 00:29(+1)\nkaranam: Bhadrā until 10:30\nkaranam: Bavam until 22:00\n\nRahu kala: 13:14 to 15:03\nYama kala: 07:48 to 09:37
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190808T000000Z
+DTEND:20190808T000000Z
+SUMMARY:Śukla-Navamī / Viśākhā
+DESCRIPTION:Thu 2019-8-8 \nDaytime: 06:01 to 20:27\n\nMonth: Śrāvaṇaḥ\ntithi: Śukla-Navamī until 21:30\nnakshatram: Viśākhā until 08:57\nyogam: Brāhmaḥ until 23:06\nkaranam: Bālavam until 09:40\nkaranam: Kaulavam until 21:30\n\nRahu kala: 15:02 to 16:51\nYama kala: 06:01 to 07:49
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190809T000000Z
+DTEND:20190809T000000Z
+SUMMARY:Śukla-Daśamī / Anūrādhā
+DESCRIPTION:Fri 2019-8-9 \nDaytime: 06:02 to 20:26\n\nMonth: Śrāvaṇaḥ\ntithi: Śukla-Daśamī until 21:38\nnakshatram: Anūrādhā until 09:28\nyogam: Māhendraḥ until 22:14\nkaranam: Taitilam until 09:29\nkaranam: Garajā until 21:38\n\nRahu kala: 11:26 to 13:14\nYama kala: 16:50 to 18:38
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190101T000000Z
+DTEND:20190101T000000Z
+SUMMARY:Kṛṣṇa-Ekādaśī / Viśākhā
+DESCRIPTION:Tue 2019-1-1 \nDaytime: 08:03 to 16:22\n\nMonth: Mārgaśīrṣaḥ\ntithi: Kṛṣṇa-Ekādaśī until 11:58\nnakshatram: Viśākhā until 20:09\nyogam: Dhṛtiḥ until 13:11\nkaranam: Bālavam until 11:58\nkaranam: Kaulavam until 00:16(+1)\n\nRahu kala: 14:17 to 15:20\nYama kala: 10:08 to 11:10
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190102T000000Z
+DTEND:20190102T000000Z
+SUMMARY:Kṛṣṇa-Dvādaśī / Anūrādhā
+DESCRIPTION:Wed 2019-1-2 \nDaytime: 08:03 to 16:23\n\nMonth: Mārgaśīrṣaḥ\ntithi: Kṛṣṇa-Dvādaśī until 12:40\nnakshatram: Anūrādhā until 21:33\nyogam: Śūlaḥ until 12:33\nkaranam: Taitilam until 12:40\nkaranam: Garajā until 01:12(+1)\n\nRahu kala: 12:13 to 13:15\nYama kala: 09:06 to 10:08
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190103T000000Z
+DTEND:20190103T000000Z
+SUMMARY:Kṛṣṇa-Trayodaśī / Jyeṣṭhā
+DESCRIPTION:Thu 2019-1-3 \nDaytime: 08:03 to 16:24\n\nMonth: Mārgaśīrṣaḥ\ntithi: Kṛṣṇa-Trayodaśī until 13:51\nnakshatram: Jyeṣṭhā until 23:23\nyogam: Gaṇḍaḥ until 12:17\nkaranam: Vaṇijā until 13:51\nkaranam: Bhadrā until 02:36(+1)\n\nRahu kala: 13:16 to 14:19\nYama kala: 08:03 to 09:06
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190104T000000Z
+DTEND:20190104T000000Z
+SUMMARY:Kṛṣṇa-Caturdaśī / Mūlā
+DESCRIPTION:Fri 2019-1-4 \nDaytime: 08:03 to 16:25\n\nMonth: Mārgaśīrṣaḥ\ntithi: Kṛṣṇa-Caturdaśī until 15:27\nnakshatram: Mūlā until 01:37(+1)\nyogam: Vṛddhiḥ until 12:21\nkaranam: Śakuniḥ until 15:27\nkaranam: Catuṣpāt until 04:25(+1)\n\nRahu kala: 11:11 to 12:14\nYama kala: 14:19 to 15:22
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190105T000000Z
+DTEND:20190105T000000Z
+SUMMARY:Amāvāsyā / Pūrvāṣāḍhā
+DESCRIPTION:Sat 2019-1-5 \nDaytime: 08:03 to 16:26\n\nMonth: Mārgaśīrṣaḥ\ntithi: Amāvāsyā until 17:28\nnakshatram: Pūrvāṣāḍhā until 04:13(+1)\nyogam: Dhruvaḥ until 12:42\nkaranam: Nāgavān until 17:28\nkaranam: Kiṃstughnam until 06:36(+1)\n\nRahu kala: 10:09 to 11:11\nYama kala: 13:17 to 14:20
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190106T000000Z
+DTEND:20190106T000000Z
+SUMMARY:Śukla-Prathamā / Uttarāṣāḍhā
+DESCRIPTION:Sun 2019-1-6 \nDaytime: 08:02 to 16:27\n\nMonth: Pauṣaḥ\ntithi: Śukla-Prathamā until 19:48\nnakshatram: Uttarāṣāḍhā until 07:06(+1)\nyogam: Vyāghātaḥ until 13:19\nkaranam: Bavam until 19:48\n\nRahu kala: 15:24 to 16:27\nYama kala: 12:15 to 13:18
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190107T000000Z
+DTEND:20190107T000000Z
+SUMMARY:Śukla-Dvitīyā / Śravaṇam
+DESCRIPTION:Mon 2019-1-7 \nDaytime: 08:02 to 16:28\n\nMonth: Pauṣaḥ\ntithi: Śukla-Dvitīyā until 22:24\nnakshatram: Śravaṇam\nyogam: Harṣaṇaḥ until 14:08\nkaranam: Bālavam until 09:04\nkaranam: Kaulavam until 22:24\n\nRahu kala: 09:05 to 10:09\nYama kala: 11:12 to 12:15
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190108T000000Z
+DTEND:20190108T000000Z
+SUMMARY:Śukla-Tṛtīyā / Śravaṇam
+DESCRIPTION:Tue 2019-1-8 \nDaytime: 08:02 to 16:30\n\nMonth: Pauṣaḥ\ntithi: Śukla-Tṛtīyā until 01:08(+1)\nnakshatram: Śravaṇam until 10:10\nyogam: Vajraḥ until 15:05\nkaranam: Taitilam until 11:45\nkaranam: Garajā until 01:08(+1)\n\nRahu kala: 14:23 to 15:26\nYama kala: 10:09 to 11:12
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190109T000000Z
+DTEND:20190109T000000Z
+SUMMARY:Śukla-Caturthī / Śraviṣṭhā
+DESCRIPTION:Wed 2019-1-9 \nDaytime: 08:01 to 16:31\n\nMonth: Pauṣaḥ\ntithi: Śukla-Caturthī until 03:52(+1)\nnakshatram: Śraviṣṭhā until 13:20\nyogam: Siddhiḥ until 16:05\nkaranam: Vaṇijā until 14:30\nkaranam: Bhadrā until 03:52(+1)\n\nRahu kala: 12:16 to 13:20\nYama kala: 09:05 to 10:09
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190608T000000Z
+DTEND:20190608T000000Z
+SUMMARY:Śukla-Ṣaṣṭhī / Maghā
+DESCRIPTION:Sat 2019-6-8 \nDaytime: 05:18 to 20:58\n\nMonth: Jyaiṣṭhaḥ\ntithi: Śukla-Ṣaṣṭhī until 14:25\nnakshatram: Maghā until 03:19(+1)\nyogam: Harṣaṇaḥ until 01:58(+1)\nkaranam: Taitilam until 14:25\nkaranam: Garajā until 01:15(+1)\n\nRahu kala: 09:13 to 11:11\nYama kala: 15:06 to 17:03
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191201T000000Z
+DTEND:20191201T000000Z
+SUMMARY:Śukla-Ṣaṣṭhī / Śravaṇam
+DESCRIPTION:Sun 2019-12-1 \nDaytime: 07:42 to 16:14\n\nMonth: Mārgaśīrṣaḥ\ntithi: Śukla-Ṣaṣṭhī until 07:29(+1)\nnakshatram: Śravaṇam until 22:13\nyogam: Dhruvaḥ until 00:08(+1)\nkaranam: Kaulavam until 18:32\nkaranam: Taitilam until 07:29(+1)\n\nRahu kala: 15:10 to 16:14\nYama kala: 11:58 to 13:02
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191202T000000Z
+DTEND:20191202T000000Z
+SUMMARY:Śukla-Saptamī / Śraviṣṭhā
+DESCRIPTION:Mon 2019-12-2 \nDaytime: 07:43 to 16:13\n\nMonth: Mārgaśīrṣaḥ\ntithi: Śukla-Saptamī\nnakshatram: Śraviṣṭhā until 00:47(+1)\nyogam: Vyāghātaḥ until 00:38(+1)\nkaranam: Garajā until 20:34\n\nRahu kala: 08:47 to 09:51\nYama kala: 10:54 to 11:58
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191203T000000Z
+DTEND:20191203T000000Z
+SUMMARY:Śukla-Saptamī / Śatabhiṣak
+DESCRIPTION:Tue 2019-12-3 \nDaytime: 07:44 to 16:13\n\nMonth: Mārgaśīrṣaḥ\ntithi: Śukla-Saptamī until 09:44\nnakshatram: Śatabhiṣak until 03:39(+1)\nyogam: Harṣaṇaḥ until 01:24(+1)\nkaranam: Vaṇijā until 09:44\nkaranam: Bhadrā until 22:58\n\nRahu kala: 14:06 to 15:09\nYama kala: 09:51 to 10:55
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191204T000000Z
+DTEND:20191204T000000Z
+SUMMARY:Śukla-Aṣṭamī / Pūrvaproṣṭhapadā
+DESCRIPTION:Wed 2019-12-4 \nDaytime: 07:45 to 16:12\n\nMonth: Mārgaśīrṣaḥ\ntithi: Śukla-Aṣṭamī until 12:14\nnakshatram: Pūrvaproṣṭhapadā until 06:37(+1)\nyogam: Vajraḥ until 02:15(+1)\nkaranam: Bavam until 12:14\nkaranam: Bālavam until 01:30(+1)\n\nRahu kala: 11:59 to 13:02\nYama kala: 08:49 to 09:52
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191205T000000Z
+DTEND:20191205T000000Z
+SUMMARY:Śukla-Navamī / Uttaraproṣṭhapadā
+DESCRIPTION:Thu 2019-12-5 \nDaytime: 07:47 to 16:12\n\nMonth: Mārgaśīrṣaḥ\ntithi: Śukla-Navamī until 14:45\nnakshatram: Uttaraproṣṭhapadā\nyogam: Siddhiḥ until 03:01(+1)\nkaranam: Kaulavam until 14:45\nkaranam: Taitilam until 03:57(+1)\n\nRahu kala: 13:02 to 14:06\nYama kala: 07:47 to 08:50
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191206T000000Z
+DTEND:20191206T000000Z
+SUMMARY:Śukla-Daśamī / Uttaraproṣṭhapadā
+DESCRIPTION:Fri 2019-12-6 \nDaytime: 07:48 to 16:12\n\nMonth: Mārgaśīrṣaḥ\ntithi: Śukla-Daśamī until 17:04\nnakshatram: Uttaraproṣṭhapadā until 09:27\nyogam: Vyatīpātaḥ until 03:33(+1)\nkaranam: Garajā until 17:04\nkaranam: Vaṇijā until 06:05(+1)\n\nRahu kala: 10:57 to 12:00\nYama kala: 14:06 to 15:09
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191207T000000Z
+DTEND:20191207T000000Z
+SUMMARY:Śukla-Ekādaśī / Revatī
+DESCRIPTION:Sat 2019-12-7 \nDaytime: 07:49 to 16:12\n\nMonth: Mārgaśīrṣaḥ\ntithi: Śukla-Ekādaśī until 18:59\nnakshatram: Revatī until 11:58\nyogam: Varīyān until 03:46(+1)\nkaranam: Bhadrā until 18:59\nkaranam: Bavam until 07:45(+1)\n\nRahu kala: 09:55 to 10:57\nYama kala: 13:03 to 14:06
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191208T000000Z
+DTEND:20191208T000000Z
+SUMMARY:Śukla-Dvādaśī / Aśvinī
+DESCRIPTION:Sun 2019-12-8 \nDaytime: 07:50 to 16:11\n\nMonth: Mārgaśīrṣaḥ\ntithi: Śukla-Dvādaśī until 20:23\nnakshatram: Aśvinī until 14:00\nyogam: Parighaḥ until 03:34(+1)\nkaranam: Bālavam until 20:23\n\nRahu kala: 15:09 to 16:11\nYama kala: 12:01 to 13:03
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191209T000000Z
+DTEND:20191209T000000Z
+SUMMARY:Śukla-Trayodaśī / Apabharaṇī
+DESCRIPTION:Mon 2019-12-9 \nDaytime: 07:51 to 16:11\n\nMonth: Mārgaśīrṣaḥ\ntithi: Śukla-Trayodaśī until 21:13\nnakshatram: Apabharaṇī until 15:30\nyogam: Śivaḥ until 02:55(+1)\nkaranam: Kaulavam until 08:53\nkaranam: Taitilam until 21:13\n\nRahu kala: 08:53 to 09:56\nYama kala: 10:59 to 12:01
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190501T000000Z
+DTEND:20190501T000000Z
+SUMMARY:Kṛṣṇa-Dvādaśī / Uttaraproṣṭhapadā
+DESCRIPTION:Wed 2019-5-1 \nDaytime: 05:57 to 20:15\n\nMonth: Caitraḥ\ntithi: Kṛṣṇa-Dvādaśī until 13:35\nnakshatram: Uttaraproṣṭhapadā until 00:32(+1)\nyogam: Vaidhṛtiḥ until 17:00\nkaranam: Taitilam until 13:35\nkaranam: Garajā until 02:17(+1)\n\nRahu kala: 13:06 to 14:54\nYama kala: 07:45 to 09:32
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190502T000000Z
+DTEND:20190502T000000Z
+SUMMARY:Kṛṣṇa-Trayodaśī / Revatī
+DESCRIPTION:Thu 2019-5-2 \nDaytime: 05:56 to 20:17\n\nMonth: Caitraḥ\ntithi: Kṛṣṇa-Trayodaśī until 14:51\nnakshatram: Revatī until 02:10(+1)\nyogam: Viṣkambhaḥ until 16:57\nkaranam: Vaṇijā until 14:51\nkaranam: Bhadrā until 03:16(+1)\n\nRahu kala: 14:54 to 16:42\nYama kala: 05:56 to 07:43
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190503T000000Z
+DTEND:20190503T000000Z
+SUMMARY:Kṛṣṇa-Caturdaśī / Aśvinī
+DESCRIPTION:Fri 2019-5-3 \nDaytime: 05:54 to 20:18\n\nMonth: Caitraḥ\ntithi: Kṛṣṇa-Caturdaśī until 15:33\nnakshatram: Aśvinī until 03:17(+1)\nyogam: Prītiḥ until 16:28\nkaranam: Śakuniḥ until 15:33\nkaranam: Catuṣpāt until 03:43(+1)\n\nRahu kala: 11:18 to 13:06\nYama kala: 16:42 to 18:30
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190504T000000Z
+DTEND:20190504T000000Z
+SUMMARY:Amāvāsyā / Apabharaṇī
+DESCRIPTION:Sat 2019-5-4 \nDaytime: 05:53 to 20:20\n\nMonth: Caitraḥ\ntithi: Amāvāsyā until 15:45\nnakshatram: Apabharaṇī until 03:54(+1)\nyogam: Āyuṣmān until 15:34\nkaranam: Nāgavān until 15:45\nkaranam: Kiṃstughnam until 03:40(+1)\n\nRahu kala: 09:29 to 11:18\nYama kala: 14:54 to 16:43
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190505T000000Z
+DTEND:20190505T000000Z
+SUMMARY:Śukla-Prathamā / Kṛttikā
+DESCRIPTION:Sun 2019-5-5 \nDaytime: 05:51 to 20:21\n\nMonth: Vaiśākhaḥ\ntithi: Śukla-Prathamā until 15:28\nnakshatram: Kṛttikā until 04:06(+1)\nyogam: Saubhāgyam until 14:18\nkaranam: Bavam until 15:28\nkaranam: Bālavam until 03:11(+1)\n\nRahu kala: 18:32 to 20:21\nYama kala: 13:06 to 14:55
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190506T000000Z
+DTEND:20190506T000000Z
+SUMMARY:Śukla-Dvitīyā / Rohiṇī
+DESCRIPTION:Mon 2019-5-6 \nDaytime: 05:50 to 20:22\n\nMonth: Vaiśākhaḥ\ntithi: Śukla-Dvitīyā until 14:48\nnakshatram: Rohiṇī until 03:57(+1)\nyogam: Śobhanaḥ until 12:43\nkaranam: Kaulavam until 14:48\nkaranam: Taitilam until 02:19(+1)\n\nRahu kala: 07:39 to 09:28\nYama kala: 11:17 to 13:06
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190507T000000Z
+DTEND:20190507T000000Z
+SUMMARY:Śukla-Tṛtīyā / Mṛgaśīrṣam
+DESCRIPTION:Tue 2019-5-7 \nDaytime: 05:48 to 20:24\n\nMonth: Vaiśākhaḥ\ntithi: Śukla-Tṛtīyā until 13:47\nnakshatram: Mṛgaśīrṣam until 03:30(+1)\nyogam: Atigaṇḍaḥ until 10:52\nkaranam: Garajā until 13:47\nkaranam: Vaṇijā until 01:10(+1)\n\nRahu kala: 16:45 to 18:34\nYama kala: 09:27 to 11:16
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190508T000000Z
+DTEND:20190508T000000Z
+SUMMARY:Śukla-Caturthī / Ārdrā
+DESCRIPTION:Wed 2019-5-8 \nDaytime: 05:47 to 20:25\n\nMonth: Vaiśākhaḥ\ntithi: Śukla-Caturthī until 12:29\nnakshatram: Ārdrā until 02:47(+1)\nyogam: Sukarma until 08:47\nkaranam: Bhadrā until 12:29\nkaranam: Bavam until 23:44\n\nRahu kala: 13:06 to 14:56\nYama kala: 07:36 to 09:26
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190509T000000Z
+DTEND:20190509T000000Z
+SUMMARY:Śukla-Pañcamī / Punarvasuḥ
+DESCRIPTION:Thu 2019-5-9 \nDaytime: 05:45 to 20:26\n\nMonth: Vaiśākhaḥ\ntithi: Śukla-Pañcamī until 10:56\nnakshatram: Punarvasuḥ until 01:51(+1)\nyogam: Dhṛtiḥ until 06:30\nyogam: Śūlaḥ until 04:03(+1)\nkaranam: Bālavam until 10:56\nkaranam: Kaulavam until 22:05\n\nRahu kala: 14:56 to 16:46\nYama kala: 05:45 to 07:35
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190330T000000Z
+DTEND:20190330T000000Z
+SUMMARY:Kṛṣṇa-Daśamī / Śravaṇam
+DESCRIPTION:Sat 2019-3-30 \nDaytime: 06:57 to 19:31\n\nMonth: Phālgunaḥ\ntithi: Kṛṣṇa-Daśamī until 14:53\nnakshatram: Śravaṇam until 06:17(+1)\nyogam: Siddhaḥ until 06:45(+1)\nkaranam: Bhadrā until 14:53\nkaranam: Bavam until 04:13(+1)\n\nRahu kala: 10:05 to 11:39\nYama kala: 14:48 to 16:22
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190331T000000Z
+DTEND:20190331T000000Z
+SUMMARY:Kṛṣṇa-Ekādaśī / Śraviṣṭhā
+DESCRIPTION:Sun 2019-3-31 \nDaytime: 06:55 to 19:32\n\nMonth: Phālgunaḥ\ntithi: Kṛṣṇa-Ekādaśī until 17:34\nnakshatram: Śraviṣṭhā\nyogam: Sādhyaḥ\nkaranam: Bālavam until 17:34\nkaranam: Kaulavam until 06:53(+1)\n\nRahu kala: 17:57 to 19:32\nYama kala: 13:13 to 14:48
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-31
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190730T000000Z
+DTEND:20190730T000000Z
+SUMMARY:Kṛṣṇa-Caturdaśī / Punarvasuḥ
+DESCRIPTION:Tue 2019-7-30 \nDaytime: 05:49 to 20:40\n\nMonth: Āṣāḍhaḥ\ntithi: Kṛṣṇa-Caturdaśī until 23:27\nnakshatram: Punarvasuḥ until 02:11(+1)\nyogam: Harṣaṇaḥ until 10:08\nkaranam: Bhadrā until 12:57\nkaranam: Śakuniḥ until 23:27\n\nRahu kala: 16:58 to 18:49\nYama kala: 09:32 to 11:23
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190731T000000Z
+DTEND:20190731T000000Z
+SUMMARY:Amāvāsyā / Puṣyaḥ
+DESCRIPTION:Wed 2019-7-31 \nDaytime: 05:51 to 20:39\n\nMonth: Āṣāḍhaḥ\ntithi: Amāvāsyā until 20:11\nnakshatram: Puṣyaḥ until 23:41\nyogam: Vajraḥ until 06:36\nyogam: Siddhiḥ until 02:46(+1)\nkaranam: Catuṣpāt until 09:52\nkaranam: Nāgavān until 20:11\n\nRahu kala: 13:15 to 15:06\nYama kala: 07:42 to 09:33
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-31
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190621T000000Z
+DTEND:20190621T000000Z
+SUMMARY:Kṛṣṇa-Caturthī / Śravaṇam
+DESCRIPTION:Fri 2019-6-21 \nDaytime: 05:17 to 21:04\n\nMonth: Jyaiṣṭhaḥ\ntithi: Kṛṣṇa-Caturthī until 06:38\nnakshatram: Śravaṇam until 05:44\nyogam: Vaidhṛtiḥ until 07:27\nkaranam: Bālavam until 06:38\nkaranam: Kaulavam until 19:46\n\nRahu kala: 11:12 to 13:11\nYama kala: 17:07 to 19:06
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190920T000000Z
+DTEND:20190920T000000Z
+SUMMARY:Kṛṣṇa-Ṣaṣṭhī / Rohiṇī
+DESCRIPTION:Fri 2019-9-20 \nDaytime: 06:58 to 19:06\n\nMonth: Bhādrapadaḥ\ntithi: Kṛṣṇa-Ṣaṣṭhī until 07:41\nnakshatram: Rohiṇī until 22:52\nyogam: Vajraḥ until 10:26\nkaranam: Vaṇijā until 07:41\nkaranam: Bhadrā until 19:51\n\nRahu kala: 11:31 to 13:02\nYama kala: 16:04 to 17:35
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190921T000000Z
+DTEND:20190921T000000Z
+SUMMARY:Kṛṣṇa-Saptamī / Mṛgaśīrṣam
+DESCRIPTION:Sat 2019-9-21 \nDaytime: 06:59 to 19:04\n\nMonth: Bhādrapadaḥ\ntithi: Kṛṣṇa-Saptamī until 07:50\nnakshatram: Mṛgaśīrṣam until 23:16\nyogam: Siddhiḥ until 09:27\nkaranam: Bavam until 07:50\nkaranam: Bālavam until 19:40\n\nRahu kala: 10:00 to 11:31\nYama kala: 14:32 to 16:03
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190922T000000Z
+DTEND:20190922T000000Z
+SUMMARY:Kṛṣṇa-Aṣṭamī / Ārdrā
+DESCRIPTION:Sun 2019-9-22 \nDaytime: 07:00 to 19:02\n\nMonth: Bhādrapadaḥ\ntithi: Kṛṣṇa-Aṣṭamī until 07:20\ntithi: Kṛṣṇa-Navamī until 06:07(+1)\nnakshatram: Ārdrā until 22:59\nyogam: Vyatīpātaḥ until 07:56\nyogam: Varīyān until 05:51(+1)\nkaranam: Kaulavam until 07:20\nkaranam: Taitilam until 18:49\nkaranam: Garajā until 06:07(+1)\n\nRahu kala: 17:32 to 19:02\nYama kala: 13:01 to 14:31
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190923T000000Z
+DTEND:20190923T000000Z
+SUMMARY:Kṛṣṇa-Daśamī / Punarvasuḥ
+DESCRIPTION:Mon 2019-9-23 \nDaytime: 07:02 to 19:00\n\nMonth: Bhādrapadaḥ\ntithi: Kṛṣṇa-Daśamī until 04:12(+1)\nnakshatram: Punarvasuḥ until 22:01\nyogam: Parighaḥ until 03:12(+1)\nkaranam: Vaṇijā until 17:15\nkaranam: Bhadrā until 04:12(+1)\n\nRahu kala: 08:31 to 10:01\nYama kala: 11:31 to 13:01
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190124T000000Z
+DTEND:20190124T000000Z
+SUMMARY:Kṛṣṇa-Pañcamī / Uttaraphalgunī
+DESCRIPTION:Thu 2019-1-24 \nDaytime: 07:50 to 16:52\n\nMonth: Pauṣaḥ\ntithi: Kṛṣṇa-Pañcamī until 04:48(+1)\nnakshatram: Uttaraphalgunī until 02:55(+1)\nyogam: Atigaṇḍaḥ until 01:17(+1)\nkaranam: Kaulavam until 18:01\nkaranam: Taitilam until 04:48(+1)\n\nRahu kala: 13:29 to 14:37\nYama kala: 07:50 to 08:58
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190125T000000Z
+DTEND:20190125T000000Z
+SUMMARY:Kṛṣṇa-Ṣaṣṭhī / Hastaḥ
+DESCRIPTION:Fri 2019-1-25 \nDaytime: 07:49 to 16:53\n\nMonth: Pauṣaḥ\ntithi: Kṛṣṇa-Ṣaṣṭhī until 02:49(+1)\nnakshatram: Hastaḥ until 01:34(+1)\nyogam: Sukarma until 22:21\nkaranam: Garajā until 15:43\nkaranam: Vaṇijā until 02:49(+1)\n\nRahu kala: 11:13 to 12:21\nYama kala: 14:37 to 15:45
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190126T000000Z
+DTEND:20190126T000000Z
+SUMMARY:Kṛṣṇa-Saptamī / Citrā
+DESCRIPTION:Sat 2019-1-26 \nDaytime: 07:48 to 16:55\n\nMonth: Pauṣaḥ\ntithi: Kṛṣṇa-Saptamī until 01:32(+1)\nnakshatram: Citrā until 00:54(+1)\nyogam: Dhṛtiḥ until 19:59\nkaranam: Bhadrā until 14:05\nkaranam: Bavam until 01:32(+1)\n\nRahu kala: 10:05 to 11:13\nYama kala: 13:30 to 14:38
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190127T000000Z
+DTEND:20190127T000000Z
+SUMMARY:Kṛṣṇa-Aṣṭamī / Svātī
+DESCRIPTION:Sun 2019-1-27 \nDaytime: 07:47 to 16:57\n\nMonth: Pauṣaḥ\ntithi: Kṛṣṇa-Aṣṭamī until 00:59(+1)\nnakshatram: Svātī until 00:58(+1)\nyogam: Śūlaḥ until 18:10\nkaranam: Bālavam until 13:10\nkaranam: Kaulavam until 00:59(+1)\n\nRahu kala: 15:48 to 16:57\nYama kala: 12:22 to 13:31
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190128T000000Z
+DTEND:20190128T000000Z
+SUMMARY:Kṛṣṇa-Navamī / Viśākhā
+DESCRIPTION:Mon 2019-1-28 \nDaytime: 07:46 to 16:58\n\nMonth: Pauṣaḥ\ntithi: Kṛṣṇa-Navamī until 01:10(+1)\nnakshatram: Viśākhā until 01:44(+1)\nyogam: Gaṇḍaḥ until 16:57\nkaranam: Taitilam until 12:59\nkaranam: Garajā until 01:10(+1)\n\nRahu kala: 08:55 to 10:04\nYama kala: 11:13 to 12:22
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190129T000000Z
+DTEND:20190129T000000Z
+SUMMARY:Kṛṣṇa-Daśamī / Anūrādhā
+DESCRIPTION:Tue 2019-1-29 \nDaytime: 07:45 to 17:00\n\nMonth: Pauṣaḥ\ntithi: Kṛṣṇa-Daśamī until 02:03(+1)\nnakshatram: Anūrādhā until 03:10(+1)\nyogam: Vṛddhiḥ until 16:16\nkaranam: Vaṇijā until 13:32\nkaranam: Bhadrā until 02:03(+1)\n\nRahu kala: 14:41 to 15:50\nYama kala: 10:03 to 11:13
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190924T000000Z
+DTEND:20190924T000000Z
+SUMMARY:Kṛṣṇa-Ekādaśī / Puṣyaḥ
+DESCRIPTION:Tue 2019-9-24 \nDaytime: 07:03 to 18:58\n\nMonth: Bhādrapadaḥ\ntithi: Kṛṣṇa-Ekādaśī until 01:39(+1)\nnakshatram: Puṣyaḥ until 20:23\nyogam: Śivaḥ until 00:01(+1)\nkaranam: Bavam until 15:00\nkaranam: Bālavam until 01:39(+1)\n\nRahu kala: 15:59 to 17:28\nYama kala: 10:02 to 11:31
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190925T000000Z
+DTEND:20190925T000000Z
+SUMMARY:Kṛṣṇa-Dvādaśī / Āśreṣā
+DESCRIPTION:Wed 2019-9-25 \nDaytime: 07:04 to 18:56\n\nMonth: Bhādrapadaḥ\ntithi: Kṛṣṇa-Dvādaśī until 22:32\nnakshatram: Āśreṣā until 18:10\nyogam: Siddhaḥ until 20:23\nkaranam: Kaulavam until 12:09\nkaranam: Taitilam until 22:32\n\nRahu kala: 13:00 to 14:29\nYama kala: 08:33 to 10:02
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190926T000000Z
+DTEND:20190926T000000Z
+SUMMARY:Kṛṣṇa-Trayodaśī / Maghā
+DESCRIPTION:Thu 2019-9-26 \nDaytime: 07:06 to 18:54\n\nMonth: Bhādrapadaḥ\ntithi: Kṛṣṇa-Trayodaśī until 19:02\nnakshatram: Maghā until 15:31\nyogam: Sādhyaḥ until 16:24\nkaranam: Garajā until 08:49\nkaranam: Vaṇijā until 19:02\nkaranam: Bhadrā until 05:10(+1)\n\nRahu kala: 14:28 to 15:57\nYama kala: 07:06 to 08:34
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190927T000000Z
+DTEND:20190927T000000Z
+SUMMARY:Kṛṣṇa-Caturdaśī / Pūrvaphalgunī
+DESCRIPTION:Fri 2019-9-27 \nDaytime: 07:07 to 18:52\n\nMonth: Bhādrapadaḥ\ntithi: Kṛṣṇa-Caturdaśī until 15:16\nnakshatram: Pūrvaphalgunī until 12:34\nyogam: Śubhaḥ until 12:11\nkaranam: Śakuniḥ until 15:16\nkaranam: Catuṣpāt until 01:21(+1)\n\nRahu kala: 11:31 to 12:59\nYama kala: 15:55 to 17:24
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190929T000000Z
+DTEND:20190929T000000Z
+SUMMARY:Śukla-Prathamā / Citrā
+DESCRIPTION:Sun 2019-9-29 \nDaytime: 07:10 to 18:47\n\nMonth: Āśvayujaḥ\ntithi: Śukla-Prathamā until 07:43\ntithi: Śukla-Dvitīyā until 04:19(+1)\nnakshatram: Citrā until 03:59(+1)\nyogam: Māhendraḥ until 23:39\nkaranam: Bavam until 07:43\nkaranam: Bālavam until 17:58\nkaranam: Kaulavam until 04:19(+1)\n\nRahu kala: 17:20 to 18:47\nYama kala: 12:59 to 14:26
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190928T000000Z
+DTEND:20190928T000000Z
+SUMMARY:Amāvāsyā / Uttaraphalgunī
+DESCRIPTION:Sat 2019-9-28 \nDaytime: 07:09 to 18:50\n\nMonth: Bhādrapadaḥ\ntithi: Amāvāsyā until 11:26\nnakshatram: Uttaraphalgunī until 09:32\nnakshatram: Hastaḥ until 06:37(+1)\nyogam: Śubhraḥ until 07:53\nyogam: Brāhmaḥ until 03:39(+1)\nkaranam: Nāgavān until 11:26\nkaranam: Kiṃstughnam until 21:33\n\nRahu kala: 10:04 to 11:31\nYama kala: 14:27 to 15:54
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190527T000000Z
+DTEND:20190527T000000Z
+SUMMARY:Kṛṣṇa-Navamī / Pūrvaproṣṭhapadā
+DESCRIPTION:Mon 2019-5-27 \nDaytime: 05:25 to 20:48\n\nMonth: Vaiśākhaḥ\ntithi: Kṛṣṇa-Navamī until 01:01(+1)\nnakshatram: Pūrvaproṣṭhapadā\nyogam: Viṣkambhaḥ until 01:16(+1)\nkaranam: Taitilam until 11:56\nkaranam: Garajā until 01:01(+1)\n\nRahu kala: 07:20 to 09:16\nYama kala: 11:11 to 13:06
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190528T000000Z
+DTEND:20190528T000000Z
+SUMMARY:Kṛṣṇa-Daśamī / Pūrvaproṣṭhapadā
+DESCRIPTION:Tue 2019-5-28 \nDaytime: 05:24 to 20:49\n\nMonth: Vaiśākhaḥ\ntithi: Kṛṣṇa-Daśamī until 02:51(+1)\nnakshatram: Pūrvaproṣṭhapadā until 06:28\nyogam: Prītiḥ until 01:46(+1)\nkaranam: Vaṇijā until 14:00\nkaranam: Bhadrā until 02:51(+1)\n\nRahu kala: 16:58 to 18:53\nYama kala: 09:15 to 11:11
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190529T000000Z
+DTEND:20190529T000000Z
+SUMMARY:Kṛṣṇa-Ekādaśī / Uttaraproṣṭhapadā
+DESCRIPTION:Wed 2019-5-29 \nDaytime: 05:23 to 20:50\n\nMonth: Vaiśākhaḥ\ntithi: Kṛṣṇa-Ekādaśī until 04:08(+1)\nnakshatram: Uttaraproṣṭhapadā until 08:48\nyogam: Āyuṣmān until 01:50(+1)\nkaranam: Bavam until 15:34\nkaranam: Bālavam until 04:08(+1)\n\nRahu kala: 13:07 to 15:02\nYama kala: 07:19 to 09:15
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190710T000000Z
+DTEND:20190710T000000Z
+SUMMARY:Śukla-Navamī / Svātī
+DESCRIPTION:Wed 2019-7-10 \nDaytime: 05:28 to 21:00\n\nMonth: Āṣāḍhaḥ\ntithi: Śukla-Navamī until 13:32\nnakshatram: Svātī until 03:25(+1)\nyogam: Siddhaḥ until 19:34\nkaranam: Kaulavam until 13:32\nkaranam: Taitilam until 00:59(+1)\n\nRahu kala: 13:14 to 15:11\nYama kala: 07:24 to 09:21
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190711T000000Z
+DTEND:20190711T000000Z
+SUMMARY:Śukla-Daśamī / Viśākhā
+DESCRIPTION:Thu 2019-7-11 \nDaytime: 05:29 to 21:00\n\nMonth: Āṣāḍhaḥ\ntithi: Śukla-Daśamī until 12:32\nnakshatram: Viśākhā until 03:27(+1)\nyogam: Sādhyaḥ until 17:50\nkaranam: Garajā until 12:32\nkaranam: Vaṇijā until 00:13(+1)\n\nRahu kala: 15:10 to 17:07\nYama kala: 05:29 to 07:25
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190712T000000Z
+DTEND:20190712T000000Z
+SUMMARY:Śukla-Ekādaśī / Anūrādhā
+DESCRIPTION:Fri 2019-7-12 \nDaytime: 05:30 to 20:59\n\nMonth: Āṣāḍhaḥ\ntithi: Śukla-Ekādaśī until 12:01\nnakshatram: Anūrādhā until 03:57(+1)\nyogam: Śubhaḥ until 16:30\nkaranam: Bhadrā until 12:01\nkaranam: Bavam until 23:56\n\nRahu kala: 11:18 to 13:14\nYama kala: 17:07 to 19:03
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190713T000000Z
+DTEND:20190713T000000Z
+SUMMARY:Śukla-Dvādaśī / Jyeṣṭhā
+DESCRIPTION:Sat 2019-7-13 \nDaytime: 05:31 to 20:58\n\nMonth: Āṣāḍhaḥ\ntithi: Śukla-Dvādaśī until 11:58\nnakshatram: Jyeṣṭhā until 04:56(+1)\nyogam: Śubhraḥ until 15:33\nkaranam: Bālavam until 11:58\nkaranam: Kaulavam until 00:08(+1)\n\nRahu kala: 09:22 to 11:18\nYama kala: 15:10 to 17:06
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190714T000000Z
+DTEND:20190714T000000Z
+SUMMARY:Śukla-Trayodaśī / Mūlā
+DESCRIPTION:Sun 2019-7-14 \nDaytime: 05:32 to 20:57\n\nMonth: Āṣāḍhaḥ\ntithi: Śukla-Trayodaśī until 12:24\nnakshatram: Mūlā\nyogam: Brāhmaḥ until 14:58\nkaranam: Taitilam until 12:24\nkaranam: Garajā until 00:48(+1)\n\nRahu kala: 19:02 to 20:57\nYama kala: 13:14 to 15:10
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190715T000000Z
+DTEND:20190715T000000Z
+SUMMARY:Śukla-Caturdaśī / Mūlā
+DESCRIPTION:Mon 2019-7-15 \nDaytime: 05:32 to 20:57\n\nMonth: Āṣāḍhaḥ\ntithi: Śukla-Caturdaśī until 13:18\nnakshatram: Mūlā until 06:22\nyogam: Māhendraḥ until 14:44\nkaranam: Vaṇijā until 13:18\nkaranam: Bhadrā until 01:55(+1)\n\nRahu kala: 07:28 to 09:24\nYama kala: 11:19 to 13:15
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190716T000000Z
+DTEND:20190716T000000Z
+SUMMARY:Paurṇamāsī / Pūrvāṣāḍhā
+DESCRIPTION:Tue 2019-7-16 \nDaytime: 05:33 to 20:56\n\nMonth: Āṣāḍhaḥ\ntithi: Paurṇamāsī until 14:38\nnakshatram: Pūrvāṣāḍhā until 08:13\nyogam: Vaidhṛtiḥ until 14:51\nkaranam: Bavam until 14:38\nkaranam: Bālavam until 03:27(+1)\n\nRahu kala: 17:05 to 19:01\nYama kala: 09:24 to 11:19
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190717T000000Z
+DTEND:20190717T000000Z
+SUMMARY:Kṛṣṇa-Prathamā / Uttarāṣāḍhā
+DESCRIPTION:Wed 2019-7-17 \nDaytime: 05:35 to 20:55\n\nMonth: Āṣāḍhaḥ\ntithi: Kṛṣṇa-Prathamā until 16:21\nnakshatram: Uttarāṣāḍhā until 10:28\nyogam: Viṣkambhaḥ until 15:16\nkaranam: Kaulavam until 16:21\nkaranam: Taitilam until 05:21(+1)\n\nRahu kala: 13:15 to 15:10\nYama kala: 07:30 to 09:25
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190318T000000Z
+DTEND:20190318T000000Z
+SUMMARY:Śukla-Trayodaśī / Āśreṣā
+DESCRIPTION:Mon 2019-3-18 \nDaytime: 07:21 to 19:14\n\nMonth: Phālgunaḥ\ntithi: Śukla-Trayodaśī until 01:48(+1)\nnakshatram: Āśreṣā until 09:16\nnakshatram: Maghā until 06:35(+1)\nyogam: Sukarma until 08:47\nyogam: Dhṛtiḥ until 04:47(+1)\nkaranam: Kaulavam until 15:32\nkaranam: Taitilam until 01:48(+1)\n\nRahu kala: 08:50 to 10:19\nYama kala: 11:48 to 13:17
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190319T000000Z
+DTEND:20190319T000000Z
+SUMMARY:Śukla-Caturdaśī / Pūrvaphalgunī
+DESCRIPTION:Tue 2019-3-19 \nDaytime: 07:19 to 19:15\n\nMonth: Phālgunaḥ\ntithi: Śukla-Caturdaśī until 22:15\nnakshatram: Pūrvaphalgunī until 03:47(+1)\nyogam: Śūlaḥ until 00:41(+1)\nkaranam: Garajā until 12:02\nkaranam: Vaṇijā until 22:15\n\nRahu kala: 16:16 to 17:46\nYama kala: 10:18 to 11:48
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190718T000000Z
+DTEND:20190718T000000Z
+SUMMARY:Kṛṣṇa-Dvitīyā / Śravaṇam
+DESCRIPTION:Thu 2019-7-18 \nDaytime: 05:36 to 20:54\n\nMonth: Āṣāḍhaḥ\ntithi: Kṛṣṇa-Dvitīyā until 18:25\nnakshatram: Śravaṇam until 13:04\nyogam: Prītiḥ until 15:57\nkaranam: Garajā until 18:25\n\nRahu kala: 15:10 to 17:04\nYama kala: 05:36 to 07:30
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190719T000000Z
+DTEND:20190719T000000Z
+SUMMARY:Kṛṣṇa-Tṛtīyā / Śraviṣṭhā
+DESCRIPTION:Fri 2019-7-19 \nDaytime: 05:37 to 20:53\n\nMonth: Āṣāḍhaḥ\ntithi: Kṛṣṇa-Tṛtīyā until 20:43\nnakshatram: Śraviṣṭhā until 15:55\nyogam: Āyuṣmān until 16:49\nkaranam: Vaṇijā until 07:33\nkaranam: Bhadrā until 20:43\n\nRahu kala: 11:20 to 13:15\nYama kala: 17:04 to 18:59
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190313T000000Z
+DTEND:20190313T000000Z
+SUMMARY:Śukla-Saptamī / Rohiṇī
+DESCRIPTION:Wed 2019-3-13 \nDaytime: 07:31 to 19:06\n\nMonth: Phālgunaḥ\ntithi: Śukla-Saptamī until 15:53\nnakshatram: Rohiṇī until 16:35\nyogam: Prītiḥ until 23:50\nkaranam: Vaṇijā until 15:53\nkaranam: Bhadrā until 03:27(+1)\n\nRahu kala: 13:19 to 14:46\nYama kala: 08:58 to 10:25
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190314T000000Z
+DTEND:20190314T000000Z
+SUMMARY:Śukla-Aṣṭamī / Mṛgaśīrṣam
+DESCRIPTION:Thu 2019-3-14 \nDaytime: 07:29 to 19:08\n\nMonth: Phālgunaḥ\ntithi: Śukla-Aṣṭamī until 14:51\nnakshatram: Mṛgaśīrṣam until 16:12\nyogam: Āyuṣmān until 21:41\nkaranam: Bavam until 14:51\nkaranam: Bālavam until 02:07(+1)\n\nRahu kala: 14:46 to 16:13\nYama kala: 07:29 to 08:56
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190315T000000Z
+DTEND:20190315T000000Z
+SUMMARY:Śukla-Navamī / Ārdrā
+DESCRIPTION:Fri 2019-3-15 \nDaytime: 07:27 to 19:09\n\nMonth: Phālgunaḥ\ntithi: Śukla-Navamī until 13:14\nnakshatram: Ārdrā until 15:14\nyogam: Saubhāgyam until 19:05\nkaranam: Kaulavam until 13:14\nkaranam: Taitilam until 00:12(+1)\n\nRahu kala: 11:50 to 13:18\nYama kala: 16:14 to 17:42
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190316T000000Z
+DTEND:20190316T000000Z
+SUMMARY:Śukla-Daśamī / Punarvasuḥ
+DESCRIPTION:Sat 2019-3-16 \nDaytime: 07:25 to 19:11\n\nMonth: Phālgunaḥ\ntithi: Śukla-Daśamī until 11:03\nnakshatram: Punarvasuḥ until 13:43\nyogam: Śobhanaḥ until 16:02\nkaranam: Garajā until 11:03\nkaranam: Vaṇijā until 21:45\n\nRahu kala: 10:21 to 11:50\nYama kala: 14:46 to 16:14
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190317T000000Z
+DTEND:20190317T000000Z
+SUMMARY:Śukla-Ekādaśī / Puṣyaḥ
+DESCRIPTION:Sun 2019-3-17 \nDaytime: 07:23 to 19:12\n\nMonth: Phālgunaḥ\ntithi: Śukla-Ekādaśī until 08:20\ntithi: Śukla-Dvādaśī until 05:13(+1)\nnakshatram: Puṣyaḥ until 11:41\nyogam: Atigaṇḍaḥ until 12:34\nkaranam: Bhadrā until 08:20\nkaranam: Bavam until 18:49\nkaranam: Bālavam until 05:13(+1)\n\nRahu kala: 17:44 to 19:12\nYama kala: 13:18 to 14:46
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191120T000000Z
+DTEND:20191120T000000Z
+SUMMARY:Kṛṣṇa-Navamī / Pūrvaphalgunī
+DESCRIPTION:Wed 2019-11-20 \nDaytime: 07:27 to 16:22\n\nMonth: Kārtikaḥ\ntithi: Kṛṣṇa-Navamī until 21:58\nnakshatram: Pūrvaphalgunī until 04:59(+1)\nyogam: Vaidhṛtiḥ until 02:44(+1)\nkaranam: Taitilam until 11:07\nkaranam: Garajā until 21:58\n\nRahu kala: 11:54 to 13:01\nYama kala: 08:34 to 09:41
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191121T000000Z
+DTEND:20191121T000000Z
+SUMMARY:Kṛṣṇa-Daśamī / Uttaraphalgunī
+DESCRIPTION:Thu 2019-11-21 \nDaytime: 07:28 to 16:21\n\nMonth: Kārtikaḥ\ntithi: Kṛṣṇa-Daśamī until 19:31\nnakshatram: Uttaraphalgunī until 03:11(+1)\nyogam: Viṣkambhaḥ until 23:30\nkaranam: Vaṇijā until 08:46\nkaranam: Bhadrā until 19:31\nkaranam: Bavam until 06:13(+1)\n\nRahu kala: 13:01 to 14:08\nYama kala: 07:28 to 08:35
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191122T000000Z
+DTEND:20191122T000000Z
+SUMMARY:Kṛṣṇa-Ekādaśī / Hastaḥ
+DESCRIPTION:Fri 2019-11-22 \nDaytime: 07:30 to 16:20\n\nMonth: Kārtikaḥ\ntithi: Kṛṣṇa-Ekādaśī until 16:54\nnakshatram: Hastaḥ until 01:15(+1)\nyogam: Prītiḥ until 20:09\nkaranam: Bālavam until 16:54\nkaranam: Kaulavam until 03:33(+1)\n\nRahu kala: 10:48 to 11:55\nYama kala: 14:07 to 15:13
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191123T000000Z
+DTEND:20191123T000000Z
+SUMMARY:Kṛṣṇa-Dvādaśī / Citrā
+DESCRIPTION:Sat 2019-11-23 \nDaytime: 07:31 to 16:19\n\nMonth: Kārtikaḥ\ntithi: Kṛṣṇa-Dvādaśī until 14:13\nnakshatram: Citrā until 23:17\nyogam: Āyuṣmān until 16:45\nkaranam: Taitilam until 14:13\nkaranam: Garajā until 00:53(+1)\n\nRahu kala: 09:43 to 10:49\nYama kala: 13:01 to 14:07
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191124T000000Z
+DTEND:20191124T000000Z
+SUMMARY:Kṛṣṇa-Trayodaśī / Svātī
+DESCRIPTION:Sun 2019-11-24 \nDaytime: 07:33 to 16:18\n\nMonth: Kārtikaḥ\ntithi: Kṛṣṇa-Trayodaśī until 11:35\nnakshatram: Svātī until 21:27\nyogam: Saubhāgyam until 13:25\nkaranam: Vaṇijā until 11:35\nkaranam: Bhadrā until 22:21\n\nRahu kala: 15:12 to 16:18\nYama kala: 11:55 to 13:01
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191125T000000Z
+DTEND:20191125T000000Z
+SUMMARY:Kṛṣṇa-Caturdaśī / Viśākhā
+DESCRIPTION:Mon 2019-11-25 \nDaytime: 07:34 to 16:17\n\nMonth: Kārtikaḥ\ntithi: Kṛṣṇa-Caturdaśī until 09:10\ntithi: Amāvāsyā until 07:05(+1)\nnakshatram: Viśākhā until 19:53\nyogam: Śobhanaḥ until 10:15\nyogam: Atigaṇḍaḥ until 07:21(+1)\nkaranam: Śakuniḥ until 09:10\nkaranam: Catuṣpāt until 20:04\nkaranam: Nāgavān until 07:05(+1)\n\nRahu kala: 08:39 to 09:45\nYama kala: 10:50 to 11:56
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191126T000000Z
+DTEND:20191126T000000Z
+SUMMARY:Śukla-Prathamā / Anūrādhā
+DESCRIPTION:Tue 2019-11-26 \nDaytime: 07:35 to 16:17\n\nMonth: Mārgaśīrṣaḥ\ntithi: Śukla-Prathamā until 05:29(+1)\nnakshatram: Anūrādhā until 18:42\nyogam: Sukarma until 04:51(+1)\nkaranam: Kiṃstughnam until 18:13\nkaranam: Bavam until 05:29(+1)\n\nRahu kala: 14:06 to 15:11\nYama kala: 09:46 to 10:51
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191127T000000Z
+DTEND:20191127T000000Z
+SUMMARY:Śukla-Dvitīyā / Jyeṣṭhā
+DESCRIPTION:Wed 2019-11-27 \nDaytime: 07:37 to 16:16\n\nMonth: Mārgaśīrṣaḥ\ntithi: Śukla-Dvitīyā until 04:28(+1)\nnakshatram: Jyeṣṭhā until 18:04\nyogam: Dhṛtiḥ until 02:49(+1)\nkaranam: Bālavam until 16:54\nkaranam: Kaulavam until 04:28(+1)\n\nRahu kala: 11:56 to 13:01\nYama kala: 08:42 to 09:46
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191128T000000Z
+DTEND:20191128T000000Z
+SUMMARY:Śukla-Tṛtīyā / Mūlā
+DESCRIPTION:Thu 2019-11-28 \nDaytime: 07:38 to 16:15\n\nMonth: Mārgaśīrṣaḥ\ntithi: Śukla-Tṛtīyā until 04:09(+1)\nnakshatram: Mūlā until 18:04\nyogam: Śūlaḥ until 01:19(+1)\nkaranam: Taitilam until 16:13\nkaranam: Garajā until 04:09(+1)\n\nRahu kala: 13:01 to 14:06\nYama kala: 07:38 to 08:43
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191129T000000Z
+DTEND:20191129T000000Z
+SUMMARY:Śukla-Caturthī / Pūrvāṣāḍhā
+DESCRIPTION:Fri 2019-11-29 \nDaytime: 07:39 to 16:15\n\nMonth: Mārgaśīrṣaḥ\ntithi: Śukla-Caturthī until 04:34(+1)\nnakshatram: Pūrvāṣāḍhā until 18:46\nyogam: Gaṇḍaḥ until 00:23(+1)\nkaranam: Vaṇijā until 16:16\nkaranam: Bhadrā until 04:34(+1)\n\nRahu kala: 10:53 to 11:57\nYama kala: 14:06 to 15:10
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-11-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190901T000000Z
+DTEND:20190901T000000Z
+SUMMARY:Śukla-Tṛtīyā / Hastaḥ
+DESCRIPTION:Sun 2019-9-1 \nDaytime: 06:32 to 19:44\n\nMonth: Bhādrapadaḥ\ntithi: Śukla-Tṛtīyā until 16:26\nnakshatram: Hastaḥ until 20:03\nyogam: Śubhaḥ until 17:08\nkaranam: Garajā until 16:26\nkaranam: Vaṇijā until 02:51(+1)\n\nRahu kala: 18:05 to 19:44\nYama kala: 13:08 to 14:47
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190902T000000Z
+DTEND:20190902T000000Z
+SUMMARY:Śukla-Caturthī / Citrā
+DESCRIPTION:Mon 2019-9-2 \nDaytime: 06:34 to 19:42\n\nMonth: Bhādrapadaḥ\ntithi: Śukla-Caturthī until 13:23\nnakshatram: Citrā until 17:54\nyogam: Śubhraḥ until 13:34\nkaranam: Bhadrā until 13:23\nkaranam: Bavam until 00:05(+1)\n\nRahu kala: 08:12 to 09:51\nYama kala: 11:29 to 13:08
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190903T000000Z
+DTEND:20190903T000000Z
+SUMMARY:Śukla-Pañcamī / Svātī
+DESCRIPTION:Tue 2019-9-3 \nDaytime: 06:35 to 19:40\n\nMonth: Bhādrapadaḥ\ntithi: Śukla-Pañcamī until 10:57\nnakshatram: Svātī until 16:23\nyogam: Brāhmaḥ until 10:29\nkaranam: Bālavam until 10:57\nkaranam: Kaulavam until 22:00\n\nRahu kala: 16:24 to 18:02\nYama kala: 09:51 to 11:30
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190904T000000Z
+DTEND:20190904T000000Z
+SUMMARY:Śukla-Ṣaṣṭhī / Viśākhā
+DESCRIPTION:Wed 2019-9-4 \nDaytime: 06:36 to 19:38\n\nMonth: Bhādrapadaḥ\ntithi: Śukla-Ṣaṣṭhī until 09:14\nnakshatram: Viśākhā until 15:37\nyogam: Māhendraḥ until 07:59\nyogam: Vaidhṛtiḥ until 06:08(+1)\nkaranam: Taitilam until 09:14\nkaranam: Garajā until 20:41\n\nRahu kala: 13:07 to 14:45\nYama kala: 08:14 to 09:52
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190905T000000Z
+DTEND:20190905T000000Z
+SUMMARY:Śukla-Saptamī / Anūrādhā
+DESCRIPTION:Thu 2019-9-5 \nDaytime: 06:38 to 19:36\n\nMonth: Bhādrapadaḥ\ntithi: Śukla-Saptamī until 08:19\nnakshatram: Anūrādhā until 15:39\nyogam: Viṣkambhaḥ until 04:56(+1)\nkaranam: Vaṇijā until 08:19\nkaranam: Bhadrā until 20:10\n\nRahu kala: 14:44 to 16:22\nYama kala: 06:38 to 08:15
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190906T000000Z
+DTEND:20190906T000000Z
+SUMMARY:Śukla-Aṣṭamī / Jyeṣṭhā
+DESCRIPTION:Fri 2019-9-6 \nDaytime: 06:39 to 19:34\n\nMonth: Bhādrapadaḥ\ntithi: Śukla-Aṣṭamī until 08:13\nnakshatram: Jyeṣṭhā until 16:28\nyogam: Prītiḥ until 04:19(+1)\nkaranam: Bavam until 08:13\nkaranam: Bālavam until 20:27\n\nRahu kala: 11:30 to 13:07\nYama kala: 16:21 to 17:58
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190907T000000Z
+DTEND:20190907T000000Z
+SUMMARY:Śukla-Navamī / Mūlā
+DESCRIPTION:Sat 2019-9-7 \nDaytime: 06:40 to 19:32\n\nMonth: Bhādrapadaḥ\ntithi: Śukla-Navamī until 08:52\nnakshatram: Mūlā until 17:59\nyogam: Āyuṣmān until 04:15(+1)\nkaranam: Kaulavam until 08:52\nkaranam: Taitilam until 21:27\n\nRahu kala: 09:53 to 11:30\nYama kala: 14:43 to 16:19
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190908T000000Z
+DTEND:20190908T000000Z
+SUMMARY:Śukla-Daśamī / Pūrvāṣāḍhā
+DESCRIPTION:Sun 2019-9-8 \nDaytime: 06:42 to 19:30\n\nMonth: Bhādrapadaḥ\ntithi: Śukla-Daśamī until 10:11\nnakshatram: Pūrvāṣāḍhā until 20:06\nyogam: Saubhāgyam until 04:36(+1)\nkaranam: Garajā until 10:11\nkaranam: Vaṇijā until 23:02\n\nRahu kala: 17:54 to 19:30\nYama kala: 13:06 to 14:42
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190909T000000Z
+DTEND:20190909T000000Z
+SUMMARY:Śukla-Ekādaśī / Uttarāṣāḍhā
+DESCRIPTION:Mon 2019-9-9 \nDaytime: 06:43 to 19:28\n\nMonth: Bhādrapadaḥ\ntithi: Śukla-Ekādaśī until 12:01\nnakshatram: Uttarāṣāḍhā until 22:39\nyogam: Śobhanaḥ until 05:15(+1)\nkaranam: Bhadrā until 12:01\nkaranam: Bavam until 01:04(+1)\n\nRahu kala: 08:19 to 09:54\nYama kala: 11:30 to 13:06
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190201T000000Z
+DTEND:20190201T000000Z
+SUMMARY:Kṛṣṇa-Trayodaśī / Pūrvāṣāḍhā
+DESCRIPTION:Fri 2019-2-1 \nDaytime: 07:41 to 17:04\n\nMonth: Pauṣaḥ\ntithi: Kṛṣṇa-Trayodaśī\nnakshatram: Pūrvāṣāḍhā\nyogam: Harṣaṇaḥ until 16:49\nkaranam: Garajā until 18:37\n\nRahu kala: 11:12 to 12:23\nYama kala: 14:44 to 15:54
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190202T000000Z
+DTEND:20190202T000000Z
+SUMMARY:Kṛṣṇa-Trayodaśī / Pūrvāṣāḍhā
+DESCRIPTION:Sat 2019-2-2 \nDaytime: 07:40 to 17:06\n\nMonth: Pauṣaḥ\ntithi: Kṛṣṇa-Trayodaśī until 07:49\nnakshatram: Pūrvāṣāḍhā until 10:25\nyogam: Vajraḥ until 17:34\nkaranam: Vaṇijā until 07:49\nkaranam: Bhadrā until 21:04\n\nRahu kala: 10:01 to 11:12\nYama kala: 13:34 to 14:44
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190203T000000Z
+DTEND:20190203T000000Z
+SUMMARY:Kṛṣṇa-Caturdaśī / Uttarāṣāḍhā
+DESCRIPTION:Sun 2019-2-3 \nDaytime: 07:38 to 17:08\n\nMonth: Pauṣaḥ\ntithi: Kṛṣṇa-Caturdaśī until 10:22\nnakshatram: Uttarāṣāḍhā until 13:25\nyogam: Siddhiḥ until 18:28\nkaranam: Śakuniḥ until 10:22\nkaranam: Catuṣpāt until 23:42\n\nRahu kala: 15:56 to 17:08\nYama kala: 12:23 to 13:34
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190204T000000Z
+DTEND:20190204T000000Z
+SUMMARY:Amāvāsyā / Śravaṇam
+DESCRIPTION:Mon 2019-2-4 \nDaytime: 07:37 to 17:09\n\nMonth: Pauṣaḥ\ntithi: Amāvāsyā until 13:03\nnakshatram: Śravaṇam until 16:31\nyogam: Vyatīpātaḥ until 19:26\nkaranam: Nāgavān until 13:03\nkaranam: Kiṃstughnam until 02:24(+1)\n\nRahu kala: 08:48 to 10:00\nYama kala: 11:12 to 12:23
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190205T000000Z
+DTEND:20190205T000000Z
+SUMMARY:Śukla-Prathamā / Śraviṣṭhā
+DESCRIPTION:Tue 2019-2-5 \nDaytime: 07:35 to 17:11\n\nMonth: Māghaḥ\ntithi: Śukla-Prathamā until 15:45\nnakshatram: Śraviṣṭhā until 19:38\nyogam: Varīyān until 20:24\nkaranam: Bavam until 15:45\nkaranam: Bālavam until 05:05(+1)\n\nRahu kala: 14:47 to 15:59\nYama kala: 09:59 to 11:11
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190206T000000Z
+DTEND:20190206T000000Z
+SUMMARY:Śukla-Dvitīyā / Śatabhiṣak
+DESCRIPTION:Wed 2019-2-6 \nDaytime: 07:34 to 17:12\n\nMonth: Māghaḥ\ntithi: Śukla-Dvitīyā until 18:22\nnakshatram: Śatabhiṣak until 22:39\nyogam: Parighaḥ until 21:17\nkaranam: Kaulavam until 18:22\n\nRahu kala: 12:23 to 13:36\nYama kala: 08:46 to 09:59
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190207T000000Z
+DTEND:20190207T000000Z
+SUMMARY:Śukla-Tṛtīyā / Pūrvaproṣṭhapadā
+DESCRIPTION:Thu 2019-2-7 \nDaytime: 07:33 to 17:14\n\nMonth: Māghaḥ\ntithi: Śukla-Tṛtīyā until 20:48\nnakshatram: Pūrvaproṣṭhapadā until 01:28(+1)\nyogam: Śivaḥ until 22:02\nkaranam: Taitilam until 07:37\nkaranam: Garajā until 20:48\n\nRahu kala: 13:36 to 14:49\nYama kala: 07:33 to 08:45
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190208T000000Z
+DTEND:20190208T000000Z
+SUMMARY:Śukla-Caturthī / Uttaraproṣṭhapadā
+DESCRIPTION:Fri 2019-2-8 \nDaytime: 07:31 to 17:16\n\nMonth: Māghaḥ\ntithi: Śukla-Caturthī until 22:56\nnakshatram: Uttaraproṣṭhapadā until 04:00(+1)\nyogam: Siddhaḥ until 22:33\nkaranam: Vaṇijā until 09:54\nkaranam: Bhadrā until 22:56\n\nRahu kala: 11:10 to 12:23\nYama kala: 14:49 to 16:03
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190209T000000Z
+DTEND:20190209T000000Z
+SUMMARY:Śukla-Pañcamī / Revatī
+DESCRIPTION:Sat 2019-2-9 \nDaytime: 07:29 to 17:17\n\nMonth: Māghaḥ\ntithi: Śukla-Pañcamī until 00:39(+1)\nnakshatram: Revatī until 06:07(+1)\nyogam: Sādhyaḥ until 22:46\nkaranam: Bavam until 11:51\nkaranam: Bālavam until 00:39(+1)\n\nRahu kala: 09:56 to 11:10\nYama kala: 13:37 to 14:50
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190211T000000Z
+DTEND:20190211T000000Z
+SUMMARY:Śukla-Saptamī / Aśvinī
+DESCRIPTION:Mon 2019-2-11 \nDaytime: 07:26 to 17:20\n\nMonth: Māghaḥ\ntithi: Śukla-Saptamī until 02:24(+1)\nnakshatram: Aśvinī until 07:42\nyogam: Śubhraḥ until 21:58\nkaranam: Garajā until 14:12\nkaranam: Vaṇijā until 02:24(+1)\n\nRahu kala: 08:41 to 09:55\nYama kala: 11:09 to 12:23
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190210T000000Z
+DTEND:20190210T000000Z
+SUMMARY:Śukla-Ṣaṣṭhī / Aśvinī
+DESCRIPTION:Sun 2019-2-10 \nDaytime: 07:28 to 17:19\n\nMonth: Māghaḥ\ntithi: Śukla-Ṣaṣṭhī until 01:50(+1)\nnakshatram: Aśvinī\nyogam: Śubhaḥ until 22:36\nkaranam: Kaulavam until 13:19\nkaranam: Taitilam until 01:50(+1)\n\nRahu kala: 16:05 to 17:19\nYama kala: 12:23 to 13:37
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190214T000000Z
+DTEND:20190214T000000Z
+SUMMARY:Śukla-Daśamī / Rohiṇī
+DESCRIPTION:Thu 2019-2-14 \nDaytime: 07:21 to 17:25\n\nMonth: Māghaḥ\ntithi: Śukla-Daśamī until 23:48\nnakshatram: Rohiṇī until 08:31\nyogam: Vaidhṛtiḥ until 16:45\nkaranam: Taitilam until 12:42\nkaranam: Garajā until 23:48\n\nRahu kala: 13:39 to 14:54\nYama kala: 07:21 to 08:37
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190310T000000Z
+DTEND:20190310T000000Z
+SUMMARY:Śukla-Caturthī / Aśvinī
+DESCRIPTION:Sun 2019-3-10 \nDaytime: 07:37 to 19:02\n\nMonth: Phālgunaḥ\ntithi: Śukla-Caturthī until 15:36\nnakshatram: Aśvinī until 14:27\nyogam: Māhendraḥ until 03:33(+1)\nkaranam: Bhadrā until 15:36\nkaranam: Bavam until 03:58(+1)\n\nRahu kala: 17:36 to 19:02\nYama kala: 13:20 to 14:45
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190311T000000Z
+DTEND:20190311T000000Z
+SUMMARY:Śukla-Pañcamī / Apabharaṇī
+DESCRIPTION:Mon 2019-3-11 \nDaytime: 07:35 to 19:03\n\nMonth: Phālgunaḥ\ntithi: Śukla-Pañcamī until 16:13\nnakshatram: Apabharaṇī until 15:40\nyogam: Vaidhṛtiḥ until 02:44(+1)\nkaranam: Bālavam until 16:13\nkaranam: Kaulavam until 04:20(+1)\n\nRahu kala: 09:01 to 10:27\nYama kala: 11:53 to 13:19
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190312T000000Z
+DTEND:20190312T000000Z
+SUMMARY:Śukla-Ṣaṣṭhī / Kṛttikā
+DESCRIPTION:Tue 2019-3-12 \nDaytime: 07:33 to 19:05\n\nMonth: Phālgunaḥ\ntithi: Śukla-Ṣaṣṭhī until 16:19\nnakshatram: Kṛttikā until 16:23\nyogam: Viṣkambhaḥ until 01:30(+1)\nkaranam: Taitilam until 16:19\nkaranam: Garajā until 04:10(+1)\n\nRahu kala: 16:12 to 17:38\nYama kala: 10:26 to 11:53
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190410T000000Z
+DTEND:20190410T000000Z
+SUMMARY:Śukla-Ṣaṣṭhī / Mṛgaśīrṣam
+DESCRIPTION:Wed 2019-4-10 \nDaytime: 06:35 to 19:46\n\nMonth: Caitraḥ\ntithi: Śukla-Ṣaṣṭhī until 02:11(+1)\nnakshatram: Mṛgaśīrṣam until 21:55\nyogam: Śobhanaḥ until 03:02(+1)\nkaranam: Kaulavam until 14:42\nkaranam: Taitilam until 02:11(+1)\n\nRahu kala: 13:11 to 14:50\nYama kala: 08:14 to 09:53
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190411T000000Z
+DTEND:20190411T000000Z
+SUMMARY:Śukla-Saptamī / Ārdrā
+DESCRIPTION:Thu 2019-4-11 \nDaytime: 06:33 to 19:48\n\nMonth: Caitraḥ\ntithi: Śukla-Saptamī until 00:53(+1)\nnakshatram: Ārdrā until 21:24\nyogam: Atigaṇḍaḥ until 00:53(+1)\nkaranam: Garajā until 13:35\nkaranam: Vaṇijā until 00:53(+1)\n\nRahu kala: 14:50 to 16:29\nYama kala: 06:33 to 08:12
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190412T000000Z
+DTEND:20190412T000000Z
+SUMMARY:Śukla-Aṣṭamī / Punarvasuḥ
+DESCRIPTION:Fri 2019-4-12 \nDaytime: 06:31 to 19:49\n\nMonth: Caitraḥ\ntithi: Śukla-Aṣṭamī until 23:11\nnakshatram: Punarvasuḥ until 20:29\nyogam: Sukarma until 22:23\nkaranam: Bhadrā until 12:05\nkaranam: Bavam until 23:11\n\nRahu kala: 11:30 to 13:10\nYama kala: 16:30 to 18:09
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190830T000000Z
+DTEND:20190830T000000Z
+SUMMARY:Śukla-Prathamā / Pūrvaphalgunī
+DESCRIPTION:Fri 2019-8-30 \nDaytime: 06:30 to 19:48\n\nMonth: Bhādrapadaḥ\ntithi: Śukla-Prathamā until 23:43\nnakshatram: Pūrvaphalgunī until 01:37(+1)\nyogam: Siddhaḥ until 01:19(+1)\nkaranam: Kiṃstughnam until 13:40\nkaranam: Bavam until 23:43\n\nRahu kala: 11:29 to 13:09\nYama kala: 16:29 to 18:08
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190430T000000Z
+DTEND:20190430T000000Z
+SUMMARY:Kṛṣṇa-Ekādaśī / Pūrvaproṣṭhapadā
+DESCRIPTION:Tue 2019-4-30 \nDaytime: 05:59 to 20:14\n\nMonth: Caitraḥ\ntithi: Kṛṣṇa-Ekādaśī until 11:47\nnakshatram: Pūrvaproṣṭhapadā until 22:22\nyogam: Māhendraḥ until 16:40\nkaranam: Bālavam until 11:47\nkaranam: Kaulavam until 00:45(+1)\n\nRahu kala: 16:40 to 18:27\nYama kala: 09:33 to 11:20
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190831T000000Z
+DTEND:20190831T000000Z
+SUMMARY:Śukla-Dvitīyā / Uttaraphalgunī
+DESCRIPTION:Sat 2019-8-31 \nDaytime: 06:31 to 19:46\n\nMonth: Bhādrapadaḥ\ntithi: Śukla-Dvitīyā until 19:56\nnakshatram: Uttaraphalgunī until 22:41\nyogam: Sādhyaḥ until 21:06\nkaranam: Bālavam until 09:48\nkaranam: Kaulavam until 19:56\nkaranam: Taitilam until 06:08(+1)\n\nRahu kala: 09:50 to 11:29\nYama kala: 14:48 to 16:28
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-31
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190620T000000Z
+DTEND:20190620T000000Z
+SUMMARY:Kṛṣṇa-Caturthī / Śravaṇam
+DESCRIPTION:Thu 2019-6-20 \nDaytime: 05:17 to 21:04\n\nMonth: Jyaiṣṭhaḥ\ntithi: Kṛṣṇa-Caturthī\nnakshatram: Śravaṇam\nyogam: Māhendraḥ until 06:47\nkaranam: Bavam until 17:35\n\nRahu kala: 15:09 to 17:07\nYama kala: 05:17 to 07:15
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190221T000000Z
+DTEND:20190221T000000Z
+SUMMARY:Kṛṣṇa-Tṛtīyā / Uttaraphalgunī
+DESCRIPTION:Thu 2019-2-21 \nDaytime: 07:09 to 17:36\n\nMonth: Māghaḥ\ntithi: Kṛṣṇa-Tṛtīyā until 21:20\nnakshatram: Uttaraphalgunī until 12:56\nyogam: Dhṛtiḥ until 09:41\nyogam: Śūlaḥ until 06:03(+1)\nkaranam: Vaṇijā until 10:52\nkaranam: Bhadrā until 21:20\n\nRahu kala: 13:41 to 14:59\nYama kala: 07:09 to 08:28
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190622T000000Z
+DTEND:20190622T000000Z
+SUMMARY:Kṛṣṇa-Pañcamī / Śraviṣṭhā
+DESCRIPTION:Sat 2019-6-22 \nDaytime: 05:17 to 21:04\n\nMonth: Jyaiṣṭhaḥ\ntithi: Kṛṣṇa-Pañcamī until 08:57\nnakshatram: Śraviṣṭhā until 08:37\nyogam: Viṣkambhaḥ until 08:21\nkaranam: Taitilam until 08:57\nkaranam: Garajā until 22:10\n\nRahu kala: 09:14 to 11:13\nYama kala: 15:09 to 17:08
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190623T000000Z
+DTEND:20190623T000000Z
+SUMMARY:Kṛṣṇa-Ṣaṣṭhī / Śatabhiṣak
+DESCRIPTION:Sun 2019-6-23 \nDaytime: 05:18 to 21:04\n\nMonth: Jyaiṣṭhaḥ\ntithi: Kṛṣṇa-Ṣaṣṭhī until 11:23\nnakshatram: Śatabhiṣak until 11:37\nyogam: Prītiḥ until 09:20\nkaranam: Vaṇijā until 11:23\nkaranam: Bhadrā until 00:34(+1)\n\nRahu kala: 19:06 to 21:04\nYama kala: 13:11 to 15:09
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190624T000000Z
+DTEND:20190624T000000Z
+SUMMARY:Kṛṣṇa-Saptamī / Pūrvaproṣṭhapadā
+DESCRIPTION:Mon 2019-6-24 \nDaytime: 05:18 to 21:04\n\nMonth: Jyaiṣṭhaḥ\ntithi: Kṛṣṇa-Saptamī until 13:42\nnakshatram: Pūrvaproṣṭhapadā until 14:32\nyogam: Āyuṣmān until 10:16\nkaranam: Bavam until 13:42\nkaranam: Bālavam until 02:46(+1)\n\nRahu kala: 07:16 to 09:15\nYama kala: 11:13 to 13:11
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190625T000000Z
+DTEND:20190625T000000Z
+SUMMARY:Kṛṣṇa-Aṣṭamī / Uttaraproṣṭhapadā
+DESCRIPTION:Tue 2019-6-25 \nDaytime: 05:18 to 21:05\n\nMonth: Jyaiṣṭhaḥ\ntithi: Kṛṣṇa-Aṣṭamī until 15:43\nnakshatram: Uttaraproṣṭhapadā until 17:07\nyogam: Saubhāgyam until 10:58\nkaranam: Kaulavam until 15:43\nkaranam: Taitilam until 04:33(+1)\n\nRahu kala: 17:08 to 19:06\nYama kala: 09:15 to 11:13
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190626T000000Z
+DTEND:20190626T000000Z
+SUMMARY:Kṛṣṇa-Navamī / Revatī
+DESCRIPTION:Wed 2019-6-26 \nDaytime: 05:19 to 21:05\n\nMonth: Jyaiṣṭhaḥ\ntithi: Kṛṣṇa-Navamī until 17:14\nnakshatram: Revatī until 19:13\nyogam: Śobhanaḥ until 11:19\nkaranam: Garajā until 17:14\n\nRahu kala: 13:12 to 15:10\nYama kala: 07:17 to 09:15
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190627T000000Z
+DTEND:20190627T000000Z
+SUMMARY:Kṛṣṇa-Daśamī / Aśvinī
+DESCRIPTION:Thu 2019-6-27 \nDaytime: 05:19 to 21:05\n\nMonth: Jyaiṣṭhaḥ\ntithi: Kṛṣṇa-Daśamī until 18:06\nnakshatram: Aśvinī until 20:42\nyogam: Atigaṇḍaḥ until 11:11\nkaranam: Vaṇijā until 05:45\nkaranam: Bhadrā until 18:06\n\nRahu kala: 15:10 to 17:08\nYama kala: 05:19 to 07:17
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190628T000000Z
+DTEND:20190628T000000Z
+SUMMARY:Kṛṣṇa-Ekādaśī / Apabharaṇī
+DESCRIPTION:Fri 2019-6-28 \nDaytime: 05:20 to 21:04\n\nMonth: Jyaiṣṭhaḥ\ntithi: Kṛṣṇa-Ekādaśī until 18:15\nnakshatram: Apabharaṇī until 21:28\nyogam: Sukarma until 10:30\nkaranam: Bavam until 06:16\nkaranam: Bālavam until 18:15\n\nRahu kala: 11:14 to 13:12\nYama kala: 17:08 to 19:06
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190629T000000Z
+DTEND:20190629T000000Z
+SUMMARY:Kṛṣṇa-Dvādaśī / Kṛttikā
+DESCRIPTION:Sat 2019-6-29 \nDaytime: 05:20 to 21:04\n\nMonth: Jyaiṣṭhaḥ\ntithi: Kṛṣṇa-Dvādaśī until 17:41\nnakshatram: Kṛttikā until 21:31\nyogam: Dhṛtiḥ until 09:15\nkaranam: Kaulavam until 06:03\nkaranam: Taitilam until 17:41\nkaranam: Garajā until 05:08(+1)\n\nRahu kala: 09:16 to 11:14\nYama kala: 15:10 to 17:08
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190510T000000Z
+DTEND:20190510T000000Z
+SUMMARY:Śukla-Ṣaṣṭhī / Puṣyaḥ
+DESCRIPTION:Fri 2019-5-10 \nDaytime: 05:44 to 20:28\n\nMonth: Vaiśākhaḥ\ntithi: Śukla-Ṣaṣṭhī until 09:11\nnakshatram: Puṣyaḥ until 00:43(+1)\nyogam: Gaṇḍaḥ until 01:26(+1)\nkaranam: Taitilam until 09:11\nkaranam: Garajā until 20:14\n\nRahu kala: 11:15 to 13:06\nYama kala: 16:47 to 18:37
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190511T000000Z
+DTEND:20190511T000000Z
+SUMMARY:Śukla-Saptamī / Āśreṣā
+DESCRIPTION:Sat 2019-5-11 \nDaytime: 05:42 to 20:29\n\nMonth: Vaiśākhaḥ\ntithi: Śukla-Saptamī until 07:14\ntithi: Śukla-Aṣṭamī until 05:07(+1)\nnakshatram: Āśreṣā until 23:25\nyogam: Vṛddhiḥ until 22:40\nkaranam: Vaṇijā until 07:14\nkaranam: Bhadrā until 18:12\nkaranam: Bavam until 05:07(+1)\n\nRahu kala: 09:24 to 11:15\nYama kala: 14:56 to 16:47
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190223T000000Z
+DTEND:20190223T000000Z
+SUMMARY:Kṛṣṇa-Pañcamī / Citrā
+DESCRIPTION:Sat 2019-2-23 \nDaytime: 07:06 to 17:39\n\nMonth: Māghaḥ\ntithi: Kṛṣṇa-Pañcamī until 16:43\nnakshatram: Citrā until 09:17\nyogam: Vṛddhiḥ until 00:22(+1)\nkaranam: Taitilam until 16:43\nkaranam: Garajā until 04:02(+1)\n\nRahu kala: 09:44 to 11:03\nYama kala: 13:42 to 15:01
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190224T000000Z
+DTEND:20190224T000000Z
+SUMMARY:Kṛṣṇa-Ṣaṣṭhī / Svātī
+DESCRIPTION:Sun 2019-2-24 \nDaytime: 07:04 to 17:41\n\nMonth: Māghaḥ\ntithi: Kṛṣṇa-Ṣaṣṭhī until 15:34\nnakshatram: Svātī until 08:32\nyogam: Dhruvaḥ until 22:28\nkaranam: Vaṇijā until 15:34\nkaranam: Bhadrā until 03:19(+1)\n\nRahu kala: 16:21 to 17:41\nYama kala: 12:22 to 13:42
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190225T000000Z
+DTEND:20190225T000000Z
+SUMMARY:Kṛṣṇa-Saptamī / Viśākhā
+DESCRIPTION:Mon 2019-2-25 \nDaytime: 07:02 to 17:42\n\nMonth: Māghaḥ\ntithi: Kṛṣṇa-Saptamī until 15:17\nnakshatram: Viśākhā until 08:38\nyogam: Vyāghātaḥ until 21:16\nkaranam: Bavam until 15:17\nkaranam: Bālavam until 03:27(+1)\n\nRahu kala: 08:22 to 09:42\nYama kala: 11:02 to 12:22
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190226T000000Z
+DTEND:20190226T000000Z
+SUMMARY:Kṛṣṇa-Aṣṭamī / Anūrādhā
+DESCRIPTION:Tue 2019-2-26 \nDaytime: 07:00 to 17:44\n\nMonth: Māghaḥ\ntithi: Kṛṣṇa-Aṣṭamī until 15:50\nnakshatram: Anūrādhā until 09:33\nyogam: Harṣaṇaḥ until 20:43\nkaranam: Kaulavam until 15:50\nkaranam: Taitilam until 04:25(+1)\n\nRahu kala: 15:03 to 16:23\nYama kala: 09:41 to 11:02
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190227T000000Z
+DTEND:20190227T000000Z
+SUMMARY:Kṛṣṇa-Navamī / Jyeṣṭhā
+DESCRIPTION:Wed 2019-2-27 \nDaytime: 06:58 to 17:45\n\nMonth: Māghaḥ\ntithi: Kṛṣṇa-Navamī until 17:11\nnakshatram: Jyeṣṭhā until 11:15\nyogam: Vajraḥ until 20:44\nkaranam: Garajā until 17:11\nkaranam: Vaṇijā until 06:06(+1)\n\nRahu kala: 12:22 to 13:43\nYama kala: 08:19 to 09:40
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-2-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190601T000000Z
+DTEND:20190601T000000Z
+SUMMARY:Kṛṣṇa-Caturdaśī / Apabharaṇī
+DESCRIPTION:Sat 2019-6-1 \nDaytime: 05:21 to 20:53\n\nMonth: Vaiśākhaḥ\ntithi: Kṛṣṇa-Caturdaśī until 04:10(+1)\nnakshatram: Apabharaṇī until 12:12\nyogam: Atigaṇḍaḥ until 23:04\nkaranam: Bhadrā until 16:32\nkaranam: Śakuniḥ until 04:10(+1)\n\nRahu kala: 09:14 to 11:11\nYama kala: 15:03 to 17:00
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190602T000000Z
+DTEND:20190602T000000Z
+SUMMARY:Amāvāsyā / Kṛttikā
+DESCRIPTION:Sun 2019-6-2 \nDaytime: 05:21 to 20:53\n\nMonth: Vaiśākhaḥ\ntithi: Amāvāsyā until 03:01(+1)\nnakshatram: Kṛttikā until 12:09\nyogam: Sukarma until 21:13\nkaranam: Catuṣpāt until 15:39\nkaranam: Nāgavān until 03:01(+1)\n\nRahu kala: 18:57 to 20:53\nYama kala: 13:07 to 15:04
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190603T000000Z
+DTEND:20190603T000000Z
+SUMMARY:Śukla-Prathamā / Rohiṇī
+DESCRIPTION:Mon 2019-6-3 \nDaytime: 05:20 to 20:54\n\nMonth: Jyaiṣṭhaḥ\ntithi: Śukla-Prathamā until 01:27(+1)\nnakshatram: Rohiṇī until 11:35\nyogam: Dhṛtiḥ until 19:00\nkaranam: Kiṃstughnam until 14:17\nkaranam: Bavam until 01:27(+1)\n\nRahu kala: 07:17 to 09:14\nYama kala: 11:10 to 13:07
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190604T000000Z
+DTEND:20190604T000000Z
+SUMMARY:Śukla-Dvitīyā / Mṛgaśīrṣam
+DESCRIPTION:Tue 2019-6-4 \nDaytime: 05:20 to 20:55\n\nMonth: Jyaiṣṭhaḥ\ntithi: Śukla-Dvitīyā until 23:33\nnakshatram: Mṛgaśīrṣam until 10:38\nyogam: Śūlaḥ until 16:29\nkaranam: Bālavam until 12:32\nkaranam: Kaulavam until 23:33\n\nRahu kala: 17:01 to 18:58\nYama kala: 09:14 to 11:10
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190605T000000Z
+DTEND:20190605T000000Z
+SUMMARY:Śukla-Tṛtīyā / Ārdrā
+DESCRIPTION:Wed 2019-6-5 \nDaytime: 05:19 to 20:56\n\nMonth: Jyaiṣṭhaḥ\ntithi: Śukla-Tṛtīyā until 21:25\nnakshatram: Ārdrā until 09:24\nyogam: Gaṇḍaḥ until 13:44\nkaranam: Taitilam until 10:30\nkaranam: Garajā until 21:25\n\nRahu kala: 13:08 to 15:05\nYama kala: 07:16 to 09:13
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190606T000000Z
+DTEND:20190606T000000Z
+SUMMARY:Śukla-Caturthī / Punarvasuḥ
+DESCRIPTION:Thu 2019-6-6 \nDaytime: 05:19 to 20:57\n\nMonth: Jyaiṣṭhaḥ\ntithi: Śukla-Caturthī until 19:08\nnakshatram: Punarvasuḥ until 07:58\nyogam: Vṛddhiḥ until 10:52\nkaranam: Vaṇijā until 08:17\nkaranam: Bhadrā until 19:08\n\nRahu kala: 15:05 to 17:02\nYama kala: 05:19 to 07:16
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190607T000000Z
+DTEND:20190607T000000Z
+SUMMARY:Śukla-Pañcamī / Puṣyaḥ
+DESCRIPTION:Fri 2019-6-7 \nDaytime: 05:18 to 20:58\n\nMonth: Jyaiṣṭhaḥ\ntithi: Śukla-Pañcamī until 16:46\nnakshatram: Puṣyaḥ until 06:26\nnakshatram: Āśreṣā until 04:52(+1)\nyogam: Dhruvaḥ until 07:54\nyogam: Vyāghātaḥ until 04:55(+1)\nkaranam: Bavam until 05:57\nkaranam: Bālavam until 16:46\nkaranam: Kaulavam until 03:35(+1)\n\nRahu kala: 11:11 to 13:08\nYama kala: 17:03 to 19:00
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190810T000000Z
+DTEND:20190810T000000Z
+SUMMARY:Śukla-Ekādaśī / Jyeṣṭhā
+DESCRIPTION:Sat 2019-8-10 \nDaytime: 06:03 to 20:24\n\nMonth: Śrāvaṇaḥ\ntithi: Śukla-Ekādaśī until 22:22\nnakshatram: Jyeṣṭhā until 10:36\nyogam: Vaidhṛtiḥ until 21:50\nkaranam: Vaṇijā until 09:56\nkaranam: Bhadrā until 22:22\n\nRahu kala: 09:39 to 11:26\nYama kala: 15:01 to 16:49
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190811T000000Z
+DTEND:20190811T000000Z
+SUMMARY:Śukla-Dvādaśī / Mūlā
+DESCRIPTION:Sun 2019-8-11 \nDaytime: 06:05 to 20:23\n\nMonth: Śrāvaṇaḥ\ntithi: Śukla-Dvādaśī until 23:36\nnakshatram: Mūlā until 12:15\nyogam: Viṣkambhaḥ until 21:49\nkaranam: Bavam until 10:56\nkaranam: Bālavam until 23:36\n\nRahu kala: 18:35 to 20:23\nYama kala: 13:14 to 15:01
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190812T000000Z
+DTEND:20190812T000000Z
+SUMMARY:Śukla-Trayodaśī / Pūrvāṣāḍhā
+DESCRIPTION:Mon 2019-8-12 \nDaytime: 06:06 to 20:21\n\nMonth: Śrāvaṇaḥ\ntithi: Śukla-Trayodaśī until 01:16(+1)\nnakshatram: Pūrvāṣāḍhā until 14:21\nyogam: Prītiḥ until 22:08\nkaranam: Kaulavam until 12:23\nkaranam: Taitilam until 01:16(+1)\n\nRahu kala: 07:53 to 09:40\nYama kala: 11:27 to 13:13
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190813T000000Z
+DTEND:20190813T000000Z
+SUMMARY:Śukla-Caturdaśī / Uttarāṣāḍhā
+DESCRIPTION:Tue 2019-8-13 \nDaytime: 06:07 to 20:19\n\nMonth: Śrāvaṇaḥ\ntithi: Śukla-Caturdaśī until 03:15(+1)\nnakshatram: Uttarāṣāḍhā until 16:49\nyogam: Āyuṣmān until 22:43\nkaranam: Garajā until 14:13\nkaranam: Vaṇijā until 03:15(+1)\n\nRahu kala: 16:46 to 18:33\nYama kala: 09:40 to 11:27
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190814T000000Z
+DTEND:20190814T000000Z
+SUMMARY:Paurṇamāsī / Śravaṇam
+DESCRIPTION:Wed 2019-8-14 \nDaytime: 06:09 to 20:18\n\nMonth: Śrāvaṇaḥ\ntithi: Paurṇamāsī until 05:29(+1)\nnakshatram: Śravaṇam until 19:32\nyogam: Saubhāgyam until 23:29\nkaranam: Bhadrā until 16:21\nkaranam: Bavam until 05:29(+1)\n\nRahu kala: 13:13 to 14:59\nYama kala: 07:55 to 09:41
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190815T000000Z
+DTEND:20190815T000000Z
+SUMMARY:Kṛṣṇa-Prathamā / Śraviṣṭhā
+DESCRIPTION:Thu 2019-8-15 \nDaytime: 06:10 to 20:16\n\nMonth: Śrāvaṇaḥ\ntithi: Kṛṣṇa-Prathamā\nnakshatram: Śraviṣṭhā until 22:26\nyogam: Śobhanaḥ until 00:23(+1)\nkaranam: Bālavam until 18:39\n\nRahu kala: 14:59 to 16:44\nYama kala: 06:10 to 07:56
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190816T000000Z
+DTEND:20190816T000000Z
+SUMMARY:Kṛṣṇa-Prathamā / Śatabhiṣak
+DESCRIPTION:Fri 2019-8-16 \nDaytime: 06:11 to 20:14\n\nMonth: Śrāvaṇaḥ\ntithi: Kṛṣṇa-Prathamā until 07:51\nnakshatram: Śatabhiṣak until 01:25(+1)\nyogam: Atigaṇḍaḥ until 01:22(+1)\nkaranam: Kaulavam until 07:51\nkaranam: Taitilam until 21:05\n\nRahu kala: 11:27 to 13:13\nYama kala: 16:43 to 18:29
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190817T000000Z
+DTEND:20190817T000000Z
+SUMMARY:Kṛṣṇa-Dvitīyā / Pūrvaproṣṭhapadā
+DESCRIPTION:Sat 2019-8-17 \nDaytime: 06:12 to 20:12\n\nMonth: Śrāvaṇaḥ\ntithi: Kṛṣṇa-Dvitīyā until 10:18\nnakshatram: Pūrvaproṣṭhapadā until 04:25(+1)\nyogam: Sukarma until 02:20(+1)\nkaranam: Garajā until 10:18\nkaranam: Vaṇijā until 23:31\n\nRahu kala: 09:42 to 11:27\nYama kala: 14:57 to 16:42
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190818T000000Z
+DTEND:20190818T000000Z
+SUMMARY:Kṛṣṇa-Tṛtīyā / Uttaraproṣṭhapadā
+DESCRIPTION:Sun 2019-8-18 \nDaytime: 06:14 to 20:11\n\nMonth: Śrāvaṇaḥ\ntithi: Kṛṣṇa-Tṛtīyā until 12:43\nnakshatram: Uttaraproṣṭhapadā\nyogam: Dhṛtiḥ until 03:14(+1)\nkaranam: Bhadrā until 12:43\nkaranam: Bavam until 01:53(+1)\n\nRahu kala: 18:26 to 20:11\nYama kala: 13:12 to 14:57
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190819T000000Z
+DTEND:20190819T000000Z
+SUMMARY:Kṛṣṇa-Caturthī / Uttaraproṣṭhapadā
+DESCRIPTION:Mon 2019-8-19 \nDaytime: 06:15 to 20:09\n\nMonth: Śrāvaṇaḥ\ntithi: Kṛṣṇa-Caturthī until 15:00\nnakshatram: Uttaraproṣṭhapadā until 07:18\nyogam: Śūlaḥ until 03:58(+1)\nkaranam: Bālavam until 15:00\nkaranam: Kaulavam until 04:02(+1)\n\nRahu kala: 07:59 to 09:44\nYama kala: 11:28 to 13:12
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-8-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190609T000000Z
+DTEND:20190609T000000Z
+SUMMARY:Śukla-Saptamī / Pūrvaphalgunī
+DESCRIPTION:Sun 2019-6-9 \nDaytime: 05:18 to 20:59\n\nMonth: Jyaiṣṭhaḥ\ntithi: Śukla-Saptamī until 12:06\nnakshatram: Pūrvaphalgunī until 01:51(+1)\nyogam: Vajraḥ until 23:04\nkaranam: Vaṇijā until 12:06\nkaranam: Bhadrā until 22:59\n\nRahu kala: 19:01 to 20:59\nYama kala: 13:08 to 15:06
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-6-9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190515T000000Z
+DTEND:20190515T000000Z
+SUMMARY:Śukla-Dvādaśī / Hastaḥ
+DESCRIPTION:Wed 2019-5-15 \nDaytime: 05:37 to 20:34\n\nMonth: Vaiśākhaḥ\ntithi: Śukla-Dvādaśī until 19:45\nnakshatram: Hastaḥ until 17:12\nyogam: Vajraḥ until 10:45\nkaranam: Bavam until 08:54\nkaranam: Bālavam until 19:45\n\nRahu kala: 13:06 to 14:58\nYama kala: 07:29 to 09:21
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190413T000000Z
+DTEND:20190413T000000Z
+SUMMARY:Śukla-Navamī / Puṣyaḥ
+DESCRIPTION:Sat 2019-4-13 \nDaytime: 06:29 to 19:50\n\nMonth: Caitraḥ\ntithi: Śukla-Navamī until 21:05\nnakshatram: Puṣyaḥ until 19:10\nyogam: Dhṛtiḥ until 19:35\nkaranam: Bālavam until 10:11\nkaranam: Kaulavam until 21:05\n\nRahu kala: 09:50 to 11:30\nYama kala: 14:50 to 16:30
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190414T000000Z
+DTEND:20190414T000000Z
+SUMMARY:Śukla-Daśamī / Āśreṣā
+DESCRIPTION:Sun 2019-4-14 \nDaytime: 06:27 to 19:52\n\nMonth: Caitraḥ\ntithi: Śukla-Daśamī until 18:38\nnakshatram: Āśreṣā until 17:29\nyogam: Śūlaḥ until 16:29\nkaranam: Taitilam until 07:54\nkaranam: Garajā until 18:38\nkaranam: Vaṇijā until 05:17(+1)\n\nRahu kala: 18:11 to 19:52\nYama kala: 13:10 to 14:50
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190415T000000Z
+DTEND:20190415T000000Z
+SUMMARY:Śukla-Ekādaśī / Maghā
+DESCRIPTION:Mon 2019-4-15 \nDaytime: 06:25 to 19:53\n\nMonth: Caitraḥ\ntithi: Śukla-Ekādaśī until 15:53\nnakshatram: Maghā until 15:31\nyogam: Gaṇḍaḥ until 13:08\nkaranam: Bhadrā until 15:53\nkaranam: Bavam until 02:25(+1)\n\nRahu kala: 08:06 to 09:47\nYama kala: 11:28 to 13:09
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190416T000000Z
+DTEND:20190416T000000Z
+SUMMARY:Śukla-Dvādaśī / Pūrvaphalgunī
+DESCRIPTION:Tue 2019-4-16 \nDaytime: 06:24 to 19:55\n\nMonth: Caitraḥ\ntithi: Śukla-Dvādaśī until 12:56\nnakshatram: Pūrvaphalgunī until 13:20\nyogam: Vṛddhiḥ until 09:37\nyogam: Dhruvaḥ until 06:01(+1)\nkaranam: Bālavam until 12:56\nkaranam: Kaulavam until 23:25\n\nRahu kala: 16:32 to 18:13\nYama kala: 09:46 to 11:28
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190417T000000Z
+DTEND:20190417T000000Z
+SUMMARY:Śukla-Trayodaśī / Uttaraphalgunī
+DESCRIPTION:Wed 2019-4-17 \nDaytime: 06:22 to 19:56\n\nMonth: Caitraḥ\ntithi: Śukla-Trayodaśī until 09:54\nnakshatram: Uttaraphalgunī until 11:06\nyogam: Vyāghātaḥ until 02:27(+1)\nkaranam: Taitilam until 09:54\nkaranam: Garajā until 20:24\n\nRahu kala: 13:09 to 14:51\nYama kala: 08:03 to 09:45
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190418T000000Z
+DTEND:20190418T000000Z
+SUMMARY:Śukla-Caturdaśī / Hastaḥ
+DESCRIPTION:Thu 2019-4-18 \nDaytime: 06:20 to 19:57\n\nMonth: Caitraḥ\ntithi: Śukla-Caturdaśī until 06:56\ntithi: Paurṇamāsī until 04:12(+1)\nnakshatram: Hastaḥ until 08:55\nyogam: Harṣaṇaḥ until 23:02\nkaranam: Vaṇijā until 06:56\nkaranam: Bhadrā until 17:32\nkaranam: Bavam until 04:12(+1)\n\nRahu kala: 14:51 to 16:33\nYama kala: 06:20 to 08:02
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190419T000000Z
+DTEND:20190419T000000Z
+SUMMARY:Kṛṣṇa-Prathamā / Citrā
+DESCRIPTION:Fri 2019-4-19 \nDaytime: 06:18 to 19:59\n\nMonth: Caitraḥ\ntithi: Kṛṣṇa-Prathamā until 01:51(+1)\nnakshatram: Citrā until 06:59\nnakshatram: Svātī until 05:28(+1)\nyogam: Vajraḥ until 19:55\nkaranam: Bālavam until 14:58\nkaranam: Kaulavam until 01:51(+1)\n\nRahu kala: 11:26 to 13:08\nYama kala: 16:34 to 18:16
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-4-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191030T000000Z
+DTEND:20191030T000000Z
+SUMMARY:Śukla-Tṛtīyā / Anūrādhā
+DESCRIPTION:Wed 2019-10-30 \nDaytime: 07:55 to 17:49\n\nMonth: Kārtikaḥ\ntithi: Śukla-Tṛtīyā until 13:31\nnakshatram: Anūrādhā until 09:29\nyogam: Śobhanaḥ until 21:12\nkaranam: Garajā until 13:31\nkaranam: Vaṇijā until 00:55(+1)\n\nRahu kala: 12:52 to 14:06\nYama kala: 09:09 to 10:24
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191031T000000Z
+DTEND:20191031T000000Z
+SUMMARY:Śukla-Caturthī / Jyeṣṭhā
+DESCRIPTION:Thu 2019-10-31 \nDaytime: 07:57 to 17:48\n\nMonth: Kārtikaḥ\ntithi: Śukla-Caturthī until 12:31\nnakshatram: Jyeṣṭhā until 09:01\nyogam: Atigaṇḍaḥ until 19:27\nkaranam: Bhadrā until 12:31\nkaranam: Bavam until 00:19(+1)\n\nRahu kala: 14:06 to 15:20\nYama kala: 07:57 to 09:10
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-31
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191220T000000Z
+DTEND:20191220T000000Z
+SUMMARY:Kṛṣṇa-Daśamī / Citrā
+DESCRIPTION:Fri 2019-12-20 \nDaytime: 08:00 to 16:13\n\nMonth: Mārgaśīrṣaḥ\ntithi: Kṛṣṇa-Daśamī until 03:45(+1)\nnakshatram: Citrā until 06:19(+1)\nyogam: Śobhanaḥ until 21:57\nkaranam: Vaṇijā until 16:45\nkaranam: Bhadrā until 03:45(+1)\n\nRahu kala: 11:05 to 12:06\nYama kala: 14:10 to 15:11
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191221T000000Z
+DTEND:20191221T000000Z
+SUMMARY:Kṛṣṇa-Ekādaśī / Svātī
+DESCRIPTION:Sat 2019-12-21 \nDaytime: 08:00 to 16:14\n\nMonth: Mārgaśīrṣaḥ\ntithi: Kṛṣṇa-Ekādaśī until 01:52(+1)\nnakshatram: Svātī until 05:08(+1)\nyogam: Atigaṇḍaḥ until 19:09\nkaranam: Bavam until 14:47\nkaranam: Bālavam until 01:52(+1)\n\nRahu kala: 10:04 to 11:05\nYama kala: 13:09 to 14:10
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191222T000000Z
+DTEND:20191222T000000Z
+SUMMARY:Kṛṣṇa-Dvādaśī / Viśākhā
+DESCRIPTION:Sun 2019-12-22 \nDaytime: 08:01 to 16:14\n\nMonth: Mārgaśīrṣaḥ\ntithi: Kṛṣṇa-Dvādaśī until 00:12(+1)\nnakshatram: Viśākhā until 04:10(+1)\nyogam: Sukarma until 16:31\nkaranam: Kaulavam until 13:00\nkaranam: Taitilam until 00:12(+1)\n\nRahu kala: 15:12 to 16:14\nYama kala: 12:07 to 13:09
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191223T000000Z
+DTEND:20191223T000000Z
+SUMMARY:Kṛṣṇa-Trayodaśī / Anūrādhā
+DESCRIPTION:Mon 2019-12-23 \nDaytime: 08:01 to 16:15\n\nMonth: Mārgaśīrṣaḥ\ntithi: Kṛṣṇa-Trayodaśī until 22:48\nnakshatram: Anūrādhā until 03:29(+1)\nyogam: Dhṛtiḥ until 14:05\nkaranam: Garajā until 11:27\nkaranam: Vaṇijā until 22:48\n\nRahu kala: 09:03 to 10:05\nYama kala: 11:06 to 12:08
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191224T000000Z
+DTEND:20191224T000000Z
+SUMMARY:Kṛṣṇa-Caturdaśī / Jyeṣṭhā
+DESCRIPTION:Tue 2019-12-24 \nDaytime: 08:02 to 16:15\n\nMonth: Mārgaśīrṣaḥ\ntithi: Kṛṣṇa-Caturdaśī until 21:47\nnakshatram: Jyeṣṭhā until 03:11(+1)\nyogam: Śūlaḥ until 11:55\nkaranam: Bhadrā until 10:15\nkaranam: Śakuniḥ until 21:47\n\nRahu kala: 14:12 to 15:14\nYama kala: 10:05 to 11:07
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191225T000000Z
+DTEND:20191225T000000Z
+SUMMARY:Amāvāsyā / Mūlā
+DESCRIPTION:Wed 2019-12-25 \nDaytime: 08:02 to 16:16\n\nMonth: Mārgaśīrṣaḥ\ntithi: Amāvāsyā until 21:13\nnakshatram: Mūlā until 03:20(+1)\nyogam: Gaṇḍaḥ until 10:04\nkaranam: Catuṣpāt until 09:26\nkaranam: Nāgavān until 21:13\n\nRahu kala: 12:09 to 13:11\nYama kala: 09:04 to 10:05
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191226T000000Z
+DTEND:20191226T000000Z
+SUMMARY:Śukla-Prathamā / Pūrvāṣāḍhā
+DESCRIPTION:Thu 2019-12-26 \nDaytime: 08:02 to 16:17\n\nMonth: Pauṣaḥ\ntithi: Śukla-Prathamā until 21:09\nnakshatram: Pūrvāṣāḍhā until 04:00(+1)\nyogam: Vṛddhiḥ until 08:36\nyogam: Dhruvaḥ until 07:33(+1)\nkaranam: Kiṃstughnam until 09:07\nkaranam: Bavam until 21:09\n\nRahu kala: 13:11 to 14:13\nYama kala: 08:02 to 09:04
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191227T000000Z
+DTEND:20191227T000000Z
+SUMMARY:Śukla-Dvitīyā / Uttarāṣāḍhā
+DESCRIPTION:Fri 2019-12-27 \nDaytime: 08:03 to 16:17\n\nMonth: Pauṣaḥ\ntithi: Śukla-Dvitīyā until 21:40\nnakshatram: Uttarāṣāḍhā until 05:13(+1)\nyogam: Vyāghātaḥ until 06:57(+1)\nkaranam: Bālavam until 09:20\nkaranam: Kaulavam until 21:40\n\nRahu kala: 11:08 to 12:10\nYama kala: 14:14 to 15:16
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191228T000000Z
+DTEND:20191228T000000Z
+SUMMARY:Śukla-Tṛtīyā / Śravaṇam
+DESCRIPTION:Sat 2019-12-28 \nDaytime: 08:03 to 16:18\n\nMonth: Pauṣaḥ\ntithi: Śukla-Tṛtīyā until 22:45\nnakshatram: Śravaṇam until 07:00(+1)\nyogam: Harṣaṇaḥ until 06:47(+1)\nkaranam: Taitilam until 10:08\nkaranam: Garajā until 22:45\n\nRahu kala: 10:07 to 11:09\nYama kala: 13:12 to 14:14
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191229T000000Z
+DTEND:20191229T000000Z
+SUMMARY:Śukla-Caturthī / Śraviṣṭhā
+DESCRIPTION:Sun 2019-12-29 \nDaytime: 08:03 to 16:19\n\nMonth: Pauṣaḥ\ntithi: Śukla-Caturthī until 00:24(+1)\nnakshatram: Śraviṣṭhā\nyogam: Vajraḥ until 07:01(+1)\nkaranam: Vaṇijā until 11:31\nkaranam: Bhadrā until 00:24(+1)\n\nRahu kala: 15:17 to 16:19\nYama kala: 12:11 to 13:13
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-12-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191010T000000Z
+DTEND:20191010T000000Z
+SUMMARY:Śukla-Trayodaśī / Śatabhiṣak
+DESCRIPTION:Thu 2019-10-10 \nDaytime: 07:25 to 18:25\n\nMonth: Āśvayujaḥ\ntithi: Śukla-Trayodaśī\nnakshatram: Śatabhiṣak until 13:44\nyogam: Gaṇḍaḥ until 14:08\nkaranam: Kaulavam until 20:37\n\nRahu kala: 14:18 to 15:40\nYama kala: 07:25 to 08:48
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191011T000000Z
+DTEND:20191011T000000Z
+SUMMARY:Śukla-Trayodaśī / Pūrvaproṣṭhapadā
+DESCRIPTION:Fri 2019-10-11 \nDaytime: 07:27 to 18:24\n\nMonth: Āśvayujaḥ\ntithi: Śukla-Trayodaśī until 09:50\nnakshatram: Pūrvaproṣṭhapadā until 16:40\nyogam: Vṛddhiḥ until 15:00\nkaranam: Taitilam until 09:50\nkaranam: Garajā until 23:00\n\nRahu kala: 11:33 to 12:55\nYama kala: 15:39 to 17:01
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191012T000000Z
+DTEND:20191012T000000Z
+SUMMARY:Śukla-Caturdaśī / Uttaraproṣṭhapadā
+DESCRIPTION:Sat 2019-10-12 \nDaytime: 07:28 to 18:22\n\nMonth: Āśvayujaḥ\ntithi: Śukla-Caturdaśī until 12:06\nnakshatram: Uttaraproṣṭhapadā until 19:23\nyogam: Dhruvaḥ until 15:42\nkaranam: Vaṇijā until 12:06\nkaranam: Bhadrā until 01:09(+1)\n\nRahu kala: 10:12 to 11:33\nYama kala: 14:17 to 15:38
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191013T000000Z
+DTEND:20191013T000000Z
+SUMMARY:Paurṇamāsī / Revatī
+DESCRIPTION:Sun 2019-10-13 \nDaytime: 07:30 to 18:20\n\nMonth: Āśvayujaḥ\ntithi: Paurṇamāsī until 14:07\nnakshatram: Revatī until 21:50\nyogam: Vyāghātaḥ until 16:12\nkaranam: Bavam until 14:07\nkaranam: Bālavam until 03:01(+1)\n\nRahu kala: 16:58 to 18:20\nYama kala: 12:55 to 14:16
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191014T000000Z
+DTEND:20191014T000000Z
+SUMMARY:Kṛṣṇa-Prathamā / Aśvinī
+DESCRIPTION:Mon 2019-10-14 \nDaytime: 07:31 to 18:18\n\nMonth: Āśvayujaḥ\ntithi: Kṛṣṇa-Prathamā until 15:51\nnakshatram: Aśvinī until 00:00(+1)\nyogam: Harṣaṇaḥ until 16:29\nkaranam: Kaulavam until 15:51\nkaranam: Taitilam until 04:35(+1)\n\nRahu kala: 08:52 to 10:13\nYama kala: 11:34 to 12:54
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191015T000000Z
+DTEND:20191015T000000Z
+SUMMARY:Kṛṣṇa-Dvitīyā / Apabharaṇī
+DESCRIPTION:Tue 2019-10-15 \nDaytime: 07:33 to 18:16\n\nMonth: Āśvayujaḥ\ntithi: Kṛṣṇa-Dvitīyā until 17:15\nnakshatram: Apabharaṇī until 01:51(+1)\nyogam: Vajraḥ until 16:30\nkaranam: Garajā until 17:15\nkaranam: Vaṇijā until 05:49(+1)\n\nRahu kala: 15:35 to 16:55\nYama kala: 10:13 to 11:34
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191016T000000Z
+DTEND:20191016T000000Z
+SUMMARY:Kṛṣṇa-Tṛtīyā / Kṛttikā
+DESCRIPTION:Wed 2019-10-16 \nDaytime: 07:34 to 18:14\n\nMonth: Āśvayujaḥ\ntithi: Kṛṣṇa-Tṛtīyā until 18:18\nnakshatram: Kṛttikā until 03:22(+1)\nyogam: Siddhiḥ until 16:16\nkaranam: Bhadrā until 18:18\nkaranam: Bavam until 06:41(+1)\n\nRahu kala: 12:54 to 14:14\nYama kala: 08:54 to 10:14
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191017T000000Z
+DTEND:20191017T000000Z
+SUMMARY:Kṛṣṇa-Caturthī / Rohiṇī
+DESCRIPTION:Thu 2019-10-17 \nDaytime: 07:35 to 18:12\n\nMonth: Āśvayujaḥ\ntithi: Kṛṣṇa-Caturthī until 18:58\nnakshatram: Rohiṇī until 04:29(+1)\nyogam: Vyatīpātaḥ until 15:44\nkaranam: Bālavam until 18:58\nkaranam: Kaulavam until 07:09(+1)\n\nRahu kala: 14:13 to 15:33\nYama kala: 07:35 to 08:55
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191018T000000Z
+DTEND:20191018T000000Z
+SUMMARY:Kṛṣṇa-Pañcamī / Mṛgaśīrṣam
+DESCRIPTION:Fri 2019-10-18 \nDaytime: 07:37 to 18:10\n\nMonth: Āśvayujaḥ\ntithi: Kṛṣṇa-Pañcamī until 19:13\nnakshatram: Mṛgaśīrṣam until 05:10(+1)\nyogam: Varīyān until 14:53\nkaranam: Taitilam until 19:13\nkaranam: Garajā until 07:10(+1)\n\nRahu kala: 11:34 to 12:54\nYama kala: 15:32 to 16:51
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191019T000000Z
+DTEND:20191019T000000Z
+SUMMARY:Kṛṣṇa-Ṣaṣṭhī / Ārdrā
+DESCRIPTION:Sat 2019-10-19 \nDaytime: 07:38 to 18:08\n\nMonth: Āśvayujaḥ\ntithi: Kṛṣṇa-Ṣaṣṭhī until 19:00\nnakshatram: Ārdrā until 05:22(+1)\nyogam: Parighaḥ until 13:39\nkaranam: Vaṇijā until 19:00\nkaranam: Bhadrā until 06:41(+1)\n\nRahu kala: 10:16 to 11:35\nYama kala: 14:12 to 15:31
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191001T000000Z
+DTEND:20191001T000000Z
+SUMMARY:Śukla-Caturthī / Viśākhā
+DESCRIPTION:Tue 2019-10-1 \nDaytime: 07:13 to 18:43\n\nMonth: Āśvayujaḥ\ntithi: Śukla-Caturthī until 23:09\nnakshatram: Viśākhā until 00:22(+1)\nyogam: Viṣkambhaḥ until 16:54\nkaranam: Vaṇijā until 12:12\nkaranam: Bhadrā until 23:09\n\nRahu kala: 15:51 to 17:17\nYama kala: 10:05 to 11:32
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191002T000000Z
+DTEND:20191002T000000Z
+SUMMARY:Śukla-Pañcamī / Anūrādhā
+DESCRIPTION:Wed 2019-10-2 \nDaytime: 07:14 to 18:41\n\nMonth: Āśvayujaḥ\ntithi: Śukla-Pañcamī until 21:41\nnakshatram: Anūrādhā until 23:40\nyogam: Prītiḥ until 14:23\nkaranam: Bavam until 10:19\nkaranam: Bālavam until 21:41\n\nRahu kala: 12:58 to 14:24\nYama kala: 08:40 to 10:06
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191003T000000Z
+DTEND:20191003T000000Z
+SUMMARY:Śukla-Ṣaṣṭhī / Jyeṣṭhā
+DESCRIPTION:Thu 2019-10-3 \nDaytime: 07:15 to 18:39\n\nMonth: Āśvayujaḥ\ntithi: Śukla-Ṣaṣṭhī until 21:05\nnakshatram: Jyeṣṭhā until 23:49\nyogam: Āyuṣmān until 12:33\nkaranam: Kaulavam until 09:17\nkaranam: Taitilam until 21:05\n\nRahu kala: 14:23 to 15:48\nYama kala: 07:15 to 08:41
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191004T000000Z
+DTEND:20191004T000000Z
+SUMMARY:Śukla-Saptamī / Mūlā
+DESCRIPTION:Fri 2019-10-4 \nDaytime: 07:17 to 18:37\n\nMonth: Āśvayujaḥ\ntithi: Śukla-Saptamī until 21:20\nnakshatram: Mūlā until 00:48(+1)\nyogam: Saubhāgyam until 11:24\nkaranam: Garajā until 09:06\nkaranam: Vaṇijā until 21:20\n\nRahu kala: 11:32 to 12:57\nYama kala: 15:47 to 17:12
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191005T000000Z
+DTEND:20191005T000000Z
+SUMMARY:Śukla-Aṣṭamī / Pūrvāṣāḍhā
+DESCRIPTION:Sat 2019-10-5 \nDaytime: 07:18 to 18:35\n\nMonth: Āśvayujaḥ\ntithi: Śukla-Aṣṭamī until 22:24\nnakshatram: Pūrvāṣāḍhā until 02:33(+1)\nyogam: Śobhanaḥ until 10:54\nkaranam: Bhadrā until 09:47\nkaranam: Bavam until 22:24\n\nRahu kala: 10:08 to 11:32\nYama kala: 14:21 to 15:46
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191006T000000Z
+DTEND:20191006T000000Z
+SUMMARY:Śukla-Navamī / Uttarāṣāḍhā
+DESCRIPTION:Sun 2019-10-6 \nDaytime: 07:20 to 18:33\n\nMonth: Āśvayujaḥ\ntithi: Śukla-Navamī until 00:08(+1)\nnakshatram: Uttarāṣāḍhā until 04:55(+1)\nyogam: Atigaṇḍaḥ until 10:58\nkaranam: Bālavam until 11:11\nkaranam: Kaulavam until 00:08(+1)\n\nRahu kala: 17:09 to 18:33\nYama kala: 12:57 to 14:21
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191007T000000Z
+DTEND:20191007T000000Z
+SUMMARY:Śukla-Daśamī / Śravaṇam
+DESCRIPTION:Mon 2019-10-7 \nDaytime: 07:21 to 18:31\n\nMonth: Āśvayujaḥ\ntithi: Śukla-Daśamī until 02:20(+1)\nnakshatram: Śravaṇam\nyogam: Sukarma until 11:28\nkaranam: Taitilam until 13:11\nkaranam: Garajā until 02:20(+1)\n\nRahu kala: 08:45 to 10:09\nYama kala: 11:32 to 12:56
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191008T000000Z
+DTEND:20191008T000000Z
+SUMMARY:Śukla-Ekādaśī / Śravaṇam
+DESCRIPTION:Tue 2019-10-8 \nDaytime: 07:22 to 18:29\n\nMonth: Āśvayujaḥ\ntithi: Śukla-Ekādaśī until 04:48(+1)\nnakshatram: Śravaṇam until 07:42\nyogam: Dhṛtiḥ until 12:15\nkaranam: Vaṇijā until 15:33\nkaranam: Bhadrā until 04:48(+1)\n\nRahu kala: 15:43 to 17:06\nYama kala: 10:09 to 11:33
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20191009T000000Z
+DTEND:20191009T000000Z
+SUMMARY:Śukla-Dvādaśī / Śraviṣṭhā
+DESCRIPTION:Wed 2019-10-9 \nDaytime: 07:24 to 18:27\n\nMonth: Āśvayujaḥ\ntithi: Śukla-Dvādaśī until 07:21(+1)\nnakshatram: Śraviṣṭhā until 10:42\nyogam: Śūlaḥ until 13:11\nkaranam: Bavam until 18:05\nkaranam: Bālavam until 07:21(+1)\n\nRahu kala: 12:56 to 14:19\nYama kala: 08:47 to 10:10
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-10-9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190910T000000Z
+DTEND:20190910T000000Z
+SUMMARY:Śukla-Dvādaśī / Śravaṇam
+DESCRIPTION:Tue 2019-9-10 \nDaytime: 06:44 to 19:26\n\nMonth: Bhādrapadaḥ\ntithi: Śukla-Dvādaśī until 14:12\nnakshatram: Śravaṇam until 01:29(+1)\nyogam: Atigaṇḍaḥ until 06:06(+1)\nkaranam: Bālavam until 14:12\nkaranam: Kaulavam until 03:23(+1)\n\nRahu kala: 16:16 to 17:51\nYama kala: 09:55 to 11:30
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190911T000000Z
+DTEND:20190911T000000Z
+SUMMARY:Śukla-Trayodaśī / Śraviṣṭhā
+DESCRIPTION:Wed 2019-9-11 \nDaytime: 06:46 to 19:24\n\nMonth: Bhādrapadaḥ\ntithi: Śukla-Trayodaśī until 16:36\nnakshatram: Śraviṣṭhā until 04:28(+1)\nyogam: Sukarma\nkaranam: Taitilam until 16:36\nkaranam: Garajā until 05:50(+1)\n\nRahu kala: 13:05 to 14:40\nYama kala: 08:20 to 09:55
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190912T000000Z
+DTEND:20190912T000000Z
+SUMMARY:Śukla-Caturdaśī / Śatabhiṣak
+DESCRIPTION:Thu 2019-9-12 \nDaytime: 06:47 to 19:22\n\nMonth: Bhādrapadaḥ\ntithi: Śukla-Caturdaśī until 19:05\nnakshatram: Śatabhiṣak\nyogam: Sukarma until 07:03\nkaranam: Vaṇijā until 19:05\n\nRahu kala: 14:39 to 16:13\nYama kala: 06:47 to 08:21
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190301T000000Z
+DTEND:20190301T000000Z
+SUMMARY:Kṛṣṇa-Ekādaśī / Pūrvāṣāḍhā
+DESCRIPTION:Fri 2019-3-1 \nDaytime: 06:55 to 17:49\n\nMonth: Māghaḥ\ntithi: Kṛṣṇa-Ekādaśī until 21:34\nnakshatram: Pūrvāṣāḍhā until 16:24\nyogam: Vyatīpātaḥ until 22:01\nkaranam: Bavam until 08:19\nkaranam: Bālavam until 21:34\n\nRahu kala: 11:00 to 12:22\nYama kala: 15:05 to 16:27
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190302T000000Z
+DTEND:20190302T000000Z
+SUMMARY:Kṛṣṇa-Dvādaśī / Uttarāṣāḍhā
+DESCRIPTION:Sat 2019-3-2 \nDaytime: 06:53 to 17:50\n\nMonth: Māghaḥ\ntithi: Kṛṣṇa-Dvādaśī until 00:14(+1)\nnakshatram: Uttarāṣāḍhā until 19:29\nyogam: Varīyān until 23:00\nkaranam: Kaulavam until 10:53\nkaranam: Taitilam until 00:14(+1)\n\nRahu kala: 09:37 to 10:59\nYama kala: 13:44 to 15:06
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190303T000000Z
+DTEND:20190303T000000Z
+SUMMARY:Kṛṣṇa-Trayodaśī / Śravaṇam
+DESCRIPTION:Sun 2019-3-3 \nDaytime: 06:51 to 17:52\n\nMonth: Māghaḥ\ntithi: Kṛṣṇa-Trayodaśī until 02:58(+1)\nnakshatram: Śravaṇam until 22:40\nyogam: Parighaḥ until 00:02(+1)\nkaranam: Garajā until 13:36\nkaranam: Vaṇijā until 02:58(+1)\n\nRahu kala: 16:29 to 17:52\nYama kala: 12:21 to 13:44
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190304T000000Z
+DTEND:20190304T000000Z
+SUMMARY:Kṛṣṇa-Caturdaśī / Śraviṣṭhā
+DESCRIPTION:Mon 2019-3-4 \nDaytime: 06:49 to 17:53\n\nMonth: Māghaḥ\ntithi: Kṛṣṇa-Caturdaśī until 05:37(+1)\nnakshatram: Śraviṣṭhā until 01:47(+1)\nyogam: Śivaḥ until 01:02(+1)\nkaranam: Bhadrā until 16:19\nkaranam: Śakuniḥ until 05:37(+1)\n\nRahu kala: 08:12 to 09:35\nYama kala: 10:58 to 12:21
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190305T000000Z
+DTEND:20190305T000000Z
+SUMMARY:Amāvāsyā / Śatabhiṣak
+DESCRIPTION:Tue 2019-3-5 \nDaytime: 06:47 to 17:55\n\nMonth: Māghaḥ\ntithi: Amāvāsyā\nnakshatram: Śatabhiṣak until 04:43(+1)\nyogam: Siddhaḥ until 01:53(+1)\nkaranam: Catuṣpāt until 18:52\n\nRahu kala: 15:08 to 16:31\nYama kala: 09:34 to 10:57
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190306T000000Z
+DTEND:20190306T000000Z
+SUMMARY:Amāvāsyā / Pūrvaproṣṭhapadā
+DESCRIPTION:Wed 2019-3-6 \nDaytime: 06:45 to 17:56\n\nMonth: Māghaḥ\ntithi: Amāvāsyā until 08:03\nnakshatram: Pūrvaproṣṭhapadā\nyogam: Sādhyaḥ until 02:33(+1)\nkaranam: Nāgavān until 08:03\nkaranam: Kiṃstughnam until 21:11\n\nRahu kala: 12:20 to 13:44\nYama kala: 08:09 to 09:33
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190307T000000Z
+DTEND:20190307T000000Z
+SUMMARY:Śukla-Prathamā / Pūrvaproṣṭhapadā
+DESCRIPTION:Thu 2019-3-7 \nDaytime: 06:43 to 17:58\n\nMonth: Phālgunaḥ\ntithi: Śukla-Prathamā until 10:14\nnakshatram: Pūrvaproṣṭhapadā until 07:24\nyogam: Śubhaḥ until 02:58(+1)\nkaranam: Bavam until 10:14\nkaranam: Bālavam until 23:11\n\nRahu kala: 13:45 to 15:09\nYama kala: 06:43 to 08:07
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190308T000000Z
+DTEND:20190308T000000Z
+SUMMARY:Śukla-Dvitīyā / Uttaraproṣṭhapadā
+DESCRIPTION:Fri 2019-3-8 \nDaytime: 06:41 to 17:59\n\nMonth: Phālgunaḥ\ntithi: Śukla-Dvitīyā until 12:04\nnakshatram: Uttaraproṣṭhapadā until 09:46\nyogam: Śubhraḥ until 03:08(+1)\nkaranam: Kaulavam until 12:04\nkaranam: Taitilam until 00:51(+1)\n\nRahu kala: 10:55 to 12:20\nYama kala: 15:10 to 16:34
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190309T000000Z
+DTEND:20190309T000000Z
+SUMMARY:Śukla-Tṛtīyā / Revatī
+DESCRIPTION:Sat 2019-3-9 \nDaytime: 06:39 to 18:01\n\nMonth: Phālgunaḥ\ntithi: Śukla-Tṛtīyā until 13:32\nnakshatram: Revatī until 11:48\nyogam: Brāhmaḥ until 03:00(+1)\nkaranam: Garajā until 13:32\nkaranam: Vaṇijā until 02:08(+1)\n\nRahu kala: 09:29 to 10:55\nYama kala: 13:45 to 15:10
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190913T000000Z
+DTEND:20190913T000000Z
+SUMMARY:Paurṇamāsī / Śatabhiṣak
+DESCRIPTION:Fri 2019-9-13 \nDaytime: 06:48 to 19:20\n\nMonth: Bhādrapadaḥ\ntithi: Paurṇamāsī until 21:32\nnakshatram: Śatabhiṣak until 07:29\nyogam: Dhṛtiḥ until 08:01\nkaranam: Bhadrā until 08:19\nkaranam: Bavam until 21:32\n\nRahu kala: 11:30 to 13:04\nYama kala: 16:12 to 17:46
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190914T000000Z
+DTEND:20190914T000000Z
+SUMMARY:Kṛṣṇa-Prathamā / Pūrvaproṣṭhapadā
+DESCRIPTION:Sat 2019-9-14 \nDaytime: 06:50 to 19:18\n\nMonth: Bhādrapadaḥ\ntithi: Kṛṣṇa-Prathamā until 23:54\nnakshatram: Pūrvaproṣṭhapadā until 10:25\nyogam: Śūlaḥ until 08:55\nkaranam: Bālavam until 10:44\nkaranam: Kaulavam until 23:54\n\nRahu kala: 09:57 to 11:30\nYama kala: 14:38 to 16:11
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190915T000000Z
+DTEND:20190915T000000Z
+SUMMARY:Kṛṣṇa-Dvitīyā / Uttaraproṣṭhapadā
+DESCRIPTION:Sun 2019-9-15 \nDaytime: 06:51 to 19:16\n\nMonth: Bhādrapadaḥ\ntithi: Kṛṣṇa-Dvitīyā until 02:05(+1)\nnakshatram: Uttaraproṣṭhapadā until 13:14\nyogam: Gaṇḍaḥ until 09:44\nkaranam: Taitilam until 13:01\nkaranam: Garajā until 02:05(+1)\n\nRahu kala: 17:43 to 19:16\nYama kala: 13:04 to 14:37
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190916T000000Z
+DTEND:20190916T000000Z
+SUMMARY:Kṛṣṇa-Tṛtīyā / Revatī
+DESCRIPTION:Mon 2019-9-16 \nDaytime: 06:52 to 19:14\n\nMonth: Bhādrapadaḥ\ntithi: Kṛṣṇa-Tṛtīyā until 04:02(+1)\nnakshatram: Revatī until 15:52\nyogam: Vṛddhiḥ until 10:23\nkaranam: Vaṇijā until 15:06\nkaranam: Bhadrā until 04:02(+1)\n\nRahu kala: 08:25 to 09:58\nYama kala: 11:30 to 13:03
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190930T000000Z
+DTEND:20190930T000000Z
+SUMMARY:Śukla-Tṛtīyā / Svātī
+DESCRIPTION:Mon 2019-9-30 \nDaytime: 07:11 to 18:45\n\nMonth: Āśvayujaḥ\ntithi: Śukla-Tṛtīyā until 01:25(+1)\nnakshatram: Svātī until 01:51(+1)\nyogam: Vaidhṛtiḥ until 20:01\nkaranam: Taitilam until 14:47\nkaranam: Garajā until 01:25(+1)\n\nRahu kala: 08:38 to 10:05\nYama kala: 11:32 to 12:58
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-9-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190130T000000Z
+DTEND:20190130T000000Z
+SUMMARY:Kṛṣṇa-Ekādaśī / Jyeṣṭhā
+DESCRIPTION:Wed 2019-1-30 \nDaytime: 07:44 to 17:01\n\nMonth: Pauṣaḥ\ntithi: Kṛṣṇa-Ekādaśī until 03:32(+1)\nnakshatram: Jyeṣṭhā until 05:10(+1)\nyogam: Dhruvaḥ until 16:04\nkaranam: Bavam until 14:43\nkaranam: Bālavam until 03:32(+1)\n\nRahu kala: 12:22 to 13:32\nYama kala: 08:53 to 10:03
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190131T000000Z
+DTEND:20190131T000000Z
+SUMMARY:Kṛṣṇa-Dvādaśī / Mūlā
+DESCRIPTION:Thu 2019-1-31 \nDaytime: 07:42 to 17:03\n\nMonth: Pauṣaḥ\ntithi: Kṛṣṇa-Dvādaśī until 05:29(+1)\nnakshatram: Mūlā until 07:37(+1)\nyogam: Vyāghātaḥ until 16:17\nkaranam: Kaulavam until 16:27\nkaranam: Taitilam until 05:29(+1)\n\nRahu kala: 13:33 to 14:43\nYama kala: 07:42 to 08:52
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-1-31
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190530T000000Z
+DTEND:20190530T000000Z
+SUMMARY:Kṛṣṇa-Dvādaśī / Revatī
+DESCRIPTION:Thu 2019-5-30 \nDaytime: 05:23 to 20:51\n\nMonth: Vaiśākhaḥ\ntithi: Kṛṣṇa-Dvādaśī until 04:46(+1)\nnakshatram: Revatī until 10:34\nyogam: Saubhāgyam until 01:25(+1)\nkaranam: Kaulavam until 16:32\nkaranam: Taitilam until 04:46(+1)\n\nRahu kala: 15:03 to 16:59\nYama kala: 05:23 to 07:19
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190531T000000Z
+DTEND:20190531T000000Z
+SUMMARY:Kṛṣṇa-Trayodaśī / Aśvinī
+DESCRIPTION:Fri 2019-5-31 \nDaytime: 05:22 to 20:52\n\nMonth: Vaiśākhaḥ\ntithi: Kṛṣṇa-Trayodaśī until 04:46(+1)\nnakshatram: Aśvinī until 11:42\nyogam: Śobhanaḥ until 00:29(+1)\nkaranam: Garajā until 16:51\nkaranam: Vaṇijā until 04:46(+1)\n\nRahu kala: 11:11 to 13:07\nYama kala: 16:59 to 18:55
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-5-31
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190720T000000Z
+DTEND:20190720T000000Z
+SUMMARY:Kṛṣṇa-Caturthī / Śatabhiṣak
+DESCRIPTION:Sat 2019-7-20 \nDaytime: 05:38 to 20:52\n\nMonth: Āṣāḍhaḥ\ntithi: Kṛṣṇa-Caturthī until 23:09\nnakshatram: Śatabhiṣak until 18:55\nyogam: Saubhāgyam until 17:48\nkaranam: Bavam until 09:56\nkaranam: Bālavam until 23:09\n\nRahu kala: 09:26 to 11:21\nYama kala: 15:09 to 17:03
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190721T000000Z
+DTEND:20190721T000000Z
+SUMMARY:Kṛṣṇa-Pañcamī / Pūrvaproṣṭhapadā
+DESCRIPTION:Sun 2019-7-21 \nDaytime: 05:39 to 20:51\n\nMonth: Āṣāḍhaḥ\ntithi: Kṛṣṇa-Pañcamī until 01:34(+1)\nnakshatram: Pūrvaproṣṭhapadā until 21:54\nyogam: Śobhanaḥ until 18:48\nkaranam: Kaulavam until 12:22\nkaranam: Taitilam until 01:34(+1)\n\nRahu kala: 18:57 to 20:51\nYama kala: 13:15 to 15:09
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190722T000000Z
+DTEND:20190722T000000Z
+SUMMARY:Kṛṣṇa-Ṣaṣṭhī / Uttaraproṣṭhapadā
+DESCRIPTION:Mon 2019-7-22 \nDaytime: 05:40 to 20:50\n\nMonth: Āṣāḍhaḥ\ntithi: Kṛṣṇa-Ṣaṣṭhī until 03:46(+1)\nnakshatram: Uttaraproṣṭhapadā until 00:44(+1)\nyogam: Atigaṇḍaḥ until 19:40\nkaranam: Garajā until 14:42\nkaranam: Vaṇijā until 03:46(+1)\n\nRahu kala: 07:34 to 09:27\nYama kala: 11:21 to 13:15
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190723T000000Z
+DTEND:20190723T000000Z
+SUMMARY:Kṛṣṇa-Saptamī / Revatī
+DESCRIPTION:Tue 2019-7-23 \nDaytime: 05:41 to 20:49\n\nMonth: Āṣāḍhaḥ\ntithi: Kṛṣṇa-Saptamī until 05:35(+1)\nnakshatram: Revatī until 03:12(+1)\nyogam: Sukarma until 20:17\nkaranam: Bhadrā until 16:44\nkaranam: Bavam until 05:35(+1)\n\nRahu kala: 17:02 to 18:55\nYama kala: 09:28 to 11:21
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190724T000000Z
+DTEND:20190724T000000Z
+SUMMARY:Kṛṣṇa-Aṣṭamī / Aśvinī
+DESCRIPTION:Wed 2019-7-24 \nDaytime: 05:42 to 20:48\n\nMonth: Āṣāḍhaḥ\ntithi: Kṛṣṇa-Aṣṭamī\nnakshatram: Aśvinī until 05:09(+1)\nyogam: Dhṛtiḥ until 20:31\nkaranam: Bālavam until 18:18\n\nRahu kala: 13:15 to 15:08\nYama kala: 07:35 to 09:29
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190725T000000Z
+DTEND:20190725T000000Z
+SUMMARY:Kṛṣṇa-Aṣṭamī / Apabharaṇī
+DESCRIPTION:Thu 2019-7-25 \nDaytime: 05:43 to 20:47\n\nMonth: Āṣāḍhaḥ\ntithi: Kṛṣṇa-Aṣṭamī until 06:51\nnakshatram: Apabharaṇī\nyogam: Śūlaḥ until 20:15\nkaranam: Kaulavam until 06:51\nkaranam: Taitilam until 19:14\n\nRahu kala: 15:08 to 17:01\nYama kala: 05:43 to 07:36
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190726T000000Z
+DTEND:20190726T000000Z
+SUMMARY:Kṛṣṇa-Navamī / Apabharaṇī
+DESCRIPTION:Fri 2019-7-26 \nDaytime: 05:44 to 20:46\n\nMonth: Āṣāḍhaḥ\ntithi: Kṛṣṇa-Navamī until 07:26\nnakshatram: Apabharaṇī until 06:27\nyogam: Gaṇḍaḥ until 19:25\nkaranam: Garajā until 07:26\nkaranam: Vaṇijā until 19:27\n\nRahu kala: 11:22 to 13:15\nYama kala: 17:00 to 18:53
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190727T000000Z
+DTEND:20190727T000000Z
+SUMMARY:Kṛṣṇa-Daśamī / Kṛttikā
+DESCRIPTION:Sat 2019-7-27 \nDaytime: 05:46 to 20:44\n\nMonth: Āṣāḍhaḥ\ntithi: Kṛṣṇa-Daśamī until 07:16\nnakshatram: Kṛttikā until 07:00\nyogam: Vṛddhiḥ until 17:58\nkaranam: Bhadrā until 07:16\nkaranam: Bavam until 18:53\n\nRahu kala: 09:30 to 11:23\nYama kala: 15:07 to 17:00
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190728T000000Z
+DTEND:20190728T000000Z
+SUMMARY:Kṛṣṇa-Ekādaśī / Rohiṇī
+DESCRIPTION:Sun 2019-7-28 \nDaytime: 05:47 to 20:43\n\nMonth: Āṣāḍhaḥ\ntithi: Kṛṣṇa-Ekādaśī until 06:19\ntithi: Kṛṣṇa-Dvādaśī until 04:39(+1)\nnakshatram: Rohiṇī until 06:48\nyogam: Dhruvaḥ until 15:55\nkaranam: Bālavam until 06:19\nkaranam: Kaulavam until 17:34\nkaranam: Taitilam until 04:39(+1)\n\nRahu kala: 18:51 to 20:43\nYama kala: 13:15 to 15:07
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190729T000000Z
+DTEND:20190729T000000Z
+SUMMARY:Kṛṣṇa-Trayodaśī / Mṛgaśīrṣam
+DESCRIPTION:Mon 2019-7-29 \nDaytime: 05:48 to 20:42\n\nMonth: Āṣāḍhaḥ\ntithi: Kṛṣṇa-Trayodaśī until 02:19(+1)\nnakshatram: Mṛgaśīrṣam until 05:52\nnakshatram: Ārdrā until 04:17(+1)\nyogam: Vyāghātaḥ until 13:17\nkaranam: Garajā until 15:33\nkaranam: Vaṇijā until 02:19(+1)\n\nRahu kala: 07:40 to 09:32\nYama kala: 11:23 to 13:15
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-7-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190322T000000Z
+DTEND:20190322T000000Z
+SUMMARY:Kṛṣṇa-Dvitīyā / Citrā
+DESCRIPTION:Fri 2019-3-22 \nDaytime: 07:13 to 19:19\n\nMonth: Phālgunaḥ\ntithi: Kṛṣṇa-Dvitīyā until 12:25\nnakshatram: Citrā until 20:35\nyogam: Dhruvaḥ until 13:11\nkaranam: Garajā until 12:25\nkaranam: Vaṇijā until 23:09\n\nRahu kala: 11:45 to 13:16\nYama kala: 16:18 to 17:49
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190419T231846Z
+DTSTART:20190323T000000Z
+DTEND:20190323T000000Z
+SUMMARY:Kṛṣṇa-Tṛtīyā / Svātī
+DESCRIPTION:Sat 2019-3-23 \nDaytime: 07:11 to 19:21\n\nMonth: Phālgunaḥ\ntithi: Kṛṣṇa-Tṛtīyā until 10:02\nnakshatram: Svātī until 19:11\nyogam: Vyāghātaḥ until 10:05\nkaranam: Bhadrā until 10:02\nkaranam: Bavam until 21:06\n\nRahu kala: 10:13 to 11:45\nYama kala: 14:47 to 16:18
+TRANSP:OPAQUE
+UID:veda_daily_panchanga_2019-3-23
+END:VEVENT
+END:VCALENDAR
