@@ -1,3 +1,6 @@
+
+# Based off https://github.com/sanskrit-coders/jyotisha/blob/master/jyotisha/panchangam/scripts/write_monthly_panchangam_tex.py
+
 from datetime import datetime
 from pytz import timezone as tz
 import swisseph as swe
@@ -78,7 +81,9 @@ for d in range(1, jyotisha.panchangam.temporal.MAX_SZ - 1):
         rahu_start = jyotisha.panchangam.temporal.Time(24 * (panchangam.kaalas[d]['rahu'][0] - jd)).toString(format=panchangam.fmt)
         rahu_end = jyotisha.panchangam.temporal.Time(24 * (panchangam.kaalas[d]['rahu'][1] - jd)).toString(format=panchangam.fmt)
         yama_start = jyotisha.panchangam.temporal.Time(24 * (panchangam.kaalas[d]['yama'][0] - jd)).toString(format=panchangam.fmt)
-        yama_end = jyotisha.panchangam.temporal.Time(24 * (panchangam.kaalas[d]['yama'][1] - jd)).toString(format=panchangam.fmt)
+        yama_end = jyotisha.panchangam.temporal.Time(24 * (panchangam.kaalas[d]['yama'][1] - jd)).toString(format=panchangam.fmt)        
+        lunar_month = jyotisha.panchangam.temporal.get_chandra_masa(panchangam.lunar_month[d],
+                                                                 jyotisha.panchangam.temporal.NAMES, panchangam.script)
 
         d_str = '%s-%s-%s' % (year, m, dt)
         output_collector[d_str] = {
@@ -90,7 +95,8 @@ for d in range(1, jyotisha.panchangam.temporal.MAX_SZ - 1):
             'rahu_start': rahu_start,
             'rahu_end': rahu_end,
             'yama_start': yama_start,
-            'yama_end': yama_end
+            'yama_end': yama_end,
+            'lunar_month': lunar_month
 
         }
     except:
