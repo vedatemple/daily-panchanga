@@ -8,7 +8,7 @@ import argparse
 
 import json
 import jyotisha
-from jyotisha.panchangam import temporal
+from jyotisha.panchangam import temporal, spatio_temporal
 import jyotisha.panchangam.spatio_temporal.annual
 from jyotisha.panchangam.spatio_temporal import City
 from indic_transliteration import xsanscript as sanscript
@@ -42,16 +42,8 @@ def get_names(fname='./names.json'):
 
 
 NAMES = get_names()
-panchangam = jyotisha.panchangam.spatio_temporal.annual.get_panchangam(city=seattle, year=args.year, script="iast", precomputed_json_dir="./data/jyotisha")
 
-samvatsara_id = (panchangam.year - 1568) % 60 + 1  # distance from prabhava
-samvatsara_names = '%s–%s' % (NAMES['SAMVATSARA_NAMES'][panchangam.script][samvatsara_id],
-                                NAMES['SAMVATSARA_NAMES'][panchangam.script][(samvatsara_id % 60) + 1])
-
-panchangam.get_kaalas()
-
-# print (str(panchangam))
-
+# Prepare a list of common attribute names so that we can reuse code
 # {
 #     'data': 'tithi_data',               # panchangam.tithi_data[d]
 #     'names': 'TITHI_NAMES',             # NAMES['TITHI_NAMES']
@@ -59,9 +51,7 @@ panchangam.get_kaalas()
 #     'end_jd': 'tithi_end_jd',           # tithi_ID, tithi_end_jd in panchangam.tithi_data[d]
 #     'json_name': 'tithi'
 # },
-
 entities = []
-
 for e_base in ['tithi', 'nakshatram', 'yogam', 'karanam']:
     entities.append(
         {
@@ -73,8 +63,7 @@ for e_base in ['tithi', 'nakshatram', 'yogam', 'karanam']:
         }
     )
 
-output_collector = {}
-
+# Given a panchanga, entity (see above) and date, get an array of json attributes
 def enumerate_anga(panchangam, anga_entity, d):
     anga_collector = []
 
@@ -92,6 +81,17 @@ def enumerate_anga(panchangam, anga_entity, d):
 
     return anga_collector
 
+# generate panchangam
+panchangam = spatio_temporal.annual.get_panchangam(city=seattle, year=args.year, script="iast", precomputed_json_dir="./data/jyotisha")
+panchangam.get_kaalas()
+
+samvatsara_id = (panchangam.year - 1568) % 60 + 1  # distance from prabhava
+samvatsara_names = '%s–%s' % (NAMES['SAMVATSARA_NAMES'][panchangam.script][samvatsara_id],
+                                NAMES['SAMVATSARA_NAMES'][panchangam.script][(samvatsara_id % 60) + 1])
+
+output_collector = {}
+
+# year data that is not specified for each day
 samvatsara_id = (panchangam.year - 1568) % 60 + 1  # distance from prabhava
 samvatsara_names = (NAMES['SAMVATSARA_NAMES'][panchangam.script][samvatsara_id],
                     NAMES['SAMVATSARA_NAMES'][panchangam.script][(samvatsara_id % 60) + 1])
@@ -131,6 +131,7 @@ for d in range(1, temporal.MAX_SZ - 1):
 
         d_str = '%s-%s-%s' % (args.year, '{0:02d}'.format(m), '{0:02d}'.format(dt))
 
+        # Single valued attributes
         output_collector[d_str] = {
             'date': d_str,
             'month': MON[m],
@@ -155,9 +156,11 @@ for d in range(1, temporal.MAX_SZ - 1):
     except:
         pass
 
+    # Multi-valued attributes like tithi, nakshatra etc
     for e in entities:
         output_collector[d_str][e['json_name']] = enumerate_anga(panchangam, e, d)
 
 
+# Take the data we've collected and print it as json to stdout
 json_output = json.dumps(output_collector, indent=4, ensure_ascii=False)
 print (json_output)
