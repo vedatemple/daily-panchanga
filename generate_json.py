@@ -24,6 +24,10 @@ parser = argparse.ArgumentParser(description='Generate panchanga data for Seattl
 parser.add_argument('--year', dest='year', type=int, default=2019, help='year (default: 2019)')
 args = parser.parse_args()
 
+def get_time_string(jd_time, jd_base):
+    time_string = temporal.Time(24 * (jd_time - jd_base)).toString(format=panchangam.fmt)
+    return time_string
+
 # based off https://github.com/sanskrit-coders/jyotisha/blob/master/jyotisha/names/init_names_auto.py
 def get_names(fname='./names.json'):
   scripts = [sanscript.DEVANAGARI, sanscript.IAST, sanscript.TAMIL, sanscript.TELUGU]
@@ -38,7 +42,6 @@ def get_names(fname='./names.json'):
       for scr in scripts:
         names_dict[dictionary][scr] = [sanscript.transliterate(name, 'hk', scr) for name in names_dict[dictionary]['hk']]
     return names_dict
-
 
 NAMES = get_names()
 
@@ -102,20 +105,19 @@ for d in range(1, temporal.MAX_SZ - 1):
                 datetime.utcoffset(local_time).seconds) / 3600.0
         jd = panchangam.jd_start_utc - tz_off / 24.0 + d - 1
 
-        sunrise = temporal.Time(24 * (panchangam.jd_sunrise[d] - jd)).toString(format=panchangam.fmt)
-        sunset = temporal.Time(24 * (panchangam.jd_sunset[d] - jd)).toString(format=panchangam.fmt)
-        moonrise = temporal.Time(24 * (panchangam.jd_moonrise[d] - jd)).toString(format=panchangam.fmt)
-        moonset = temporal.Time(24 * (panchangam.jd_moonset[d] - jd)).toString(format=panchangam.fmt)
+        sunrise = get_time_string(panchangam.jd_sunrise[d], jd)
+        sunset = get_time_string(panchangam.jd_sunset[d], jd)
+        moonrise = get_time_string(panchangam.jd_moonrise[d], jd)
+        moonset = get_time_string(panchangam.jd_moonset[d], jd)
 
-        rahu_start = temporal.Time(24 * (panchangam.kaalas[d]['rahu'][0] - jd)).toString(format=panchangam.fmt)
-        rahu_end = temporal.Time(24 * (panchangam.kaalas[d]['rahu'][1] - jd)).toString(format=panchangam.fmt)
-        yama_start = temporal.Time(24 * (panchangam.kaalas[d]['yama'][0] - jd)).toString(format=panchangam.fmt)
-        yama_end = temporal.Time(24 * (panchangam.kaalas[d]['yama'][1] - jd)).toString(format=panchangam.fmt)        
-        gulika_start = temporal.Time(24 * (panchangam.kaalas[d]['gulika'][0] - jd)).toString(format=panchangam.fmt)
-        gulika_end = temporal.Time(24 * (panchangam.kaalas[d]['gulika'][1] - jd)).toString(format=panchangam.fmt)        
+        rahu_start = get_time_string(panchangam.kaalas[d]['rahu'][0], jd)
+        rahu_end = get_time_string(panchangam.kaalas[d]['rahu'][1], jd)
+        yama_start = get_time_string(panchangam.kaalas[d]['yama'][0], jd)
+        yama_end = get_time_string(panchangam.kaalas[d]['yama'][1], jd)
+        gulika_start = get_time_string(panchangam.kaalas[d]['gulika'][0], jd)
+        gulika_end = get_time_string(panchangam.kaalas[d]['gulika'][1], jd)
 
-        lunar_month = temporal.get_chandra_masa(panchangam.lunar_month[d],
-                                                                 NAMES, panchangam.script)
+        lunar_month = temporal.get_chandra_masa(panchangam.lunar_month[d], NAMES, panchangam.script)
         solar_month = NAMES['RASHI_NAMES'][panchangam.script][panchangam.solar_month[d]]
         solar_day = panchangam.solar_month_day[d]
 
