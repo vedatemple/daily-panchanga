@@ -12,9 +12,9 @@ from jyotisha.panchangam import temporal, spatio_temporal
 import jyotisha.panchangam.spatio_temporal.annual
 from jyotisha.panchangam.spatio_temporal import City
 
-MON = {1: 'January', 2: 'February', 3: 'March', 4: 'April',
-        5: 'May', 6: 'June', 7: 'July', 8: 'August', 9: 'September',
-        10: 'October', 11: 'November', 12: 'December'}
+MON = {1: 'january', 2: 'february', 3: 'march', 4: 'april',
+        5: 'may', 6: 'june', 7: 'july', 8: 'august', 9: 'september',
+        10: 'october', 11: 'november', 12: 'december'}
 WDAY = {0: 'sunday', 1: 'monday', 2: 'tuesday',
         3: 'wednesday', 4: 'thursday', 5: 'friday', 6: 'saturday'}
 
