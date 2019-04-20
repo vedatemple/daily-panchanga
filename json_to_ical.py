@@ -6,9 +6,10 @@
 # See the entries in data/veda_seattle_2019.json for the expected input schema
 
 from ics import Calendar, Event
-from datetime import datetime
+from datetime import datetime, date, time
 from sys import stdin
 import json
+import pytz
 
 json_input = stdin.read()
 data = json.loads(json_input)
@@ -55,11 +56,15 @@ def item_to_name(item):
     return name
 
 def item_to_ical(item):
-    
+        
+    event_date = datetime.strptime(item['date'], '%Y-%m-%d')
+    pacific = pytz.timezone('US/Pacific')
+    pacific_date = pacific.localize(datetime(event_date.year, event_date.month, event_date.day, 0, 0, 0))
+
     ical_event = Event()
     ical_event.name = item_to_name(item)
-    ical_event.begin = datetime.strptime(item['date'], '%Y-%m-%d')
-    ical_event.end = datetime.strptime(item['date'], '%Y-%m-%d')
+    ical_event.begin = pacific_date
+    ical_event.end = pacific_date
     ical_event.uid = 'veda_daily_panchanga_' + item['date']
     ical_event.description = item_to_string(item)
     return ical_event

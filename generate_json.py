@@ -17,7 +17,7 @@ MON = {1: 'January', 2: 'February', 3: 'March', 4: 'April',
 WDAY = {0: 'Sun', 1: 'Mon', 2: 'Tue',
         3: 'Wed', 4: 'Thu', 5: 'Fri', 6: 'Sat'}
 
-seattle = City("Seattle", "47.6062", "-122.3321", "America/Los_Angeles")
+seattle = City("Seattle", "47.6062", "-122.3321", "US/Pacific")
 
 parser = argparse.ArgumentParser(description='Generate panchanga data for Seattle')
 parser.add_argument('--year', dest='year', type=int, default=2019, help='year (default: 2019)')
