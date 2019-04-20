@@ -36,6 +36,7 @@ masa (solar): {i['solar_month']} - {i['solar_day']}
 {anga_to_string(i, 'yogam')}
 {anga_to_string(i, 'karanam')}
 
+Varsha: {i['samvatsara']}
 Rahu kala: {i['rahu_start']} to {i['rahu_end']}
 Yama kala: {i['yama_start']} to {i['yama_end']}"""
 

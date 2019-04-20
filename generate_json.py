@@ -73,6 +73,11 @@ def enumerate_anga(panchangam, anga_entity, d):
 
     return anga_collector
 
+samvatsara_id = (panchangam.year - 1568) % 60 + 1  # distance from prabhava
+samvatsara_names = (jyotisha.panchangam.temporal.NAMES['SAMVATSARA_NAMES'][panchangam.script][samvatsara_id],
+                    jyotisha.panchangam.temporal.NAMES['SAMVATSARA_NAMES'][panchangam.script][(samvatsara_id % 60) + 1])
+yname = samvatsara_names[0]  # Assign year name until Mesha Sankranti
+
 for d in range(1, jyotisha.panchangam.temporal.MAX_SZ - 1):
     try:
         [y, m, dt, t] = swe.revjul(panchangam.jd_start_utc + d - 1)
@@ -91,7 +96,12 @@ for d in range(1, jyotisha.panchangam.temporal.MAX_SZ - 1):
         solar_month = jyotisha.panchangam.temporal.NAMES['RASHI_NAMES'][panchangam.script][panchangam.solar_month[d]]
         solar_day = panchangam.solar_month_day[d]
 
+        if panchangam.solar_month[d] == 1:
+            # Flip the year name for the remaining days
+            yname = samvatsara_names[1]
+
         d_str = '%s-%s-%s' % (args.year, '{0:02d}'.format(m), '{0:02d}'.format(dt))
+
         output_collector[d_str] = {
             'date': d_str,
             'month': MON[m],
@@ -102,6 +112,7 @@ for d in range(1, jyotisha.panchangam.temporal.MAX_SZ - 1):
             'rahu_end': rahu_end,
             'yama_start': yama_start,
             'yama_end': yama_end,
+            'samvatsara': yname,
             'lunar_month': lunar_month,
             'solar_month': solar_month,
             'solar_day': solar_day
