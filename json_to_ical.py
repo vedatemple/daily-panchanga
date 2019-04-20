@@ -42,7 +42,8 @@ Ritu: {i['rtu']}
 
 Rahu kala: {i['rahu_start']} to {i['rahu_end']}
 Yama kala: {i['yama_start']} to {i['yama_end']}
-Gulika kala: {i['gulika_start']} to {i['gulika_end']}"""
+Gulika kala: {i['gulika_start']} to {i['gulika_end']}
+Moon above horizon: {i['moonrise']} to {i['moonset']}"""
 
     return description
 

@@ -85,8 +85,12 @@ for d in range(1, jyotisha.panchangam.temporal.MAX_SZ - 1):
         tz_off = (datetime.utcoffset(local_time).days * 86400 +
                 datetime.utcoffset(local_time).seconds) / 3600.0
         jd = panchangam.jd_start_utc - tz_off / 24.0 + d - 1
+
         sunrise = jyotisha.panchangam.temporal.Time(24 * (panchangam.jd_sunrise[d] - jd)).toString(format=panchangam.fmt)
         sunset = jyotisha.panchangam.temporal.Time(24 * (panchangam.jd_sunset[d] - jd)).toString(format=panchangam.fmt)
+        moonrise = jyotisha.panchangam.temporal.Time(24 * (panchangam.jd_moonrise[d] - jd)).toString(format=panchangam.fmt)
+        moonset = jyotisha.panchangam.temporal.Time(24 * (panchangam.jd_moonset[d] - jd)).toString(format=panchangam.fmt)
+
         rahu_start = jyotisha.panchangam.temporal.Time(24 * (panchangam.kaalas[d]['rahu'][0] - jd)).toString(format=panchangam.fmt)
         rahu_end = jyotisha.panchangam.temporal.Time(24 * (panchangam.kaalas[d]['rahu'][1] - jd)).toString(format=panchangam.fmt)
         yama_start = jyotisha.panchangam.temporal.Time(24 * (panchangam.kaalas[d]['yama'][0] - jd)).toString(format=panchangam.fmt)
@@ -114,6 +118,8 @@ for d in range(1, jyotisha.panchangam.temporal.MAX_SZ - 1):
             'weekday': WDAY[panchangam.weekday[d]],
             'sunrise': sunrise,
             'sunset': sunset,
+            'moonrise': moonrise,
+            'moonset': moonset,
             'rahu_start': rahu_start,
             'rahu_end': rahu_end,
             'yama_start': yama_start,
