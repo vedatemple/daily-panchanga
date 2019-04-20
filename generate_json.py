@@ -44,8 +44,8 @@ NAMES = get_names()
 panchangam = jyotisha.panchangam.spatio_temporal.annual.get_panchangam(city=seattle, year=args.year, script="iast", precomputed_json_dir="./data/jyotisha")
 
 samvatsara_id = (panchangam.year - 1568) % 60 + 1  # distance from prabhava
-samvatsara_names = '%s–%s' % (jyotisha.panchangam.temporal.NAMES['SAMVATSARA_NAMES'][panchangam.script][samvatsara_id],
-                                jyotisha.panchangam.temporal.NAMES['SAMVATSARA_NAMES'][panchangam.script][(samvatsara_id % 60) + 1])
+samvatsara_names = '%s–%s' % (NAMES['SAMVATSARA_NAMES'][panchangam.script][samvatsara_id],
+                                NAMES['SAMVATSARA_NAMES'][panchangam.script][(samvatsara_id % 60) + 1])
 
 panchangam.get_kaalas()
 
@@ -53,7 +53,7 @@ panchangam.get_kaalas()
 
 # {
 #     'data': 'tithi_data',               # panchangam.tithi_data[d]
-#     'names': 'TITHI_NAMES',             # jyotisha.panchangam.temporal.NAMES['TITHI_NAMES']
+#     'names': 'TITHI_NAMES',             # NAMES['TITHI_NAMES']
 #     'id': 'tithi_ID',                   # tithi_ID, tithi_end_jd in panchangam.tithi_data[d]
 #     'end_jd': 'tithi_end_jd',           # tithi_ID, tithi_end_jd in panchangam.tithi_data[d]
 #     'json_name': 'tithi'
@@ -80,7 +80,7 @@ def enumerate_anga(panchangam, anga_entity, d):
     data = getattr(panchangam, anga_entity['data'])
     if data[d]:
         for id, end_jd in data[d]:
-            anga_name = jyotisha.panchangam.temporal.NAMES[anga_entity['names']][panchangam.script][id]
+            anga_name = NAMES[anga_entity['names']][panchangam.script][id]
             if end_jd is None:
                 anga_collector.append({'name': anga_name})
                 # print ("    %s" % (anga_name))
@@ -92,8 +92,8 @@ def enumerate_anga(panchangam, anga_entity, d):
     return anga_collector
 
 samvatsara_id = (panchangam.year - 1568) % 60 + 1  # distance from prabhava
-samvatsara_names = (jyotisha.panchangam.temporal.NAMES['SAMVATSARA_NAMES'][panchangam.script][samvatsara_id],
-                    jyotisha.panchangam.temporal.NAMES['SAMVATSARA_NAMES'][panchangam.script][(samvatsara_id % 60) + 1])
+samvatsara_names = (NAMES['SAMVATSARA_NAMES'][panchangam.script][samvatsara_id],
+                    NAMES['SAMVATSARA_NAMES'][panchangam.script][(samvatsara_id % 60) + 1])
 yname = samvatsara_names[0]  # Assign year name until Mesha Sankranti
 
 for d in range(1, jyotisha.panchangam.temporal.MAX_SZ - 1):
@@ -117,12 +117,12 @@ for d in range(1, jyotisha.panchangam.temporal.MAX_SZ - 1):
         gulika_end = jyotisha.panchangam.temporal.Time(24 * (panchangam.kaalas[d]['gulika'][1] - jd)).toString(format=panchangam.fmt)        
 
         lunar_month = jyotisha.panchangam.temporal.get_chandra_masa(panchangam.lunar_month[d],
-                                                                 jyotisha.panchangam.temporal.NAMES, panchangam.script)
-        solar_month = jyotisha.panchangam.temporal.NAMES['RASHI_NAMES'][panchangam.script][panchangam.solar_month[d]]
+                                                                 NAMES, panchangam.script)
+        solar_month = NAMES['RASHI_NAMES'][panchangam.script][panchangam.solar_month[d]]
         solar_day = panchangam.solar_month_day[d]
 
-        ayana = jyotisha.panchangam.temporal.NAMES['AYANA_NAMES'][panchangam.script][panchangam.solar_month[d]]
-        rtu = jyotisha.panchangam.temporal.NAMES['RTU_NAMES'][panchangam.script][panchangam.solar_month[d]]
+        ayana = NAMES['AYANA_NAMES'][panchangam.script][panchangam.solar_month[d]]
+        rtu = NAMES['RTU_NAMES'][panchangam.script][panchangam.solar_month[d]]
 
         if panchangam.solar_month[d] == 1:
             # Flip the year name for the remaining days
