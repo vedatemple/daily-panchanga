@@ -84,6 +84,8 @@ for d in range(1, jyotisha.panchangam.temporal.MAX_SZ - 1):
         yama_end = jyotisha.panchangam.temporal.Time(24 * (panchangam.kaalas[d]['yama'][1] - jd)).toString(format=panchangam.fmt)        
         lunar_month = jyotisha.panchangam.temporal.get_chandra_masa(panchangam.lunar_month[d],
                                                                  jyotisha.panchangam.temporal.NAMES, panchangam.script)
+        solar_month = jyotisha.panchangam.temporal.NAMES['RASHI_NAMES'][panchangam.script][panchangam.solar_month[d]]
+        solar_day = panchangam.solar_month_day[d]
 
         d_str = '%s-%s-%s' % (year, m, dt)
         output_collector[d_str] = {
@@ -96,8 +98,9 @@ for d in range(1, jyotisha.panchangam.temporal.MAX_SZ - 1):
             'rahu_end': rahu_end,
             'yama_start': yama_start,
             'yama_end': yama_end,
-            'lunar_month': lunar_month
-
+            'lunar_month': lunar_month,
+            'solar_month': solar_month,
+            'solar_day': solar_day
         }
     except:
         pass

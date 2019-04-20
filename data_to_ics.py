@@ -63,7 +63,8 @@ def item_to_string(item):
     description = f"""{i['weekday']} {i['date']} 
 Daytime: {i['sunrise']} to {i['sunset']}
 
-Month: {i['lunar_month']}
+masa (lunar): {i['lunar_month']}
+masa (solar): {i['solar_month']} - {i['solar_day']}
 {anga_to_string(i, 'tithi')}
 {anga_to_string(i, 'nakshatram')}
 {anga_to_string(i, 'yogam')}
