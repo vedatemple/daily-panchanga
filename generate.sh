@@ -1,4 +1,4 @@
 #!/bin/bash
 
-./generate_json.py --year $1 > data/veda_seattle_$1.json
-cat data/veda_seattle_$1.json | ./json_to_ical.py > data/veda_seattle_$1.ics
+./generate_json.py --city $1 --year $2  > data/veda_$1_$2.json
+cat data/veda_$1_$2.json | ./json_to_ical.py > data/veda_$1_$2.ics

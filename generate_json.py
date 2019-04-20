@@ -18,9 +18,8 @@ MON = {1: 'january', 2: 'february', 3: 'march', 4: 'april',
 WDAY = {0: 'sunday', 1: 'monday', 2: 'tuesday',
         3: 'wednesday', 4: 'thursday', 5: 'friday', 6: 'saturday'}
 
-seattle = City("Seattle", "47.6062", "-122.3321", "US/Pacific")
-
-parser = argparse.ArgumentParser(description='Generate panchanga data for Seattle')
+parser = argparse.ArgumentParser(description='Generate panchanga data')
+parser.add_argument('--city', dest='city', default='seattle', help='city (default: seattle)')
 parser.add_argument('--year', dest='year', type=int, default=2019, help='year (default: 2019)')
 args = parser.parse_args()
 
@@ -32,7 +31,6 @@ def get_time_string(jd_time, jd_base):
 def get_names(fname='./names.json'):
   scripts = [sanscript.DEVANAGARI, sanscript.IAST, sanscript.TAMIL, sanscript.TELUGU]
   with open(fname) as f:
-    import json
     names_dict = json.load(f)
     for dictionary in names_dict:
       if dictionary != 'VARA_NAMES':
@@ -44,6 +42,11 @@ def get_names(fname='./names.json'):
     return names_dict
 
 NAMES = get_names()
+
+def get_places(fname='./places.json'):
+    with open(fname) as f:
+        places_dict = json.load(f)
+    return places_dict
 
 # Prepare a list of common attribute names so that we can reuse code
 # {
@@ -82,7 +85,9 @@ def enumerate_anga(panchangam, anga_entity, d):
     return anga_collector
 
 # generate panchangam
-panchangam = spatio_temporal.annual.get_panchangam(city=seattle, year=args.year, script="iast", precomputed_json_dir="./data/jyotisha")
+place = get_places()[args.city]
+city = City(place['name'], place['lat'], place['lon'], place['tz'])
+panchangam = spatio_temporal.annual.get_panchangam(city=city, year=args.year, script="iast", precomputed_json_dir="./data/jyotisha")
 panchangam.get_kaalas()
 
 samvatsara_id = (panchangam.year - 1568) % 60 + 1  # distance from prabhava
