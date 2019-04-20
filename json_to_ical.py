@@ -13,11 +13,11 @@ import json, pytz
 json_input = stdin.read()
 data = json.loads(json_input)
 
-def anga_to_string(item, anga):    
+def anga_to_string(item, anga, anga_name):
     description_array = []
 
     for v in item[anga]:
-        description = f"{anga}: {v['name']}"
+        description = f"{anga_name}: {v['name']}"
         if 'end' in v:
             description = description + f" until {v['end']}"
         description_array.append(description)
@@ -26,22 +26,22 @@ def anga_to_string(item, anga):
 
 def item_to_string(item):
     description = f"""{i['weekday']} {i['date']} 
-Daytime: {i['sunrise']} to {i['sunset']}
+daytime: {i['sunrise']} to {i['sunset']}
 
-masa (lunar): {i['lunar_month']}
-masa (solar): {i['solar_month']} - {i['solar_day']}
-{anga_to_string(i, 'tithi')}
-{anga_to_string(i, 'nakshatram')}
-{anga_to_string(i, 'yogam')}
-{anga_to_string(i, 'karanam')}
+māsa (lunar): {i['lunar_month']}
+māsa (solar): {i['solar_month']} - {i['solar_day']}
+{anga_to_string(i, 'tithi', 'tithi')}
+{anga_to_string(i, 'nakshatram', 'nakṣatra')}
+{anga_to_string(i, 'yogam', 'yoga')}
+{anga_to_string(i, 'karanam', 'karaṇa')}
 
-varsha: {i['samvatsara']}
+varṣa: {i['samvatsara']}
 ayana: {i['ayana']}
-ritu: {i['rtu']}
+r̥tu: {i['rtu']}
 
-rahu kala: {i['rahu_start']} to {i['rahu_end']}
-yama kala: {i['yama_start']} to {i['yama_end']}
-gulika kala: {i['gulika_start']} to {i['gulika_end']}
+rāhu kāla: {i['rahu_start']} to {i['rahu_end']}
+yama kāla: {i['yama_start']} to {i['yama_end']}
+gulika kāla: {i['gulika_start']} to {i['gulika_end']}
 moon above horizon: {i['moonrise']} to {i['moonset']}"""
 
     return description
