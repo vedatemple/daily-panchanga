@@ -99,6 +99,9 @@ for d in range(1, jyotisha.panchangam.temporal.MAX_SZ - 1):
         solar_month = jyotisha.panchangam.temporal.NAMES['RASHI_NAMES'][panchangam.script][panchangam.solar_month[d]]
         solar_day = panchangam.solar_month_day[d]
 
+        ayana = jyotisha.panchangam.temporal.NAMES['AYANA_NAMES'][panchangam.script][panchangam.solar_month[d]]
+        rtu = jyotisha.panchangam.temporal.NAMES['RTU_NAMES'][panchangam.script][panchangam.solar_month[d]]
+
         if panchangam.solar_month[d] == 1:
             # Flip the year name for the remaining days
             yname = samvatsara_names[1]
@@ -118,6 +121,8 @@ for d in range(1, jyotisha.panchangam.temporal.MAX_SZ - 1):
             'gulika_start': gulika_start,
             'gulika_end': gulika_end,
             'samvatsara': yname,
+            'ayana': ayana,
+            'rtu': rtu,
             'lunar_month': lunar_month,
             'solar_month': solar_month,
             'solar_day': solar_day
