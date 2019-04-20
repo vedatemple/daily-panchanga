@@ -1,5 +1,5 @@
 #!/usr/local/bin/python
-# Based off https://github.com/sanskrit-coders/jyotisha/blob/master/jyotisha/panchangam/scripts/write_monthly_panchangam_tex.py
+# Based off https://github.com/sanskrit-coders/jyotisha/blob/master/jyotisha/panchangam/scripts/
 
 from datetime import datetime
 from pytz import timezone as tz
@@ -21,6 +21,7 @@ WDAY = {0: 'sunday', 1: 'monday', 2: 'tuesday',
 parser = argparse.ArgumentParser(description='Generate panchanga data')
 parser.add_argument('--city', dest='city', default='seattle', help='city (default: seattle)')
 parser.add_argument('--year', dest='year', type=int, default=2019, help='year (default: 2019)')
+parser.add_argument('--lagna', dest='lagna', type=bool, default=False, help='compute langas (default: false)')
 args = parser.parse_args()
 
 def get_time_string(jd_time, jd_base):
@@ -87,7 +88,7 @@ def enumerate_anga(panchangam, anga_entity, d):
 # generate panchangam
 place = get_places()[args.city]
 city = City(place['name'], place['lat'], place['lon'], place['tz'])
-panchangam = spatio_temporal.annual.get_panchangam(city=city, year=args.year, script="iast", precomputed_json_dir="./data/jyotisha")
+panchangam = spatio_temporal.annual.get_panchangam(city=city, year=args.year, compute_lagnams=args.lagna, script="iast", precomputed_json_dir="./data/jyotisha")
 panchangam.get_kaalas()
 
 samvatsara_id = (panchangam.year - 1568) % 60 + 1  # distance from prabhava
@@ -129,6 +130,15 @@ for d in range(1, temporal.MAX_SZ - 1):
         ayana = NAMES['AYANA_NAMES'][panchangam.script][panchangam.solar_month[d]]
         rtu = NAMES['RTU_NAMES'][panchangam.script][panchangam.solar_month[d]]
 
+        lagnas = []
+        if args.lagna:
+            for lagna_ID, lagna_end_jd in panchangam.lagna_data[d]:
+                lagna = NAMES['RASHI_NAMES'][panchangam.script][lagna_ID]
+                lagnas.append({
+                    'lagna': NAMES['RASHI_NAMES'][panchangam.script][lagna_ID],
+                    'lagna_end': get_time_string(lagna_end_jd, jd)
+                })
+
         if panchangam.solar_month[d] == 1:
             # Flip the year name for the remaining days
             yname = samvatsara_names[1]
@@ -155,17 +165,21 @@ for d in range(1, temporal.MAX_SZ - 1):
             'rtu': rtu,
             'lunar_month': lunar_month,
             'solar_month': solar_month,
-            'solar_day': solar_day
+            'solar_day': solar_day,
+            'lagna': lagnas
         }
+
+        # Multi-valued attributes like tithi, nakshatra etc
+        for e in entities:
+            output_collector[d_str][e['json_name']] = enumerate_anga(panchangam, e, d)
+
     except:
         # range has some entries before/after the calendar year
         # which are missing some entries. Skip them.
+        # raise
         pass
 
-    # Multi-valued attributes like tithi, nakshatra etc
-    for e in entities:
-        output_collector[d_str][e['json_name']] = enumerate_anga(panchangam, e, d)
-
+    
 # Take the data we've collected and print it as json to stdout
 json_output = json.dumps(output_collector, indent=4, ensure_ascii=False)
 print (json_output)
