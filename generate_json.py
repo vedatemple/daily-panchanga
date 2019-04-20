@@ -115,7 +115,3 @@ for d in range(1, jyotisha.panchangam.temporal.MAX_SZ - 1):
 
 json_output = json.dumps(output_collector, indent=4, ensure_ascii=False)
 print (json_output)
-
-# data = json.loads(json_output)
-# data_day = data['2019-4-4']
-# print (json.dumps(data_day, indent=4, ensure_ascii=False))
