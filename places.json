@@ -10,5 +10,11 @@
       "lat": "43.6532", 
       "lon": "-79.3832", 
       "tz": "US/Eastern"
+    },
+    "chennai": {
+      "name": "chennai", 
+      "lat": "13.0827", 
+      "lon": "80.2707", 
+      "tz": "Asia/Calcutta"
     }
   }
