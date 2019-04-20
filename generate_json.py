@@ -158,6 +158,8 @@ for d in range(1, temporal.MAX_SZ - 1):
             'solar_day': solar_day
         }
     except:
+        # range has some entries before/after the calendar year
+        # which are missing some entries. Skip them.
         pass
 
     # Multi-valued attributes like tithi, nakshatra etc
