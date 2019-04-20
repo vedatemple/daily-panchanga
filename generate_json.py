@@ -23,7 +23,7 @@ parser = argparse.ArgumentParser(description='Generate panchanga data for Seattl
 parser.add_argument('--year', dest='year', type=int, default=2019, help='year (default: 2019)')
 args = parser.parse_args()
 
-panchangam = jyotisha.panchangam.spatio_temporal.annual.get_panchangam(city=seattle, year=args.year, script="iast")
+panchangam = jyotisha.panchangam.spatio_temporal.annual.get_panchangam(city=seattle, year=args.year, script="iast", precomputed_json_dir="./data/jyotisha")
 
 samvatsara_id = (panchangam.year - 1568) % 60 + 1  # distance from prabhava
 samvatsara_names = '%s–%s' % (jyotisha.panchangam.temporal.NAMES['SAMVATSARA_NAMES'][panchangam.script][samvatsara_id],
