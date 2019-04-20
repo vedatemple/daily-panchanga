@@ -91,6 +91,9 @@ for d in range(1, jyotisha.panchangam.temporal.MAX_SZ - 1):
         rahu_end = jyotisha.panchangam.temporal.Time(24 * (panchangam.kaalas[d]['rahu'][1] - jd)).toString(format=panchangam.fmt)
         yama_start = jyotisha.panchangam.temporal.Time(24 * (panchangam.kaalas[d]['yama'][0] - jd)).toString(format=panchangam.fmt)
         yama_end = jyotisha.panchangam.temporal.Time(24 * (panchangam.kaalas[d]['yama'][1] - jd)).toString(format=panchangam.fmt)        
+        gulika_start = jyotisha.panchangam.temporal.Time(24 * (panchangam.kaalas[d]['gulika'][0] - jd)).toString(format=panchangam.fmt)
+        gulika_end = jyotisha.panchangam.temporal.Time(24 * (panchangam.kaalas[d]['gulika'][1] - jd)).toString(format=panchangam.fmt)        
+
         lunar_month = jyotisha.panchangam.temporal.get_chandra_masa(panchangam.lunar_month[d],
                                                                  jyotisha.panchangam.temporal.NAMES, panchangam.script)
         solar_month = jyotisha.panchangam.temporal.NAMES['RASHI_NAMES'][panchangam.script][panchangam.solar_month[d]]
@@ -112,6 +115,8 @@ for d in range(1, jyotisha.panchangam.temporal.MAX_SZ - 1):
             'rahu_end': rahu_end,
             'yama_start': yama_start,
             'yama_end': yama_end,
+            'gulika_start': gulika_start,
+            'gulika_end': gulika_end,
             'samvatsara': yname,
             'lunar_month': lunar_month,
             'solar_month': solar_month,

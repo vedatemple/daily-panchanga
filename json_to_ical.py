@@ -38,7 +38,8 @@ masa (solar): {i['solar_month']} - {i['solar_day']}
 
 Varsha: {i['samvatsara']}
 Rahu kala: {i['rahu_start']} to {i['rahu_end']}
-Yama kala: {i['yama_start']} to {i['yama_end']}"""
+Yama kala: {i['yama_start']} to {i['yama_end']}
+Gulika kala: {i['gulika_start']} to {i['gulika_end']}"""
 
     return description
 
