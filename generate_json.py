@@ -1,9 +1,10 @@
-
+#!/usr/local/bin/python
 # Based off https://github.com/sanskrit-coders/jyotisha/blob/master/jyotisha/panchangam/scripts/write_monthly_panchangam_tex.py
 
 from datetime import datetime
 from pytz import timezone as tz
 import swisseph as swe
+import argparse
 
 import json
 import jyotisha
@@ -17,9 +18,12 @@ WDAY = {0: 'Sun', 1: 'Mon', 2: 'Tue',
         3: 'Wed', 4: 'Thu', 5: 'Fri', 6: 'Sat'}
 
 seattle = City("Seattle", "47.6062", "-122.3321", "America/Los_Angeles")
-year = 2019
 
-panchangam = jyotisha.panchangam.spatio_temporal.annual.get_panchangam(city=seattle, year=year, script="iast")
+parser = argparse.ArgumentParser(description='Generate panchanga data for Seattle')
+parser.add_argument('--year', dest='year', type=int, default=2019, help='year (default: 2019)')
+args = parser.parse_args()
+
+panchangam = jyotisha.panchangam.spatio_temporal.annual.get_panchangam(city=seattle, year=args.year, script="iast")
 
 samvatsara_id = (panchangam.year - 1568) % 60 + 1  # distance from prabhava
 samvatsara_names = '%s–%s' % (jyotisha.panchangam.temporal.NAMES['SAMVATSARA_NAMES'][panchangam.script][samvatsara_id],
@@ -87,7 +91,7 @@ for d in range(1, jyotisha.panchangam.temporal.MAX_SZ - 1):
         solar_month = jyotisha.panchangam.temporal.NAMES['RASHI_NAMES'][panchangam.script][panchangam.solar_month[d]]
         solar_day = panchangam.solar_month_day[d]
 
-        d_str = '%s-%s-%s' % (year, m, dt)
+        d_str = '%s-%s-%s' % (args.year, m, dt)
         output_collector[d_str] = {
             'date': d_str,
             'month': MON[m],

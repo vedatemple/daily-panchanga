@@ -1,3 +1,5 @@
+#!/usr/local/bin/python
+
 from ics import Calendar, Event
 from datetime import datetime
 from sys import stdin
