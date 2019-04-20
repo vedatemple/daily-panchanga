@@ -6,7 +6,7 @@
 # See the entries in data/veda_seattle_2019.json for the expected input schema
 
 from ics import Calendar, Event
-from datetime import datetime, date, time
+from datetime import datetime, date, time, timedelta
 from sys import stdin
 import json
 import pytz
@@ -64,7 +64,7 @@ def item_to_ical(item):
     ical_event = Event()
     ical_event.name = item_to_name(item)
     ical_event.begin = pacific_date
-    ical_event.end = pacific_date
+    ical_event.end = pacific_date  + timedelta(days=1)
     ical_event.uid = 'veda_daily_panchanga_' + item['date']
     ical_event.description = item_to_string(item)
     return ical_event
