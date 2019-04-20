@@ -8,8 +8,7 @@
 from ics import Calendar, Event
 from datetime import datetime, date, time, timedelta
 from sys import stdin
-import json
-import pytz
+import json, pytz
 
 json_input = stdin.read()
 data = json.loads(json_input)
@@ -36,14 +35,14 @@ masa (solar): {i['solar_month']} - {i['solar_day']}
 {anga_to_string(i, 'yogam')}
 {anga_to_string(i, 'karanam')}
 
-Varsha: {i['samvatsara']}
-Ayana: {i['ayana']}
-Ritu: {i['rtu']}
+varsha: {i['samvatsara']}
+ayana: {i['ayana']}
+ritu: {i['rtu']}
 
-Rahu kala: {i['rahu_start']} to {i['rahu_end']}
-Yama kala: {i['yama_start']} to {i['yama_end']}
-Gulika kala: {i['gulika_start']} to {i['gulika_end']}
-Moon above horizon: {i['moonrise']} to {i['moonset']}"""
+rahu kala: {i['rahu_start']} to {i['rahu_end']}
+yama kala: {i['yama_start']} to {i['yama_end']}
+gulika kala: {i['gulika_start']} to {i['gulika_end']}
+moon above horizon: {i['moonrise']} to {i['moonset']}"""
 
     return description
 

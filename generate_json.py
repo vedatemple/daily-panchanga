@@ -3,15 +3,14 @@
 
 from datetime import datetime
 from pytz import timezone as tz
-import swisseph as swe
-import argparse
+from indic_transliteration import xsanscript as sanscript
+import argparse, json, jyotisha, swisseph as swe
 
 import json
 import jyotisha
 from jyotisha.panchangam import temporal, spatio_temporal
 import jyotisha.panchangam.spatio_temporal.annual
 from jyotisha.panchangam.spatio_temporal import City
-from indic_transliteration import xsanscript as sanscript
 
 MON = {1: 'January', 2: 'February', 3: 'March', 4: 'April',
         5: 'May', 6: 'June', 7: 'July', 8: 'August', 9: 'September',
@@ -73,11 +72,9 @@ def enumerate_anga(panchangam, anga_entity, d):
             anga_name = NAMES[anga_entity['names']][panchangam.script][id]
             if end_jd is None:
                 anga_collector.append({'name': anga_name})
-                # print ("    %s" % (anga_name))
             else:
                 anga_end = temporal.Time(24 * (end_jd - jd)).toString(format=panchangam.fmt)
                 anga_collector.append({'name': anga_name, 'end': anga_end})
-                # print ("    %s: %s" % (anga_name, anga_end))
 
     return anga_collector
 
@@ -159,7 +156,6 @@ for d in range(1, temporal.MAX_SZ - 1):
     # Multi-valued attributes like tithi, nakshatra etc
     for e in entities:
         output_collector[d_str][e['json_name']] = enumerate_anga(panchangam, e, d)
-
 
 # Take the data we've collected and print it as json to stdout
 json_output = json.dumps(output_collector, indent=4, ensure_ascii=False)
