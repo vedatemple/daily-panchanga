@@ -4,8 +4,10 @@
 
 - build the docker image: `docker build -f generate.dockerfile -t daily-panchanga .`
 - run the docker image: `docker run -it -v $(PWD):/host daily-panchanga`
-- in the image, generate teh data: `cd /host && ./generate.sh 2019`
+- in the image, generate the data: `cd /host && ./generate.sh 2019`
 - the output data will be in `./data/veda_seattle_2019.ics`
+
+Note: on windows use `%PWD%` in place of `$(PWD)` for the volume mount
 
 # serve data (seattle)
 
