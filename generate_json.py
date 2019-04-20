@@ -91,7 +91,7 @@ for d in range(1, jyotisha.panchangam.temporal.MAX_SZ - 1):
         solar_month = jyotisha.panchangam.temporal.NAMES['RASHI_NAMES'][panchangam.script][panchangam.solar_month[d]]
         solar_day = panchangam.solar_month_day[d]
 
-        d_str = '%s-%s-%s' % (args.year, m, dt)
+        d_str = '%s-%s-%s' % (args.year, '{0:02d}'.format(m), '{0:02d}'.format(dt))
         output_collector[d_str] = {
             'date': d_str,
             'month': MON[m],
