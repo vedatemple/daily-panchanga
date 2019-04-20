@@ -10,6 +10,7 @@ import json
 import jyotisha
 import jyotisha.panchangam.spatio_temporal.annual
 from jyotisha.panchangam.spatio_temporal import City
+from indic_transliteration import xsanscript as sanscript
 
 MON = {1: 'January', 2: 'February', 3: 'March', 4: 'April',
         5: 'May', 6: 'June', 7: 'July', 8: 'August', 9: 'September',
@@ -23,6 +24,23 @@ parser = argparse.ArgumentParser(description='Generate panchanga data for Seattl
 parser.add_argument('--year', dest='year', type=int, default=2019, help='year (default: 2019)')
 args = parser.parse_args()
 
+# based off https://github.com/sanskrit-coders/jyotisha/blob/master/jyotisha/names/init_names_auto.py
+def get_names(fname='./names.json'):
+  scripts = [sanscript.DEVANAGARI, sanscript.IAST, sanscript.TAMIL, sanscript.TELUGU]
+  with open(fname) as f:
+    import json
+    names_dict = json.load(f)
+    for dictionary in names_dict:
+      if dictionary != 'VARA_NAMES':
+        # Vara Names follow zero indexing, rest don't
+        names_dict[dictionary]['hk'].insert(0, 'aspaShTam')
+
+      for scr in scripts:
+        names_dict[dictionary][scr] = [sanscript.transliterate(name, 'hk', scr) for name in names_dict[dictionary]['hk']]
+    return names_dict
+
+
+NAMES = get_names()
 panchangam = jyotisha.panchangam.spatio_temporal.annual.get_panchangam(city=seattle, year=args.year, script="iast", precomputed_json_dir="./data/jyotisha")
 
 samvatsara_id = (panchangam.year - 1568) % 60 + 1  # distance from prabhava
