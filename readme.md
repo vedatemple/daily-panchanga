@@ -7,7 +7,7 @@
 - in the image, generate the data: `cd /host && ./generate.sh seattle 2019`
 - the output data will be in `./data/veda_seattle_2019.ics`
 
-Note: on windows use `%PWD%` in place of `$(PWD)` for the volume mount
+Note: on windows use `%cd%` in place of `$(PWD)` for the volume mount
 
 # serve data (seattle)
 
